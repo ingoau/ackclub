@@ -61,7 +61,7 @@ export default function ApplicationSuccess() {
         {Date.now() < 1767340800000 ? (
           <Text as="p">
             <Balancer>
-              <em>During the holiday season, it might take a little longer for us to review your application. We appreciate your understanding!</em>
+              <em>During the oliday season, it might take a little longer for us to review your application. We appreciate your understanding!</em>
             </Balancer>
           </Text>
         ) : null}

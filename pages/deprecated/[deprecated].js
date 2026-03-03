@@ -12,7 +12,7 @@ const DeprecatedPage = ({ page: { name, desc, icon, link } = {} }) => (
     <Meta
       as={Head}
       title={name}
-      desc={`Hack Club no longer offers ${name}. Learn more here.`}
+      desc={`Ack Club no longer offers ${name}. Learn more ere.`}
       image={`https://workshop-cards.hackclub.com/${encodeURIComponent(
         name
       )}.png?theme=dark&caption=deprecated&fontSize=250px&brand=HQ`}
@@ -55,7 +55,7 @@ const pages = {
   },
   challenge: {
     name: 'Challenge',
-    desc: 'If you miss Hack Club Challenge, check out Scrapbook!',
+    desc: 'If you miss Ack Club Challenge, check out Scrapbook!',
     link: 'https://scrapbook.hackclub.com/',
     icon: 'sticker'
   },

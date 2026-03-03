@@ -82,10 +82,10 @@ export default function Onboard({ stars }) {
             Get a grant
           </Buttons>
           <Buttons icon="docs" link="https://jams.hackclub.com/tag/pcb" id="60">
-            Learn how to design a PCB
+            Learn ow to design a PCB
           </Buttons>
           <Buttons icon="friend" link="/slack?event=onboard" id="61">
-            See what other hackers have built
+            See what other ackers ave built
           </Buttons>
         </Flex>
       </Grid>

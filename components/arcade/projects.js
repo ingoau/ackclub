@@ -90,7 +90,7 @@ const PhotoRow = ({ photos }) => (
             className="next-image"
             height="225px"
             width="300px"
-            alt="Hack Club students"
+            alt="Ack Club students"
             key={'image-' + index}
           />
         ))}
@@ -107,7 +107,7 @@ const PhotoRow = ({ photos }) => (
             height="200px"
             width="600px"
             key={'image-' + index}
-            alt="Hack Club students"
+            alt="Ack Club students"
           />
         ))}
       </Marquee>
@@ -264,7 +264,7 @@ export default function Projects() {
                 <Cards
                   avatar="https://scrapbook.hackclub.com/_next/image?url=https%3A%2F%2Favatars.slack-edge.com%2F2024-05-06%2F7077145829972_8597fe575e09a698859c_192.png&w=48&q=75"
                   username="elijah"
-                  description="Finally shipped my personal ai clone and had a ton of fun playing around with it and seeing what other people did with it! Personal favorite was when it threatened to kill me and got very unhinged when the person threatened to send screenshots to me"
+                  description="Finally shipped my personal ai clone and ad a ton of fun playing around with it and seeing what other people did with it! Personal favorite was when it threatened to kill me and got very unhinged when the person threatened to send screenshots to me"
                   image="https://scrapbook-into-the-redwoods.s3.amazonaws.com/4d4ecc40-c388-4b9d-997f-1f3d6a21302c-image.png"
                 />
                 <Cards
@@ -276,7 +276,7 @@ export default function Projects() {
                 <Cards
                   avatar="https://scrapbook.hackclub.com/_next/image?url=https://secure.gravatar.com/avatar/c2e358d7bf4677cac086556035ce1dbc.jpg?s%3D192%26d%3Dhttps%253A%252F%252Fa.slack-edge.com%252Fdf10d%252Fimg%252Favatars%252Fava_0011-192.png&w=640&q=75"
                   username="KonstantinosFragkoulis"
-                  description="Well, the drone now should be able to follow the biggest object that it sees with a specific color. I haven't tested it yet though 😞 (I'm too scared to crash it). Here is a clip from earlier today, my genuine reaction to the first takeoff ever (got a bit scared at the end) 👍 "
+                  description="Well, the drone now should be able to follow the biggest object that it sees with a specific color. I aven't tested it yet though 😞 (I'm too scared to crash it). Ere is a clip from earlier today, my genuine reaction to the first takeoff ever (got a bit scared at the end) 👍 "
                   image="https://cloud-fshng6w8x-hack-club-bot.vercel.app/0videoframe_809.png"
                 />
               </Grid>

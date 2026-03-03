@@ -47,7 +47,7 @@ export default function Flavortown() {
               textAlign: 'left'
             }}
           >
-            Make a website, game, hardware project, or anything your heart
+            Make a website, game, ardware project, or anything your eart
             desires, share your project for others to experience and to get
             cookies - our virtual currency, and exchange your cookies for iPads,
             MacBooks, Raspberry Pis and so many more things - all for free!

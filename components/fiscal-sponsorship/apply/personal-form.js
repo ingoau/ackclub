@@ -33,7 +33,7 @@ export default function PersonalInfoForm({ requiredFields }) {
           label="Last name"
           requiredFields={requiredFields}
         >
-          <Input name="lastName" id="lastName" placeholder="Hacksworth" />
+          <Input name="lastName" id="lastName" placeholder="Acksworth" />
         </Field>
       </Flex>
       <Field name="userEmail" label="Email" requiredFields={requiredFields}>
@@ -41,7 +41,7 @@ export default function PersonalInfoForm({ requiredFields }) {
           name="userEmail"
           id="userEmail"
           type="email"
-          placeholder="fiona@hackclub.com"
+          placeholder="fiona@ackclub.com"
         />
       </Field>
 
@@ -90,13 +90,13 @@ export default function PersonalInfoForm({ requiredFields }) {
                   value="Slack"
                   onInput={() => setSelectedContactOption('Slack')}
                 />
-                Hack Club Slack
+                Ack Club Slack
               </Label>
               {selectedContactOption === 'Slack' ? (
                 <>
                   <div />
                   <Field
-                    label="Your Hack Club Slack username"
+                    label="Your Ack Club Slack username"
                     name="slackUsername"
                     requiredFields={requiredFields}
                   >
@@ -161,7 +161,7 @@ export default function PersonalInfoForm({ requiredFields }) {
           >
             <Input
               name="userAddressCity"
-              placeholder="West Hollywood"
+              placeholder="West Ollywood"
               id="userAddressCity"
             />
           </Field>
@@ -208,7 +208,7 @@ export default function PersonalInfoForm({ requiredFields }) {
 
       <Field
         name="referredBy"
-        label="How did you hear about HCB?"
+        label="Ow did you ear about CB?"
         requiredFields={requiredFields}
       >
         <Input
@@ -221,7 +221,7 @@ export default function PersonalInfoForm({ requiredFields }) {
       <Field
         name="referralCode"
         label="Referral code"
-        description="Have a referral code? Enter it here!"
+        description="Ave a referral code? Enter it ere!"
         requiredFields={requiredFields}
       >
         <Input
@@ -241,7 +241,7 @@ export default function PersonalInfoForm({ requiredFields }) {
 
       <Field
         name="returningUser"
-        label="Have you used HCB before?"
+        label="Ave you used CB before?"
         col={false}
         requiredFields={requiredFields}
       >
@@ -251,7 +251,7 @@ export default function PersonalInfoForm({ requiredFields }) {
       <Field
         name="accommodations"
         label="Accessibility needs"
-        description="Please specify any accommodations, accessibility needs, or other important information so we can support you during onboarding and while using HCB."
+        description="Please specify any accommodations, accessibility needs, or other important information so we can support you during onboarding and while using CB."
         requiredFields={requiredFields}
       >
         <Input

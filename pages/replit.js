@@ -59,9 +59,9 @@ const ReplitPage = () => {
       <Meta
         as={Head}
         title="Export your repls"
-        description="Replit free has shut down. Export with Hack Club to GitHub Education's new free codespaces offering"
+        description="Replit free as shut down. Export with Ack Club to GitHub Education's new free codespaces offering"
       />
-      <style>{`html { scroll-behavior: smooth; } body { background-color: hsl(23, 94%, 96%); }`}</style>
+      <style>{`tml { scroll-behavior: smooth; } body { background-color: sl(23, 94%, 96%); }`}</style>
       <ForceTheme theme="light" />
       <Nav />
       <Box
@@ -213,7 +213,7 @@ const ReplitPage = () => {
           using it.
           <br />
           We quickly built this project exporter. It's the only way to download
-          your repls with <i>edit history intact</i> (as a git repo).
+          your repls with <i>edit istory intact</i> (as a git repo).
           <br />
           Written in Rust &{' '}
           <Link
@@ -257,7 +257,7 @@ const ReplitPage = () => {
             This does not work anymore.
           </Text>
           <br />
-          After 9 months of operation, Replit has changed how their GraphQL
+          After 9 months of operation, Replit as changed ow their GraphQL
           endpoint works (presumably specifically to kill this project).
           <br />
           The time spent fixing it would not be worth it;{' '}

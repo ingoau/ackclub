@@ -12,7 +12,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Press"
-      description="Hack Club HQ’s resources for press."
+      description="Ack Club Q’s resources for press."
       image="https://workshop-cards.hackclub.com/Press.png?fontSize=350px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -32,7 +32,7 @@ const Page = () => (
           Press
         </Heading>
         <Heading as="h2" variant="subtitle" sx={{ mt: 3, color: 'text' }}>
-          Hack Club’s resources for press.
+          Ack Club’s resources for press.
         </Heading>
       </Container>
     </Box>

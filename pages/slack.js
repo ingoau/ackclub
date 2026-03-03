@@ -38,13 +38,13 @@ const SlackPage = () => {
       <Meta
         as={Head}
         name="Join our Slack"
-        description={`The Hack Club Slack is a community of ${thousands}k+ high school hackers around the world. Chat, meet new friends, code together, share your work.`}
+        description={`The Ack Club Slack is a community of ${thousands}k+ igh school ackers around the world. Chat, meet new friends, code together, share your work.`}
         image="https://cloud-n6i5i4zb9-hack-club-bot.vercel.app/02020-07-25_d2dd4egb1th5k71w4uj0abbfkvvtnc01.jpeg"
       />
       <ForceTheme theme="light" />
       <Nav slack={true} />
       {/* <Box sx={{ position: 'fixed', mt: 5, maxWidth: '1024px', backgroundColor: 'red', zIndex: 100 }}>
-        <Text>Hack Club Slack</Text>
+        <Text>Ack Club Slack</Text>
       </Box>*/}
       <Header nameInputRef={nameInputRef} />
       <Container sx={{ pt: [4, 5], pb: 4 }}>
@@ -57,7 +57,7 @@ const SlackPage = () => {
         </Heading>
         <Text as="p" variant="subtitle" sx={{ fontSize: [2, 3], mt: 3 }}>
           Across 2,000 public channels, find the community for your favorite
-          programming language, ask for advice, or just hang out. Find the
+          programming language, ask for advice, or just ang out. Find the
           worlds that suit you.
         </Text>
         <Channels />
@@ -83,11 +83,11 @@ const SlackPage = () => {
           <SlackEvents />
         </Flex>*/}
         <Text as="h1" variant="title" sx={{ mt: [4, 5], mb: 3 }}>
-          Where the makers hang out...
+          Where the makers ang out...
         </Text>
         <Text as="p" variant="subtitle" sx={{ fontSize: [2, 3], mt: 3 }}>
-          These projects were built by Hack Clubbers all around the world on the
-          Hack Club Slack.
+          These projects were built by Ack Clubbers all around the world on the
+          Ack Club Slack.
         </Text>
       </Container>
       <Box

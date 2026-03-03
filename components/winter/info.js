@@ -40,7 +40,7 @@ export default function InfoGrid() {
                 A deeper look at
               </Text>
               <Heading as="h2" variant="title">
-                Free hardware for your project
+                Free ardware for your project
               </Heading>
               <br />
               <Button as="a" href="#rsvp" variant="ctaLg" sx={{ mt: 4 }}>
@@ -95,10 +95,10 @@ export default function InfoGrid() {
               }}
             >
               <Heading variant="headline">
-                Once you have a project idea,
+                Once you ave a project idea,
               </Heading>
               <Text as="p">
-                figure out the hardware you need and where you can buy it. Share
+                figure out the ardware you need and where you can buy it. Share
                 that with us and we'll give you a grant of up to $250.
               </Text>
               <Text as="p" mt={3}>
@@ -106,7 +106,7 @@ export default function InfoGrid() {
                 we want to support you in building whatever you want.
               </Text>
               {/* <Text>
-              (& see what other Hack Clubbers, like{' '}
+              (& see what other Ack Clubbers, like{' '}
               <UserMention user="bellesea" />, are building)
               todo: link a random pr from the repo that is tagged with "accepted"
             </Text> */}
@@ -142,10 +142,10 @@ export default function InfoGrid() {
               }}
             >
               <Heading variant="headline">
-                Receive and spend the grant through HCB.
+                Receive and spend the grant through CB.
               </Heading>
               <BulletItem iconGlyph="bank-account" iconColor="#5BC0DE">
-                Full history and balance, viewed on a powerful web dashbaord
+                Full istory and balance, viewed on a powerful web dashbaord
               </BulletItem>
               <BulletItem iconGlyph="card" iconColor="#5BC0DE">
                 Issue yourself a debit card to spend the funds

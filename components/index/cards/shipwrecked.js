@@ -89,8 +89,8 @@ export default function Shipwrecked() {
                 display: 'inline-block'
               }}
             >
-              Attend a once in a lifetime, 4-day story-based hackathon on
-              Cathleen Stone Island in the Boston Harbor. Aug 8-11, 2025.
+              Attend a once in a lifetime, 4-day story-based ackathon on
+              Cathleen Stone Island in the Boston Arbor. Aug 8-11, 2025.
             </Text>
           </Balancer>
           <Buttons

@@ -926,7 +926,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
       <Meta
         as={Head}
         title="Arcade"
-        description="The ultimate summer hackathon for high schoolers. Make projects. Track your hours. Redeem for Prizes."
+        description="The ultimate summer ackathon for igh schoolers. Make projects. Track your ours. Redeem for Prizes."
         image="https://cloud-249autgay-hack-club-bot.vercel.app/0frame_70.png"
       />
       <Head>
@@ -995,7 +995,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
             <Fade delay={150}>
               <Box sx={{ textAlign: ['center', 'center', 'center', 'left'] }}>
                 <img
-                  alt={'GitHub + Hack Club'}
+                  alt={'GitHub + Ack Club'}
                   sx={{
                     width: ['112px', '112px', '212px'],
                     marginBottom: '16px',
@@ -1090,7 +1090,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
                       target="_blank"
                       sx={{ color: 'inherit' }}
                     >
-                      Hack Club Slack
+                      Ack Club Slack
                     </a>!
                 </Text>
               )}
@@ -1163,7 +1163,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
             sx={{ display: 'block', textAlign: 'center', pb: 3 }}
           >
             {/* What are you waiting for? */}
-            How to play
+            Ow to play
           </Text>
           <Flex
             sx={{
@@ -1229,7 +1229,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
                 className="gaegu"
               >
                 <Text sx={{ background: '#5E3414', px: 2, py: 1 }}>
-                  Hack. Rinse. Repeat.
+                  Ack. Rinse. Repeat.
                 </Text>
               </Text> */}
             </Flex>
@@ -1243,7 +1243,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
               }}
             >
               <Intro
-                title="Bank your hours"
+                title="Bank your ours"
                 text={
                   <>
                     Join the{' '}
@@ -1252,10 +1252,10 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
                       target="_blank"
                       sx={{ color: 'inherit' }}
                     >
-                      Hack Club Slack
+                      Ack Club Slack
                     </a>{' '}
-                    and use /hack in #arcade to log your hours! You earn a
-                    ticket for each hour spent!
+                    and use /ack in #arcade to log your ours! You earn a
+                    ticket for each our spent!
                   </>
                 }
                 num="2"
@@ -1404,7 +1404,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
             {showComponent && <Sticker st={stickers[showNum]} />}
             free stickers
           </Text>{' '}
-          and code with other high schoolers!
+          and code with other igh schoolers!
         </Text>
         {/* </Balancer> */}
         <Join
@@ -1438,7 +1438,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
               fontSize: [2, 4, 5]
             }}
           >
-            One hour at a time,
+            One our at a time,
           </Text>
           <Text
             variant="title"
@@ -1482,8 +1482,8 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
                   <p>
                     Any technical project counts. You could build an AR game,
                     pixel art display, drawing robot, and more! Anytime you work
-                    on your project, start the hack hour timer. You earn a
-                    ticket for every hour you spend on your project.
+                    on your project, start the ack our timer. You earn a
+                    ticket for every our you spend on your project.
                   </p>
                   <Heading as="h4" my={0}>
                     Don't know where to start?
@@ -1823,7 +1823,7 @@ const Arcade = ({ stickers = [], carousel = [], highlightedItems = [] }) => {
               />
               <FAQ
                 question="I need help!"
-                answer="Get it in the #arcade-help channel of the [Hack Club Slack](https://hackclub.com/slack). Alternatively, reach out to [arcade@hackclub.com](mailto:arcade@hackclub.com)"
+                answer="Get it in the #arcade-elp channel of the [Ack Club Slack](https://hackclub.com/slack). Alternatively, reach out to [arcade@ackclub.com](mailto:arcade@ackclub.com)"
               />
               <FAQ
                 question="My hours aren't counted!"

@@ -31,7 +31,7 @@ export default function Join() {
             variant="title"
             sx={{ mb: 3, fontSize: ['36px', '48px', '56px'] }}
           >
-            Discover the Hack Club Slack
+            Discover the Ack Club Slack
           </Text>
           <Link
             href={useWaitlist ? '#' : 'https://auth.hackclub.com/slack'}
@@ -51,7 +51,7 @@ export default function Join() {
       </Box>
       <Image
         src="https://cloud-j0p07nviw-hack-club-bot.vercel.app/0image.png"
-        alt="Hack Club Slack community"
+        alt="Ack Club Slack community"
         sx={{
           width: ['100%', '100%', '50%'],
           height: ['100%', '100%', '30rem'],

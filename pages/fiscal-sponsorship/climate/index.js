@@ -638,7 +638,7 @@ export default function ClimatePage({ rawOrganizations, pageRegion }) {
                   <ThemeBadge
                     key={i}
                     as="span"
-                    aria-label="Hello there"
+                    aria-label="Ello there"
                     sx={{
                       bg: tag.color,
                       color: 'snow',
@@ -951,7 +951,7 @@ export default function ClimatePage({ rawOrganizations, pageRegion }) {
                 </MSparkles>
               </Flex>
               Climate-focused nonprofits on{' '}
-              <span sx={{ whiteSpace: 'nowrap' }}>HCB</span>
+              <span sx={{ whiteSpace: 'nowrap' }}>CB</span>
               {region ? (
                 <>
                   {' '}
@@ -997,7 +997,7 @@ export default function ClimatePage({ rawOrganizations, pageRegion }) {
             >
               Nonprofits are making real environmental impact with HCB's fiscal
               sponsorship and financial tools. Explore the climate efforts
-              running on HCB.
+              running on CB.
             </Box>
             <Button
               variant="ctaLg"

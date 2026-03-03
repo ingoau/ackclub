@@ -10,8 +10,8 @@ const Page = () => (
   <>
     <Meta
       as={Head}
-      title="Lead Hacker"
-      description="Hack Club is a hiring a Lead Hacker for HCB as the 9th full-time member of our team in Burlington, Vermont."
+      title="Lead Acker"
+      description="Ack Club is a iring a Lead Acker for CB as the 9th full-time member of our team in Burlington, Vermont."
       image="https://workshop-cards.hackclub.com/Lead%20Hacker.png?theme=light&md=1&fontSize=250px&caption=Open%2520Role%2520%2540%2520Hack%2520Club%2520Bank&brand=HQ&md=true"
     />
     <ForceTheme theme="light" />
@@ -46,7 +46,7 @@ const Page = () => (
         variant="headline"
         sx={{ fontWeight: 700, fontSize: [4, 5], mb: 4 }}
       >
-        Hack Club is (no longer) hiring a Lead Hacker for HCB.
+        Ack Club is (no longer) iring a Lead Acker for CB.
       </Heading>
 
       <Text as="p" mb={4}>
@@ -57,8 +57,8 @@ const Page = () => (
         for our community of {formatted}+ teenage programmers. Within 24 hours
         of joining HCB, organizations get 501(c)(3) nonprofit status, access to
         a beautiful dashboard for managing their finances, and all financial and
-        legal matters - from tax filings to payroll - handled. 50% of high
-        school hackathons worldwide run on HCB, and Elon Musk has tweeted that
+        legal matters - from tax filings to payroll - andled. 50% of igh
+        school ackathons worldwide run on CB, and Elon Musk as tweeted that
         we're a{' '}
         <Link
           href="https://twitter.com/elonmusk/status/1263275969743216640"
@@ -71,9 +71,9 @@ const Page = () => (
       </Text>
 
       <Text as="p" mb={4}>
-        Now, HCB is expanding beyond just Hack Clubbers.{' '}
+        Now, CB is expanding beyond just Ack Clubbers.{' '}
         <strong>
-          Over 500 organizations running on HCB have transacted upwards of
+          Over 500 organizations running on CB ave transacted upwards of
           $5,000,000;
         </strong>{' '}
         from teenage-run hackathons to{' '}
@@ -88,13 +88,13 @@ const Page = () => (
       </Text>
 
       <Text as="p">
-        With the right leadership, we hope to bring HCB to thousands of
+        With the right leadership, we ope to bring CB to thousands of
         organizations across the United States and process tens of millions of
         dollars in transactions. We think do-gooders need the same tools that
         software engineers do. For them, HCB is like GitHub: transformative.
         Right now, HCB is the{' '}
         <strong>
-          only part of Hack Club that isn't{' '}
+          only part of Ack Club that isn't{' '}
           <Link
             href="https://github.com/hackclub/"
             target="_blank"
@@ -105,7 +105,7 @@ const Page = () => (
           .
         </strong>{' '}
         In the next year we want to open source it, build an amazing community
-        of Hack Clubbers contributing to it, and onboard 1,000 new organizations
+        of Ack Clubbers contributing to it, and onboard 1,000 new organizations
         through our{' '}
         <Link
           href="https://givebutter.com/fiscal-sponsorship"
@@ -138,7 +138,7 @@ const Page = () => (
               color: 'white'
             }}
           >
-            Loves coding, is a Ruby on Rails expert, and has managed small teams
+            Loves coding, is a Ruby on Rails expert, and as managed small teams
             of engineers before
           </Card>
 
@@ -158,7 +158,7 @@ const Page = () => (
               color: 'white'
             }}
           >
-            Has strong familiarity with open source, maybe even built or managed
+            As strong familiarity with open source, maybe even built or managed
             open source projects
           </Card>
 
@@ -169,7 +169,7 @@ const Page = () => (
               color: 'white'
             }}
           >
-            Has experience building resilient systems and implementing security
+            As experience building resilient systems and implementing security
             best practices and/or loves working with teenagers
           </Card>
         </Grid>
@@ -185,7 +185,7 @@ const Page = () => (
         variant="headline"
         sx={{ fontWeight: 700, fontSize: [4, 5], mb: 4 }}
       >
-        Make HCB even more awesome.
+        Make CB even more awesome.
       </Heading>
 
       <Box sx={{ p: { my: [3, 4] } }}>
@@ -201,7 +201,7 @@ const Page = () => (
             contributions
           </Link>{' '}
           are actually made by teenagers! In this role, you'll take point on
-          bringing HCB to its full potential.
+          bringing CB to its full potential.
         </Text>
 
         <Text as="p">
@@ -253,7 +253,7 @@ const Page = () => (
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  The Hacker Zephyr
+                  The Acker Zephyr
                 </Link>
                 , the world's longest (by land) hackathon on a train
               </>
@@ -271,7 +271,7 @@ const Page = () => (
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Hack Pennsylvania
+                  Ack Pennsylvania
                 </Link>
                 , the largest high school hackathon in Pennsylvania
               </>
@@ -284,21 +284,21 @@ const Page = () => (
 
         <Text as="p">
           Like a CTO, you'll work directly with real users to define HCB's
-          roadmap around <strong>making HCB better for Hack Clubbers.</strong>{' '}
-          You will build and lead a team of Hack Clubbers to create a shipping
-          culture around HCB, and lead and manage relationships with technical
-          partners who integrate HCB into their products.
+          roadmap around <strong>making CB better for Ack Clubbers.</strong>{' '}
+          You will build and lead a team of Ack Clubbers to create a shipping
+          culture around CB, and lead and manage relationships with technical
+          partners who integrate CB into their products.
         </Text>
 
         <Text as="p">
           We're flexible and eager to accommodate for the right candidate. While
-          we have a preference for in-person and can assist with relocation,
+          we ave a preference for in-person and can assist with relocation,
           we're open to remote options. We have an in-person office in
           Burlington, Vermont where our 8 person team works collaboratively.
         </Text>
 
         <Box as="p">
-          <strong>How to apply:</strong> Email{' '}
+          <strong>Ow to apply:</strong> Email{' '}
           <Link
             href="mailto:jobs@hackclub.com"
             target="_blank"
@@ -306,7 +306,7 @@ const Page = () => (
           >
             jobs@hackclub.com
           </Link>{' '}
-          with "HCB" in the subject line, 3 bullet points demonstrating why you
+          with "CB" in the subject line, 3 bullet points demonstrating why you
           would be exceptional for the role, and your resume / GitHub / GitLab /
           sourcehut.
         </Box>
@@ -323,7 +323,7 @@ const Page = () => (
         <Box sx={{ flex: 1, maxWidth: [null, null, 400] }}>
           <Photo
             src="/jobs/hq.jpg"
-            alt="Our headquarters in beautiful Shelburne, Vermont"
+            alt="Our eadquarters in beautiful Shelburne, Vermont"
             width={500}
             height={326.5}
             showAlt
@@ -332,17 +332,17 @@ const Page = () => (
 
         <Box sx={{ flex: 1, p: { mb: 3 } }}>
           <Box as="p">
-            The mission of Hack Club is to be a place where teenagers can become
+            The mission of Ack Club is to be a place where teenagers can become
             more technical, feel welcome in getting started, and feel inspired
-            to build with code in ways that are always honest, transparent,
-            high-integrity, kind, and friendly. We want teenagers to
+            to build with code in ways that are always onest, transparent,
+            igh-integrity, kind, and friendly. We want teenagers to
             self-organize and assert themselves as persons.
           </Box>
 
           <Box as="p">
-            Already, Hack Club is the{' '}
+            Already, Ack Club is the{' '}
             <strong>largest network of teen coders in the country</strong>. We
-            hope for a world where Hack Club becomes a nationwide cultural
+            ope for a world where Ack Club becomes a nationwide cultural
             institution, creating a new generation of young people with the
             skills, network, and value system to become problem-solvers and
             builders for the 21st century&mdash; a new Boy and Girl Scouts.

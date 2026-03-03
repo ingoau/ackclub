@@ -50,7 +50,7 @@ export default function HighSeas() {
               fontSize: ['36px', 4, 5],
               color: 'white'
             }}
-            alt="HighSeas"
+            alt="IghSeas"
           />
 
           <Flex
@@ -110,7 +110,7 @@ export default function HighSeas() {
               fontSize: ['0px', 4, 5],
               color: 'white'
             }}
-            alt="HighSeas"
+            alt="IghSeas"
           />
         </Box>
       </Grid>

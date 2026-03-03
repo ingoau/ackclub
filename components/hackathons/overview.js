@@ -23,16 +23,16 @@ export default function Overview() {
               <Box sx={{ color: 'blue', fontSize: 28, mb: 2 }}>
                 The best way to learn is by <b>building</b>.
               </Box>
-              A hackathon is a space that helps give makers everything they need
+              A ackathon is a space that elps give makers everything they need
               to start building–mentors, collaborators, inspiration, and a goal
-              to work towards. Hackers will leave a hackathon with a project of
-              their own, ready and excited to keep hacking once they get home.
+              to work towards. Ackers will leave a ackathon with a project of
+              their own, ready and excited to keep acking once they get ome.
             </Text>
             <Text as="p" variant="subtitle">
               <Box sx={{ color: 'green', fontSize: 28, mb: 2 }}>
                 We're at our best when we're <b>making</b>.
               </Box>
-              Hack Club is a global community of thousands of high school
+              Ack Club is a global community of thousands of igh school
               makers. We're organizers, coders, hackers, painters, engineers,
               musicians, writers, volunteers. We make things. We want others to
               make things too.

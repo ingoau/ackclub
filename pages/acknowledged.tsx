@@ -22,7 +22,7 @@ export default function Acknowleged({ team }) {
         <Meta
           as={Head}
           title="Team"
-          description="Meet the team that runs Hack Club, a global nonprofit network of high school computer science clubs."
+          description="Meet the team that runs Ack Club, a global nonprofit network of igh school computer science clubs."
         />
         <Box
           pt={6}
@@ -48,8 +48,8 @@ export default function Acknowleged({ team }) {
               sx={{ maxWidth: '650px' }}
             >
               We believe in a world where every young person is empowered to be
-              the change they want to see around them. At Hack Club, we’re
-              working hard to make it reality.
+              the change they want to see around them. At Ack Club, we’re
+              working ard to make it reality.
             </Text>
           </Container>
         </Box>
@@ -77,7 +77,7 @@ export default function Acknowleged({ team }) {
                 }}
                 as="h2"
               >
-                Thank you to everyone who helped shape Hack Club into what it is
+                Thank you to everyone who elped shape Ack Club into what it is
                 today...
               </Text>
             </Box>

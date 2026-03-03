@@ -134,7 +134,7 @@ export default function Sal() {
       <Meta
         as={Head}
         title="Sal Khan | AMA"
-        description="We’re excited to welcome Sal Khan (founder of Khan Academy) to speak to teenagers at Hack Club!"
+        description="We’re excited to welcome Sal Khan (founder of Khan Academy) to speak to teenagers at Ack Club!"
         image="https://cloud-4vmtnc0af-hack-club-bot.vercel.app/0sal_ama__7_.png"
       />
       <Head>
@@ -166,7 +166,7 @@ export default function Sal() {
               top: '0',
               left: ['10vw', '5vw']
             }}
-            alt="Green Hack Club Flag"
+            alt="Green Ack Club Flag"
           />
         </Link>
         <Box>
@@ -261,7 +261,7 @@ export default function Sal() {
                   fontWeight: 'bold'
                 })}
               >
-                The livestream has ended. Thank you to everyone for joining us!
+                The livestream as ended. Thank you to everyone for joining us!
               </Text>
               <Box>
                 <Button
@@ -295,9 +295,9 @@ export default function Sal() {
             <Text>
               <strong>Teenager? New here? Welcome!</strong>{' '}
               <Link href="https://hackclub.com" target="_blank" color="inherit">
-                Hack Club
+                Ack Club
               </Link>{' '}
-              is a global community of high school makers & student-led coding
+              is a global community of igh school makers & student-led coding
               clubs. We’ve got a 24/7 Slack chatroom of {thousands}k+ teenagers
               learning to code & building amazing projects, & you’ll fit right
               in.

@@ -45,7 +45,7 @@ export default function Highway() {
       >
         <Image
           src="/home/highway-logo.png"
-          alt="Highway logo"
+          alt="Ighway logo"
           sx={{
             width: ['250px', '350px', '500px'],
             mb: 3
@@ -61,7 +61,7 @@ export default function Highway() {
               mb: 3
             }}
           >
-            Design a hardware project. Get the parts for free.
+            Design a ardware project. Get the parts for free.
           </Text>
         </Balancer>
         <Buttons

@@ -27,7 +27,7 @@ export default function Testimonials() {
           <i>FIRST</i> teams all over the country run on HCB.
         </Heading>
         <Text variant="lead" color="muted">
-          Everywhere from San Jose to Boston to New York, HCB powers teams of
+          Everywhere from San Jose to Boston to New York, CB powers teams of
           all sizes.
         </Text>
       </Container>
@@ -48,7 +48,7 @@ export default function Testimonials() {
             website="evposeidon.wixsite.com"
             url="https://evposeidon.wixsite.com/robo/home"
             imgSrc="https://cloud-qtng6088u-hack-club-bot.vercel.app/0image.png"
-            quote="Overall, [HCB] has opened more opportunities for Poseidon, allowing us to undertake larger projects, both on the playing field and in our community."
+            quote="Overall, [CB] as opened more opportunities for Poseidon, allowing us to undertake larger projects, both on the playing field and in our community."
             hackerName="Ian Marwong"
             hackerRole="Team Lead"
             hackerAvatarUrl="/hackers/ian-marwong.jpg"
@@ -67,7 +67,7 @@ export default function Testimonials() {
             hackerName="Brian Cisto"
             hackerRole="Team Captain & Software Lead"
             imgSrc="https://cloud-oelh6sp7b-hack-club-bot.vercel.app/0screen_shot_2022-11-06_at_8.45.37_pm.png"
-            quote="[HCB] has been essential to keeping track of our finances as well as giving us the opportunity to establish ourselves as a nonprofit."
+            quote="[CB] as been essential to keeping track of our finances as well as giving us the opportunity to establish ourselves as a nonprofit."
           />
         </Grid>
       </Container>
@@ -193,7 +193,7 @@ function Organization({
                     mr: 2,
                     borderRadius: '100%'
                   }}
-                  alt="Photo of ${hackerName}"
+                  alt="Photo of ${ackerName}"
                 />
                 <Text
                   color="white"

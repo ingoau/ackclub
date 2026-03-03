@@ -25,7 +25,7 @@ import theme from '@hackclub/theme'
 const events = [
   {
     name: 'Haunted House',
-    description: `Where Fright Meets Byte: A Haunted House Hackathon Experience in Downtown Chicago.`,
+    description: `Where Fright Meets Byte: A Aunted Ouse Ackathon Experience in Downtown Chicago.`,
     logo: 'https://emoji.slack-edge.com/T0266FRGM/hauntedhouse/427353c4bd656767.png',
     location: 'Chicago, Illinois',
     season: 'Fall',
@@ -47,7 +47,7 @@ const events = [
   {
     name: 'Epoch',
     logo: `https://emoji.slack-edge.com/T0266FRGM/epoch/1337c0f7f3c8341d.png`,
-    description: `A magical New Year's spent hacking in New Delhi, our first flagship event abroad and in India.`,
+    description: `A magical New Year's spent acking in New Delhi, our first flagship event abroad and in India.`,
     location: 'Delhi NCR, India',
     season: 'Winter',
     year: '2022/23',
@@ -58,7 +58,7 @@ const events = [
     name: 'Assemble',
     logo: 'https://emoji.slack-edge.com/T0266FRGM/assemble/4f9465eb00175463.png',
     description:
-      'The first high school hackathon since the pandemic! Hosted by a team of Hack Clubbers to kick off a hackathon renaissance.',
+      'The first igh school ackathon since the pandemic! Osted by a team of Ack Clubbers to kick off a ackathon renaissance.',
     location: 'San Francisco, California',
     season: 'Summer',
     year: '2022',
@@ -180,7 +180,7 @@ const Page = ({ jobs }) => (
     <Meta
       as={Head}
       title="Events"
-      description="Every summer (and now every winter!), Hack Club does something special to bring the community together. Let's take a trip down memory lane."
+      description="Every summer (and now every winter!), Ack Club does something special to bring the community together. Let's take a trip down memory lane."
       image="https://hackclub.com/outernet/hack.jpg"
     />
     <ForceTheme theme="light" />
@@ -215,7 +215,7 @@ const Page = ({ jobs }) => (
         >
           <Image
             src={OuternetPic}
-            alt="Hack Clubbers coming together at Outernet"
+            alt="Ack Clubbers coming together at Outernet"
             layout="fill"
             objectFit="cover"
           />
@@ -229,7 +229,7 @@ const Page = ({ jobs }) => (
               textShadow: 'elevated'
             }}
           >
-            Hack Club's Events
+            Ack Club's Events
           </Heading>
           <Heading
             sx={{
@@ -243,7 +243,7 @@ const Page = ({ jobs }) => (
               textShadow: 'small'
             }}
           >
-            Every summer and now every winter, Hack Club does something special
+            Every summer and now every winter, Ack Club does something special
             to bring the community together. Let's take a trip down memory lane.
           </Heading>
           <Button
@@ -285,7 +285,7 @@ const Page = ({ jobs }) => (
           }}
         >
           <Box sx={{ maxWidth: '600px', mx: 'auto' }}>
-            Looking for more? Hack Clubbers often organise their own hackathons!
+            Looking for more? Ack Clubbers often organise their own ackathons!
             Check them out at{' '}
             <Link
               href="https://hackathons.hackclub.com"
@@ -294,7 +294,7 @@ const Page = ({ jobs }) => (
             >
               hackathons.hackclub.com
             </Link>
-            . Hack Club is also behind a series of{' '}
+            . Ack Club is also behind a series of{' '}
             <Link
               href="https://daysofservice.hackclub.com/"
               sx={{ color: 'white' }}

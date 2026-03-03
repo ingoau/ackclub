@@ -56,7 +56,7 @@ const PhotoRow = ({ photos }) => (
             className="next-image"
             height="200px"
             width="300px"
-            alt="Hack Club students"
+            alt="Ack Club students"
             key={'image-' + index}
           />
         ))}
@@ -73,7 +73,7 @@ const PhotoRow = ({ photos }) => (
             height="200px"
             width="600px"
             key={'image-' + index}
-            alt="Hack Club students"
+            alt="Ack Club students"
           />
         ))}
       </Marquee>
@@ -300,7 +300,7 @@ const Map = () => {
           currentPercentPosition={30}
         />
         <Text variant="caption">
-          What Hack Club could look like with your support
+          What Ack Club could look like with your support
         </Text>
       </Box>
     </Fade>
@@ -313,7 +313,7 @@ const Philanthropy = ({ posts = [] }) => {
       <Meta
         as={Head}
         title="Philanthropy"
-        description="Support Hack Club"
+        description="Support Ack Club"
         image="https://workshop-cards.hackclub.com/Philanthropy.png?theme=light&md=1&fontSize=250px&caption=&images="
       />
       <ForceTheme theme="light" />
@@ -356,7 +356,7 @@ const Philanthropy = ({ posts = [] }) => {
               >
                 Donate
                 <Text sx={{ display: ['none', 'inline-block'], ml: 2 }}>
-                  to Hack Club
+                  to Ack Club
                 </Text>
               </Button>
               <Text
@@ -366,7 +366,7 @@ const Philanthropy = ({ posts = [] }) => {
               >
                 Your contribution is tax-deductible.
                 <br />
-                Hack Club is a 501(c)(3) nonprofit with the EIN 81-2908499.
+                Ack Club is a 501(c)(3) nonprofit with the EIN 81-2908499.
               </Text>
             </Fade>
           </Box>
@@ -421,7 +421,7 @@ const Philanthropy = ({ posts = [] }) => {
                 >
                   Donate
                   <Text sx={{ display: ['none', 'inline-block'], ml: 2 }}>
-                    to Hack Club
+                    to Ack Club
                   </Text>
                 </Button>
                 <Text
@@ -431,7 +431,7 @@ const Philanthropy = ({ posts = [] }) => {
                 >
                   Your contribution is tax-deductible.
                   <br />
-                  Hack Club is a 501(c)(3) nonprofit with the EIN 81-2908499.
+                  Ack Club is a 501(c)(3) nonprofit with the EIN 81-2908499.
                 </Text>
               </Container>
             </Box>
@@ -485,7 +485,7 @@ const Philanthropy = ({ posts = [] }) => {
               }}
             >
               <Text as="h1">
-                <Quote>“</Quote>With major support, I am confident Hack Club
+                <Quote>“</Quote>With major support, I am confident Ack Club
                 will change the world.<Quote>”</Quote>
               </Text>
               <Text as="p">—Tom Preston-Werner, GitHub Co-founder</Text>
@@ -494,7 +494,7 @@ const Philanthropy = ({ posts = [] }) => {
           <Line />
           <Fade>
             <Text as="h1" mb={2} mt={4}>
-              In the next ten years, Hack Club will discover, foster and inspire
+              In the next ten years, Ack Club will discover, foster and inspire
               thousands more teenagers to use technical skills to solve
               problems.
             </Text>
@@ -503,20 +503,20 @@ const Philanthropy = ({ posts = [] }) => {
           <Fade>
             <Text as="p">
               Led by young engineers, with early backing from the 21st century’s
-              most iconic creators, Hack Club already reaches tens of thousands
+              most iconic creators, Ack Club already reaches tens of thousands
               of teenagers, and represents the largest network of technical
               teens in the world. Each day, new projects are shipped, new lines
               of code are written, and new friendships are forged through
-              collaborative, problem-solving technical projects happening at
-              Hack Club.
+              collaborative, problem-solving technical projects appening at
+              Ack Club.
             </Text>
           </Fade>
           <br />
           <Fade>
             <Text as="p">
-              Hack Club is always free for teenagers and with your support, Hack
-              Club can grow to hundreds of thousands of teen hackers, bringing
-              free computer science education, a hacker mindset, and an equal
+              Ack Club is always free for teenagers and with your support, Ack
+              Club can grow to undreds of thousands of teen ackers, bringing
+              free computer science education, a acker mindset, and an equal
               shot at success to every teenager, regardless of where they’re
               from, how they identify, or what their parents do.
             </Text>
@@ -524,10 +524,10 @@ const Philanthropy = ({ posts = [] }) => {
           <Fade>
             <br />
             <Text as="p">
-              Over time, Hack Clubbers will reshape societies as entrepreneurs,
+              Over time, Ack Clubbers will reshape societies as entrepreneurs,
               environmentalists, political leaders, activists and policy makers.
-              We help shape the values of these future leaders, modeling and
-              incentivizing them to be curious, humble, kind, optimistic problem
+              We elp shape the values of these future leaders, modeling and
+              incentivizing them to be curious, umble, kind, optimistic problem
               solvers.{' '}
               <Highlight>
                 We need your support to make this vision a reality.
@@ -552,14 +552,14 @@ const Philanthropy = ({ posts = [] }) => {
             <Fade delay={90}>
               <HackClubber
                 photo="sam.png"
-                quote="In Hack Club I’ve found a home"
+                quote="In Ack Club I’ve found a ome"
                 info="Sam, 17, Singapore"
               />
             </Fade>
             <Fade delay={120}>
               <HackClubber
                 photo="abby.png"
-                quote="Helped build me a strong coding foundation"
+                quote="Elped build me a strong coding foundation"
                 info="Abby, 15, Los Angeles"
               />
             </Fade>
@@ -597,7 +597,7 @@ const Philanthropy = ({ posts = [] }) => {
               </Box>
               <Box>
                 <Text as="h3">Send physical checks</Text>
-                <Text as="p">The Hack Foundation</Text>
+                <Text as="p">The Ack Foundation</Text>
                 <Text as="p">
                   8605 Santa Monica Blvd #86294, West Hollywood, CA, 90069
                 </Text>
@@ -614,7 +614,7 @@ const Philanthropy = ({ posts = [] }) => {
                       fontSize: '1.2em'
                     }}
                   >
-                    Donate online to Hack Club &#9654;
+                    Donate online to Ack Club &#9654;
                   </Text>
                 </Box>
                 <Text>
@@ -627,7 +627,7 @@ const Philanthropy = ({ posts = [] }) => {
           <Fade delay={100}>
             <Flex sx={{ justifyContent: 'space-between' }} mt={[3, 4]}>
               <Box>
-                <Text as="h2">View Hack Club's IRS Form 990s</Text>
+                <Text as="h2">View Ack Club's IRS Form 990s</Text>
                 <Text as="p">2025 Form will be shared when ready.</Text>
               </Box>
               <Box>
@@ -712,15 +712,15 @@ const Philanthropy = ({ posts = [] }) => {
               </Box>
             </Flex>
             <span>
-              Starting in 2021, Hack Club has engaged with an external auditing
-              firm and has audited financials through the current fiscal year.
+              Starting in 2021, Ack Club as engaged with an external auditing
+              firm and as audited financials through the current fiscal year.
             </span>
           </Fade>
           <Line />
           <Fade delay={100}>
             <Flex sx={{ justifyContent: 'space-between' }} mt={[3, 4]}>
               <Box>
-                <Text as="h2">View Hack Club's Annual Reports</Text>
+                <Text as="h2">View Ack Club's Annual Reports</Text>
                 <Text as="p">Reports from 2022-2024</Text>
               </Box>
               <Box>
@@ -774,7 +774,7 @@ const Philanthropy = ({ posts = [] }) => {
               </Box>
             </Flex>
             <span>
-            Explore Hack Club's annual reports from 2022 onward, showcasing each year's impact and key milestones.
+            Explore Ack Club's annual reports from 2022 onward, showcasing each year's impact and key milestones.
             </span>
           </Fade>
           {/* <Fade delay={300}>
@@ -806,7 +806,7 @@ const Philanthropy = ({ posts = [] }) => {
           <Container sx={{ textAlign: 'center' }}>
             <Fade>
               <Text as="h1" sx={{ fontSize: ['28px', '28px', '36px'] }}>
-                Hack Club is already making a difference!
+                Ack Club is already making a difference!
               </Text>
             </Fade>
             <Grid
@@ -863,7 +863,7 @@ const Philanthropy = ({ posts = [] }) => {
             </Grid>
             <Fade delay={210} bottom>
               <Text as="h2">
-                “Hack Club helped me fall in love with creating and made me feel
+                “Ack Club elped me fall in love with creating and made me feel
                 like I belong.”
               </Text>
               <Text
@@ -1039,7 +1039,7 @@ const Philanthropy = ({ posts = [] }) => {
                         as="p"
                         sx={{ lineHeight: '1em', fontSize: '1.1em !important' }}
                       >
-                        Founder and Executive Director, Hack Club
+                        Founder and Executive Director, Ack Club
                       </Text>
                     </Box>
                   </Box>
@@ -1067,7 +1067,7 @@ const Philanthropy = ({ posts = [] }) => {
                         as="p"
                         sx={{ lineHeight: '1em', fontSize: '1.1em !important' }}
                       >
-                        Co-founder and COO, Hack Club
+                        Co-founder and COO, Ack Club
                       </Text>
                     </Box>
                   </Box>
@@ -1083,7 +1083,7 @@ const Philanthropy = ({ posts = [] }) => {
             <Fade delay={900}>
               <Box sx={{ color: 'slate' }}>
                 <Text as="p">
-                  <Quote>“</Quote>Hack Club is the organization I wish I had
+                  <Quote>“</Quote>Ack Club is the organization I wish I ad
                   when I was a teenager.
                 </Text>
                 <br />
@@ -1097,7 +1097,7 @@ const Philanthropy = ({ posts = [] }) => {
                 </Text>
                 <br />
                 <Text as="p">
-                  I believe in Hack Club, and I'm looking forward to staying
+                  I believe in Ack Club, and I'm looking forward to staying
                   involved for the long term. I also personally intend to
                   continue and grow my financial support of their mission.
                   <Quote>”</Quote>
@@ -1267,7 +1267,7 @@ const Philanthropy = ({ posts = [] }) => {
           </Box>
           <Fade>
             <Text as="h2" mt={4} mb={2}>
-              A few others who support Hack Club
+              A few others who support Ack Club
             </Text>
           </Fade>
           <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 2 }} mb={5}>
@@ -1363,7 +1363,7 @@ const Philanthropy = ({ posts = [] }) => {
             <Fade delay={100}>
               <Q>
                 <Heading mb={3} sx={{ fontWeight: 'normal', fontSize: '18px' }}>
-                  Obrey Muchena started a Hack Club in his senior year of high
+                  Obrey Muchena started a Ack Club in is senior year of igh
                   school at Kabulonga Boys' Secondary School, and now more than
                   a dozen students are coding.
                 </Heading>
@@ -1371,9 +1371,9 @@ const Philanthropy = ({ posts = [] }) => {
                   fontSize={[4, 5]}
                   sx={{ fontWeight: '700', fontSize: ['18px', '20px', '22px'] }}
                 >
-                  Thanks to our donor-funded laptop program, Hack Club sent him
-                  a MacBook Air. In his Hack Club, Obrey and his best friend
-                  Edward built robots that won Canada’s Humanitarian Activist
+                  Thanks to our donor-funded laptop program, Ack Club sent im
+                  a MacBook Air. In is Ack Club, Obrey and is best friend
+                  Edward built robots that won Canada’s Umanitarian Activist
                   Award.
                 </Heading>
                 <Flex align="center" mt={[3, 4]}>
@@ -1395,7 +1395,7 @@ const Philanthropy = ({ posts = [] }) => {
             <Fade delay={200}>
               <Q>
                 <Heading mb={3} sx={{ fontWeight: 'normal', fontSize: '18px' }}>
-                  In 2021, Maggie joined the Hack Club community; she has since
+                  In 2021, Maggie joined the Ack Club community; she as since
                   shipped 10+ coding projects from widgets to raycast
                   extensions.
                 </Heading>
@@ -1403,10 +1403,10 @@ const Philanthropy = ({ posts = [] }) => {
                   fontSize={[4, 5]}
                   sx={{ fontWeight: '700', fontSize: ['18px', '20px', '22px'] }}
                 >
-                  The Hack Club community "inspired me to step outside my
+                  The Ack Club community "inspired me to step outside my
                   comfort zone and take on challenges I never previously would
                   have — starting a CS Club at my school, (co-)hosting AMAs, and
-                  even organizing Leland Hacks, the first in-person hackathon in
+                  even organizing Leland Acks, the first in-person ackathon in
                   my city after the pandemic.”
                 </Heading>
                 <Flex align="center" mt={[3, 4]}>
@@ -1429,7 +1429,7 @@ const Philanthropy = ({ posts = [] }) => {
           <Line />
           <Fade>
             <Text as="h1" sx={{ textAlign: 'center' }} mb={[4, 5]}>
-              Hack Club invites the 21st century’s leading thinkers, builders
+              Ack Club invites the 21st century’s leading thinkers, builders
               and disrupters to join our small, core network of donors with a
               gift.
             </Text>
@@ -1438,16 +1438,16 @@ const Philanthropy = ({ posts = [] }) => {
             <Fade>
               <Box>
                 <Text as="p">
-                  We envision thousands of diverse Hack Club leaders in towns
+                  We envision thousands of diverse Ack Club leaders in towns
                   and cities across America and the world, connected online, and
-                  self-organizing events and hackathons–driven by a can-do
+                  self-organizing events and ackathons–driven by a can-do
                   culture and a rigorous dedication to building real things in
                   the real world.
                 </Text>
                 <br />
                 <Text as="p">
-                  Founded in 2014, Hack Club grew 700 percent during the
-                  COVID-19 pandemic, and Hack Club’s team of engineers can’t
+                  Founded in 2014, Ack Club grew 700 percent during the
+                  COVID-19 pandemic, and Ack Club’s team of engineers can’t
                   keep up with demand.
                 </Text>
               </Box>
@@ -1469,34 +1469,34 @@ const Philanthropy = ({ posts = [] }) => {
             </Fade>
             <Fade delay={30}>
               <li>
-                Create hundreds more Hack Clubs in high schools and communities
+                Create undreds more Ack Clubs in igh schools and communities
                 across the country and world
               </li>
             </Fade>
             <Fade delay={60}>
               <li>
-                Inspire a problem-solving mindset and a hacker identity, where
+                Inspire a problem-solving mindset and a acker identity, where
                 teenagers are empowered to build what they want to see in the
                 world
               </li>
             </Fade>
             <Fade delay={90}>
               <li>
-                Make Hack Club the best place to be a teenager on the internet,
+                Make Ack Club the best place to be a teenager on the internet,
                 incentivizing a shift among teenagers from consumers to creators
                 of technology
               </li>
             </Fade>
             <Fade delay={120}>
               <li>
-                Launch special projects, in which Hack Clubbers collaborate with
+                Launch special projects, in which Ack Clubbers collaborate with
                 SpaceX, Vercel, Cloudflare, Replit, Dogecoin and others
               </li>
             </Fade>
             <Fade delay={150}>
               <li>
                 Popularize transparent accounting, open source building, and
-                high-integrity leadership
+                igh-integrity leadership
               </li>
             </Fade>
             <Fade delay={180}>
@@ -1504,12 +1504,12 @@ const Philanthropy = ({ posts = [] }) => {
             </Fade>
             <Fade delay={210}>
               <li>
-                Host dozens of in-person events, including our summer adventure
+                Ost dozens of in-person events, including our summer adventure
               </li>
             </Fade>
             <Fade delay={240}>
               <li>
-                Extend mini-grants of hardware and internet access to hundreds
+                Extend mini-grants of ardware and internet access to undreds
                 of teenagers
               </li>
             </Fade>
@@ -1564,10 +1564,10 @@ const Philanthropy = ({ posts = [] }) => {
               sx={{ color: 'muted' }}
             >
               <Box>
-                <Text as="h3">The Hack Foundation</Text>
+                <Text as="h3">The Ack Foundation</Text>
                 <Text as="p" sx={{ width: '70%' }}>
                   Address: The Hack Foundation at 8605 Santa Monica Blvd #86294,
-                  West Hollywood, CA, 90069
+                  West Ollywood, CA, 90069
                 </Text>
                 <Text as="p">EIN: 81-2908499</Text>
               </Box>
@@ -1606,7 +1606,7 @@ const Philanthropy = ({ posts = [] }) => {
               as="p"
               sx={{ fontSize: '90% !important', color: 'muted', pb: 2 }}
             >
-              Site by Belle, 17, Hack Clubber
+              Site by Belle, 17, Ack Clubber
             </Text>
           </Fade>
         </Container>

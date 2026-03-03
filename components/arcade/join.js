@@ -181,7 +181,7 @@ const Join = ({ fold, last, showForm, setForm, formSent, setFormSent }) => {
                 <input
                   type="email"
                   id="email"
-                  placeholder="your email here"
+                  placeholder="your email ere"
                   value={email}
                   onChange={e => setEmail(e.target.value)}
                   required

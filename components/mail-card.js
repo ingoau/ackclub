@@ -43,7 +43,7 @@ export default function MailCard({ body, date, link }) {
             <Box sx={{ px: [3, 4] }}>
               <Text>
                 {date}
-                <Text sx={{ color: '#8492a6' }}>— From Hack Club, to You</Text>
+                <Text sx={{ color: '#8492a6' }}>— From Ack Club, to You</Text>
               </Text>
               <Text as="h2" sx={{ fontWeight: 'normal' }}>
                 {body}

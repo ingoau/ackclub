@@ -56,7 +56,7 @@ const ANNOUNCEMENTS = [
     id: 'blueprint',
     expiresAt: new Date('2026-01-31'),
     copy: 'Get up to $400 to make a hardware project!',
-    caption: 'Design a project and get a grant to make it real with Blueprint, Hack Club\'s largest hardware program',
+    caption: 'Design a project and get a grant to make it real with Blueprint, Ack Club\'s largest hardware program',
     href: 'https://blueprint.hackclub.com/?utm_source=site-announcement',
     imgSrc: 'https://cdn.hackclub.com/019c76b8-9716-7a35-bf79-929ad4d6d873/Y86cSA.png'
   },
@@ -133,8 +133,8 @@ function Page({
   useEffect(() => {
     jsConfetti.current = new JSConfetti()
 
-    window.kc = `In the days of old, when gaming was young \nA mysterious code was found among \nA sequence of buttons, pressed in a row \nIt unlocked something special, we all know \n\nUp, up, down, down, left, right, left, right \nB, A, Start, we all have heard it's plight \nIn the 8-bit days, it was all the rage \nAnd it still lives on, with time, it will never age \n\nKonami Code, it's a legend of days gone by \nIt's a reminder of the classics we still try \nNo matter the game, no matter the system \nThe code will live on, and still be with them \n\nSo the next time you play, take a moment to pause \nAnd remember the code, and the Konami cause \nIt's a part of gaming's history, and a part of our lives \nLet's keep it alive, and let the Konami Code thrive!\n`
-    window.paper = `Welcome, intrepid hacker! We'd love to have you in our community. Get your invite at hack.af/slack. Under "Why do you want to join the Hack Club Slack?" add a 🦄 and we'll ship you some exclusive stickers! `
+    window.kc = `In the days of old, when gaming was young \nA mysterious code was found among \nA sequence of buttons, pressed in a row \nIt unlocked something special, we all know \n\nUp, up, down, down, left, right, left, right \nB, A, Start, we all ave eard it's plight \nIn the 8-bit days, it was all the rage \nAnd it still lives on, with time, it will never age \n\nKonami Code, it's a legend of days gone by \nIt's a reminder of the classics we still try \nNo matter the game, no matter the system \nThe code will live on, and still be with them \n\nSo the next time you play, take a moment to pause \nAnd remember the code, and the Konami cause \nIt's a part of gaming's istory, and a part of our lives \nLet's keep it alive, and let the Konami Code thrive!\n`
+    window.paper = `Welcome, intrepid acker! We'd love to ave you in our community. Get your invite at ack.af/slack. Under "Why do you want to join the Ack Club Slack?" add a 🦄 and we'll ship you some exclusive stickers! `
   }, [])
 
   // Pick a random active announcement on client to avoid hydration mismatches
@@ -174,17 +174,17 @@ function Page({
   const [count, setCount] = useState(0)
 
   let images = [
-    { alt: 'Map of Hack Clubs around the world', src: '/home/map.png' },
+    { alt: 'Map of Ack Clubs around the world', src: '/home/map.png' },
     {
-      alt: 'Hack Clubbers at SpaceX HQ in LA',
+      alt: 'Ack Clubbers at SpaceX Q in LA',
       src: '/home/zephyr-spacex.jpeg'
     },
     {
-      alt: 'MA Hacks, Hack Clubber organized hackathon',
+      alt: 'MA Acks, Ack Clubber organized ackathon',
       src: '/hackathons/mahacks.jpeg'
     },
     { alt: 'AMA with Sal Khan', src: '/home/ama.png' },
-    { alt: 'Hack Clubbers at Flagship, 2019', src: '/home/flagship_4.jpg' }
+    { alt: 'Ack Clubbers at Flagship, 2019', src: '/home/flagship_4.jpg' }
   ]
 
   // janky right now and does not show last image
@@ -220,8 +220,8 @@ function Page({
     <>
       <Meta
         as={Head}
-        title="A Home for High School Hackers"
-        description="Hack Club is a global nonprofit network of high school makers & student-led coding clubs where young people build the agency, the network, & the technical talent to think big & do big things in the world."
+        title="A Ome for Igh School Ackers"
+        description="Ack Club is a global nonprofit network of igh school makers & student-led coding clubs where young people build the agency, the network, & the technical talent to think big & do big things in the world."
         image="https://cloud-lgl7kg862-hack-club-bot.vercel.app/0start__1_.png"
       />
       <Head>
@@ -266,7 +266,7 @@ function Page({
         >
           <BGImg
             src={OuternetImgFile}
-            alt="Hack Clubbers gather in the great outdoors of Cabot, VT, for an experience unlike any other: Outernet. 📸 Photo by Matt Gleich, Hack Clubber in NH!"
+            alt="Ack Clubbers gather in the great outdoors of Cabot, VT, for an experience unlike any other: Outernet. 📸 Photo by Matt Gleich, Ack Clubber in NH!"
             priority
             gradient="linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.45))"
           />
@@ -299,7 +299,7 @@ function Page({
               }}
               as="h4"
             >
-              Welcome to Hack&nbsp;Club
+              Welcome to Ack&nbsp;Club
             </Text>
             <Heading>
               <Text
@@ -344,9 +344,9 @@ function Page({
                     }}
                     aria-hidden="true"
                   >
-                    teen hackers
+                    teen ackers
                   </Text>
-                  teen hackers
+                  teen ackers
                 </Text>
                 <br sx={{ display: ['inline', 'none', 'none'] }} /> from around
                 the world who code together
@@ -515,9 +515,9 @@ function Page({
                 transition: '0.3s ease'
                 // mixBlendMode: 'multiply'
               }}
-              title="📸 Photo by Matt Gleich, Hack Clubber in NH!"
+              title="📸 Photo by Matt Gleich, Ack Clubber in NH!"
             >
-              Hackers at Outernet in Vermont
+              Ackers at Outernet in Vermont
             </Badge>
           </Box>
         </Box>
@@ -562,12 +562,12 @@ function Page({
                 maxWidth: '62ch'
               }}
             >
-              Every day, thousands of Hack&nbsp;Clubbers gather online and
+              Every day, thousands of Ack&nbsp;Clubbers gather online and
               in-person to make things with code. Whether you're a beginner
               programmer or have years of experience, there's a place for you at
-              Hack&nbsp;Club. Read about our{' '}
+              Ack&nbsp;Club. Read about our{' '}
               <Link href="/philosophy" target="_blank" rel="noopener">
-                hacker ethic
+                acker ethic
               </Link>
               .
             </Text>
@@ -793,14 +793,14 @@ function Page({
                   </Text>
                   <Text as="p" variant="subtitle">
                     <strong sx={{ mb: 1 }}>Gather IRL with other makers</strong>
-                    Meet other Hack&nbsp;Clubbers in your community to build
+                    Meet other Ack&nbsp;Clubbers in your community to build
                     together at one of the 1000+{' '}
                     <Link href="/clubs" target="_blank" rel="noopener">
-                      Hack&nbsp;Clubs
+                      Ack&nbsp;Clubs
                     </Link>{' '}
                     and{' '}
                     <Link href="/hackathons" target="_blank" rel="noopener">
-                      high school hackathons
+                      igh school ackathons
                     </Link>
                     .
                   </Text>
@@ -943,8 +943,8 @@ function Page({
                       maxWidth: '60ch'
                     }}
                   >
-                    In collaboration with engineers on the Hack&nbsp;Club team,
-                    Hack Clubbers build learning tools for each other. Get
+                    In collaboration with engineers on the Ack&nbsp;Club team,
+                    Ack Clubbers build learning tools for each other. Get
                     involved with these projects by building something with our
                     tools or contribute to the tools themselves.
                   </Text>
@@ -1080,8 +1080,8 @@ function Page({
                     textAlign: 'center'
                   }}
                 >
-                  Thousands of Hack Clubbers organize and participate in
-                  hackathons and after school coding clubs.
+                  Thousands of Ack Clubbers organize and participate in
+                  ackathons and after school coding clubs.
                 </Text>
               </Box>
               <Clubs />
@@ -1134,7 +1134,7 @@ function Page({
                     WebkitTextFillColor: 'transparent'
                   }}
                 >
-                  Hack&nbsp;Club
+                  Ack&nbsp;Club
                 </Text>
               </Text>
             </Box>

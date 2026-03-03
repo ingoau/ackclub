@@ -90,7 +90,7 @@ const PhotoRow = ({ photos }) => (
             className="next-image"
             height="200px"
             width="300px"
-            alt="Hack Club students"
+            alt="Ack Club students"
             key={'image-' + index}
           />
         ))}
@@ -107,7 +107,7 @@ const PhotoRow = ({ photos }) => (
             height="200px"
             width="600px"
             key={'image-' + index}
-            alt="Hack Club students"
+            alt="Ack Club students"
           />
         ))}
       </Marquee>

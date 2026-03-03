@@ -45,13 +45,13 @@ export default function KeepExploring() {
             }}
             as="a"
           >
-            Meet other hackers
+            Meet other ackers
           </Button>
         </Link>
 
         <Link href="https://hackathons.hackclub.com" passHref>
           <Button sx={{ bg: 'white', color: 'red', fontSize: [2, 3] }} as="a">
-            Discover more hackathons
+            Discover more ackathons
           </Button>
         </Link>
       </Box>

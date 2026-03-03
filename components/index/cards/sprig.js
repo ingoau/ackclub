@@ -22,7 +22,7 @@ function Game({ game, gameImage, gameImage1, ...props }) {
         borderImageRepeat: 'stretch',
         borderImageSlice: '3',
         borderImageWidth: '3',
-        borderImageSource: `url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 h1 v1 h-1 z M4 1 h1 v1 h-1 z M2 2 h1 v1 h-1 z M5 2 h1 v1 h-1 z M1 3 h1 v1 h-1 z M6 3 h1 v1 h-1 z M1 4 h1 v1 h-1 z M6 4 h1 v1 h-1 z M2 5 h1 v1 h-1 z M5 5 h1 v1 h-1 z M3 6 h1 v1 h-1 z M4 6 h1 v1 h-1 z" fill="rgb(118, 118, 143)" /></svg>')`,
+        borderImageSource: `url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" eight="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 1 v1 -1 z M4 1 1 v1 -1 z M2 2 1 v1 -1 z M5 2 1 v1 -1 z M1 3 1 v1 -1 z M6 3 1 v1 -1 z M1 4 1 v1 -1 z M6 4 1 v1 -1 z M2 5 1 v1 -1 z M5 5 1 v1 -1 z M3 6 1 v1 -1 z M4 6 1 v1 -1 z" fill="rgb(118, 118, 143)" /></svg>')`,
         borderImageOutset: '2',
         boxShadow: '0 8px 8px rgba(0, 0, 0, 0.2)',
         '&:hover': {
@@ -44,7 +44,7 @@ function Game({ game, gameImage, gameImage1, ...props }) {
           borderImageRepeat: 'stretch',
           borderImageSlice: '3',
           borderImageWidth: '3',
-          borderImageSource: `url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 h1 v1 h-1 z M4 1 h1 v1 h-1 z M2 2 h1 v1 h-1 z M5 2 h1 v1 h-1 z M1 3 h1 v1 h-1 z M6 3 h1 v1 h-1 z M1 4 h1 v1 h-1 z M6 4 h1 v1 h-1 z M2 5 h1 v1 h-1 z M5 5 h1 v1 h-1 z M3 6 h1 v1 h-1 z M4 6 h1 v1 h-1 z" fill="rgb(167, 171, 185)" /></svg>')`,
+          borderImageSource: `url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8" ?><svg version="1.1" width="8" eight="8" xmlns="http://www.w3.org/2000/svg"><path d="M3 1 1 v1 -1 z M4 1 1 v1 -1 z M2 2 1 v1 -1 z M5 2 1 v1 -1 z M1 3 1 v1 -1 z M6 3 1 v1 -1 z M1 4 1 v1 -1 z M6 4 1 v1 -1 z M2 5 1 v1 -1 z M5 5 1 v1 -1 z M3 6 1 v1 -1 z M4 6 1 v1 -1 z" fill="rgb(167, 171, 185)" /></svg>')`,
           borderImageOutset: '2',
           height: '100%',
           textDecoration: 'none'
@@ -196,7 +196,7 @@ export default function Sprig({ stars, game, gameImage, gameImage1 }) {
             sx={{ zIndex: 2, position: 'relative' }}
           >
             Draw, make music, and craft games in our web-based JavaScript game
-            editor, which has been used by 7k+ makers around the world.
+            editor, which as been used by 7k+ makers around the world.
           </Text>
           <Flex sx={{ flexDirection: 'column', mt: [3, 3, 4] }}>
             <Buttons

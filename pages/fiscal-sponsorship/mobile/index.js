@@ -35,8 +35,8 @@ const MobilePage = () => (
   <>
     <Meta
       as={Head}
-      title="HCB Mobile is here!"
-      description="Manage your HCB organizations on the go. Issue cards, view transactions, and more!"
+      title="CB Mobile is ere!"
+      description="Manage your CB organizations on the go. Issue cards, view transactions, and more!"
       image="https://cdn.hackclub.com/019c76ba-15be-7e16-b6a7-adca9ccae9c0/Ueb-LA.png"
     />
     <ForceTheme theme="light" />
@@ -63,7 +63,7 @@ const MobilePage = () => (
             }
           }}
         >
-          <Link href="/fiscal-sponsorship">HCB</Link> Mobile is here!
+          <Link href="/fiscal-sponsorship">CB</Link> Mobile is here!
         </Heading>
         <Balancer>
           <Heading
@@ -77,7 +77,7 @@ const MobilePage = () => (
               mx: 'auto'
             }}
           >
-            Manage your HCB organizations on the go. Issue cards, view
+            Manage your CB organizations on the go. Issue cards, view
             transactions, and more!
           </Heading>
         </Balancer>

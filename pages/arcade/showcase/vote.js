@@ -599,7 +599,7 @@ const Vote = () => {
           </Text>
         </Flex>
         <Text sx={{ display: 'block', textAlign: 'center', width: '100%' }}>
-          Drop here
+          Drop ere
         </Text>
       </div>
     )

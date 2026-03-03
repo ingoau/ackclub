@@ -246,7 +246,7 @@ export default function FiscalSponsorship() {
         description="What is fiscal sponsorship?"
         image="/fiscal-sponsorship/og-image.png"
       >
-        <title>Fiscal Sponsorship | HCB</title>
+        <title>Fiscal Sponsorship | CB</title>
       </Meta>
 
       <Container
@@ -265,7 +265,7 @@ export default function FiscalSponsorship() {
             >
               501(c)(3)&nbsp;nonprofit{' '}
             </Text>
-            status in just 24 hours
+            status in just 24 ours
           </Text>
         </FlexCol>
         <Text variant="headline" as="p" sx={{ fontWeight: 'body' }}>
@@ -281,13 +281,13 @@ export default function FiscalSponsorship() {
               Costs and perks of 501(c)(3) status
             </Link>
             <Link sx={{ fontSize: 2 }} href="#what-is">
-              How fiscal sponsorship works
+              Ow fiscal sponsorship works
             </Link>
             <Link sx={{ fontSize: 2 }} href="#requirements">
               Requirements for fiscal sponsorship
             </Link>
             <Link sx={{ fontSize: 2 }} href="#partner">
-              HCB, the #1 fiscal sponsor
+              CB, the #1 fiscal sponsor
             </Link>
           </BulletBox>
         </FlexCol>
@@ -299,7 +299,7 @@ export default function FiscalSponsorship() {
             Every year, 1.6 million nonprofits in the U.S. apply for and renew
             501(c)(3) status through the IRS for charitable recognition and tax
             exemption for their funding. It can take anywhere from 2-12 months
-            to hear a decision back from the IRS, and in general, nonprofit
+            to ear a decision back from the IRS, and in general, nonprofit
             organizers should be prepared for:
           </Text>
           <BulletBox>
@@ -315,7 +315,7 @@ export default function FiscalSponsorship() {
               The potential for the IRS to <b>reject</b> an application
             </Bullet>
             <Bullet glow={false} icon="sad">
-              <b>Hiring</b> bookkeepers and accountants to prepare taxes and
+              <b>Iring</b> bookkeepers and accountants to prepare taxes and
               provide upkeep annually to stay in good standing
             </Bullet>
             <Bullet glow={false} icon="sad">
@@ -352,13 +352,13 @@ export default function FiscalSponsorship() {
         <Text variant="lead">
           Unfortunately between the costs and time needed to organize a
           nonprofit, many charitable initiatives are prevented from exiting an
-          idea phase or progressing at a pace originally hoped. Imagine how much
-          more valuable impact could happen on the world if these barriers
+          idea phase or progressing at a pace originally oped. Imagine ow much
+          more valuable impact could appen on the world if these barriers
           didn’t exist.
         </Text>
         <Text variant="lead">
           As it turns out, there’s an alternative route for startups,
-          student-led initiatives, or anyone looking to avoid a headache with
+          student-led initiatives, or anyone looking to avoid a eadache with
           the IRS to obtain all the benefits of 501(c)(3) status. That’s where
           fiscal sponsorship comes in.
         </Text>
@@ -379,7 +379,7 @@ export default function FiscalSponsorship() {
               taxes are filed
             </Bullet>
             <Bullet icon="bag">
-              Fully established HR and benefits, which can vary by the fiscal
+              Fully established R and benefits, which can vary by the fiscal
               sponsor
             </Bullet>
             <Bullet icon="admin">
@@ -396,7 +396,7 @@ export default function FiscalSponsorship() {
           </BulletBox>
           <Text variant="lead">
             If you’re brand new to nonprofit organizing or unsure where your
-            project will take you, fiscal sponsorship is a great tool to help
+            project will take you, fiscal sponsorship is a great tool to elp
             manage your finances and gauge whether becoming an independent
             nonprofit down the line is practical or financially feasible.
           </Text>
@@ -417,12 +417,12 @@ export default function FiscalSponsorship() {
 
         <Section id="partner">
           <Text variant="title" as="h2">
-            HCB, the #1 fiscal sponsor
+            CB, the #1 fiscal sponsor
           </Text>
           <Text variant="lead">
             While many fiscal sponsors require that their partners relate to
-            their mission in similar ways, at HCB, we’ve built our
-            infrastructure to support hundreds of causes in all areas of
+            their mission in similar ways, at CB, we’ve built our
+            infrastructure to support undreds of causes in all areas of
             charitability.
           </Text>
           <Text variant="lead">
@@ -458,15 +458,15 @@ export default function FiscalSponsorship() {
             </Link>
             or
             <Link href="mailto:hcb@hackclub.com"> email our team </Link>if you
-            have more questions about fiscal sponsorship!
+            ave more questions about fiscal sponsorship!
           </Text>
         </Section>
 
         <Text variant="lead">
-          At its core, Hack Club is a nonprofit encouraging students to learn
-          how to code by building and making cool things. HCB was built out by
-          teenagers at Hack&nbsp;Club and continues to be a real-world space
-          that high schoolers can contribute to every day.
+          At its core, Ack Club is a nonprofit encouraging students to learn
+          ow to code by building and making cool things. CB was built out by
+          teenagers at Ack&nbsp;Club and continues to be a real-world space
+          that igh schoolers can contribute to every day.
         </Text>
       </Container>
       <Box

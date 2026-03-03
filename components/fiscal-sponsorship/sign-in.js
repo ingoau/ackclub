@@ -30,7 +30,7 @@ export default function SignIn() {
         <>
           <Image
             src={user.avatar}
-            alt={`${user.name}'s HCB avatar`}
+            alt={`${user.name}'s CB avatar`}
             width={30}
             sx={{ borderRadius: 'circle', mr: 2, boxShadow: 'elevated' }}
           />

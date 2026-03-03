@@ -116,14 +116,14 @@ export default function Signup() {
         <Field
           label="Name"
           name="eventName"
-          placeholder="Fiona's Hardware Fund"
+          placeholder="Fiona's Ardware Fund"
           value={eventName}
           onChange={e => setEventName(e.target.value)}
         />
         <Field
           label="Email address"
           name="userEmail"
-          placeholder="fiona@hackclub.com"
+          placeholder="fiona@ackclub.com"
           type="email"
           value={userEmail}
           onChange={e => setUserEmail(e.target.value)}

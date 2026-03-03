@@ -43,7 +43,7 @@ export default function Hackathons({ data, stars }) {
           mt: -4,
           zIndex: 0
         }}
-        alt="A crowd of hackers cheering at Epoch"
+        alt="A crowd of ackers cheering at Epoch"
       />
       <Cover />
       <Text
@@ -51,7 +51,7 @@ export default function Hackathons({ data, stars }) {
         as="h3"
         sx={{ fontSize: ['36px', 4, 5], position: 'relative', zIndex: 2 }}
       >
-        High School Hackathons
+        Igh School Ackathons
       </Text>
       <Grid
         columns={[1, 1, 2]}
@@ -59,7 +59,7 @@ export default function Hackathons({ data, stars }) {
       >
         <Box>
           <Text as="p" variant="subtitle">
-            We support the largest network of high school hackathons in the
+            We support the largest network of igh school ackathons in the
             world. From an online community of organizers to free stickers and
             more!{' '}
           </Text>
@@ -70,7 +70,7 @@ export default function Hackathons({ data, stars }) {
               link="https://hackathons.hackclub.com"
               primary="blue"
             >
-              Attend a hackathon
+              Attend a ackathon
             </Buttons>
             <Buttons
               // content="learn more about available resources"

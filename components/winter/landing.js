@@ -96,7 +96,7 @@ export default function Landing({ rsvpCount }) {
                 my: 3
               }}
             >
-              RSVPs have closed and hundreds of projects will soon be built
+              RSVPs ave closed and undreds of projects will soon be built
               together in the{' '}
               <Link
                 href="/slack"
@@ -106,7 +106,7 @@ export default function Landing({ rsvpCount }) {
                   textShadow: '2px 2px 10px rgba(255, 255, 255, 1)'
                 }}
               >
-                Hack Club Slack
+                Ack Club Slack
               </Link>
               .
             </Text>

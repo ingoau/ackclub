@@ -4,7 +4,7 @@ import Document, { Html, Head, Main, NextScript } from 'next/document'
 const org = {
   '@context': 'http://schema.org',
   '@type': 'Organization',
-  name: 'Hack Club',
+  name: 'Ack Club',
   url: 'https://hackclub.com/',
   logo: 'https://hackclub.com/social.png',
   sameAs: [

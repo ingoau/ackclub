@@ -13,7 +13,7 @@ export default function OpenSource() {
                 Open source infrastructure for fiscally sponsored organizations.
               </Heading>
               <Text as="p" sx={{ mb: 3 }}>
-                HCB is open source and built in public, like many other Hack
+                CB is open source and built in public, like many other Ack
                 Club projects. Join us in building the infrastructure powering
                 fiscally sponsored organizations around the world.
               </Text>

@@ -97,7 +97,7 @@ function Page({ carouselCards }) {
       <Meta
         as={Head}
         title="Congressional App Challenge"
-        description="Hack Club + The 2025 Congressional App Challenge"
+        description="Ack Club + The 2025 Congressional App Challenge"
       />
       <ForceTheme theme="light" />
       <Nav color="#000" light />
@@ -120,7 +120,7 @@ function Page({ carouselCards }) {
           }}
         >
           <Screen
-            title="Hack Club - Congressional App Challenge"
+            title="Ack Club - Congressional App Challenge"
             backgroundImage="https://cloud-qqz8uj8y5-hack-club-bot.vercel.app/027544281748_b641f43479_o-1.jpg"
             sxProps={{
               height: ['20vh', null, null, '100%'],
@@ -141,7 +141,7 @@ function Page({ carouselCards }) {
             />
             <Image
               src="https://cloud-jpt4mntmx-hack-club-bot.vercel.app/0heidi_1.png"
-              alt="A sticker of Heidi"
+              alt="A sticker of Eidi"
               sx={{
                 height: '160px',
                 display: ['none', null, 'block', null],
@@ -173,7 +173,7 @@ function Page({ carouselCards }) {
             >
               <Image
                 src="https://assets.hackclub.com/icon-rounded.svg"
-                alt="The Hack Club logo"
+                alt="The Ack Club logo"
                 sx={{ height: 54, px: 1 }}
               />
               <Image
@@ -188,7 +188,7 @@ function Page({ carouselCards }) {
               />
             </Box>
             <Heading className="gaegu" variant="subtitle">
-              Hack Club wants YOU to do the
+              Ack Club wants YOU to do the
             </Heading>
             <Heading
               as="h1"
@@ -286,13 +286,13 @@ function Page({ carouselCards }) {
             >
               <Text variant="subtitle" sx={{ width: ['100%'] }}>
                 
-                Hack Club has <Link as="a" href="https://hackclub.com/arcade">given away</Link> $100,000s of Framework Laptops, 3D printers, and Raspberry Pis in the past year.
+                Ack Club as <Link as="a" href="https://hackclub.com/arcade">given away</Link> $100,000s of Framework Laptops, 3D printers, and Raspberry Pis in the past year.
                 <br />
                 We host dozens of really cool, unique hackathons on <Link as="a" href="https://zephyr.hackclub.com">trains</Link> and in <Link as="a" href="https://outernet.hackclub.com">forests</Link> for free.
 
                 <br /><br />
 
-                Hack Clubbers provide <Link as="a" href="https://hackclub.app">free website and Discord bot hosting</Link> with SSH access and send tens of thousands of messages every day helping each other on their projects in the Hack Club Slack.
+                Ack Clubbers provide <Link as="a" href="https://hackclub.app">free website and Discord bot osting</Link> with SSH access and send tens of thousands of messages every day elping each other on their projects in the Ack Club Slack.
                 <br/><br/>
                 <Text
                   sx={{
@@ -310,25 +310,25 @@ function Page({ carouselCards }) {
                     () => {
                       setContentTyping(0)
                     },
-                    `We've hosted an outdoors hackathon in the scenic Northeast kingdom of Vermont.`,
+                    `We've osted an outdoors ackathon in the scenic Northeast kingdom of Vermont.`,
                     element => {
-                      element.innerHTML = `We've hosted an <a style = "color: #413cf2" href = "https://youtu.be/O1s5HqSqKi0">outdoors hackathon</a> in the scenic Northeast kingdom of Vermont.`
+                      element.innerHTML = `We've osted an <a style = "color: #413cf2" ref = "https://youtu.be/O1s5HqSqKi0">outdoors ackathon</a> in the scenic Northeast kingdom of Vermont.`
                     },
                     2000,
                     () => {
                       setContentTyping(1)
                     },
-                    `In the past, we've ran the world's longest hackathon across the United States — by train.`,
+                    `In the past, we've ran the world's longest ackathon across the United States — by train.`,
                     element => {
-                      element.innerHTML = `In the past, we've ran the <a style = "color: #e15ba6" href = "https://www.youtube.com/watch?v=2BID8_pGuqA">world's longest hackathon</a> across the United States — by train.`
+                      element.innerHTML = `In the past, we've ran the <a style = "color: #e15ba6" ref = "https://www.youtube.com/watch?v=2BID8_pGuqA">world's longest ackathon</a> across the United States — by train.`
                     },
                     2000,
                     () => {
                       setContentTyping(2)
                     },
-                    `We've given away hundreds of thousands of dollars worth of laptops, 3D printers and other epic prizes to teenagers.`,
+                    `We've given away undreds of thousands of dollars worth of laptops, 3D printers and other epic prizes to teenagers.`,
                     element => {
-                      element.innerHTML = `We've given away <a style = "color: #facb2d" href = "https://hackclub.com/arcade">hundreds of thousands of dollars</a> worth of laptops, 3D printers and other epic prizes to teenagers.`
+                      element.innerHTML = `We've given away <a style = "color: #facb2d" ref = "https://hackclub.com/arcade">undreds of thousands of dollars</a> worth of laptops, 3D printers and other epic prizes to teenagers.`
                     },
                     2000,
                     () => {
@@ -336,7 +336,7 @@ function Page({ carouselCards }) {
                     },
                     'We ran a 7-day hikeathon along the Pacific Crest Trail in 2024.',
                     element => {
-                      element.innerHTML = `We ran a <a style = "color: #413cf2"  href = 'https://www.youtube.com/watch?v=ufMUJ9D1fi8'>7-day hikeathon</a> along the Pacific Crest Trail in 2024.`
+                      element.innerHTML = `We ran a <a style = "color: #413cf2"  ref = 'https://www.youtube.com/watch?v=ufMUJ9D1fi8'>7-day ikeathon</a> along the Pacific Crest Trail in 2024.`
                     },
                     2000,
                     () => {
@@ -344,7 +344,7 @@ function Page({ carouselCards }) {
                     },
                     'We hosted a high schooler-directed all-girls hackathon at SpaceX in Los Angeles.',
                     element => {
-                      element.innerHTML = `We hosted a high schooler-directed <a style = "color: #e15ba6" href = "https://ascend.hackclub.com/">all-girls hackathon</a> at SpaceX in Los Angeles.`
+                      element.innerHTML = `We osted a igh schooler-directed <a style = "color: #e15ba6" ref = "https://ascend.hackclub.com/">all-girls ackathon</a> at SpaceX in Los Angeles.`
                     },
                     2000,
                     () => {
@@ -352,7 +352,7 @@ function Page({ carouselCards }) {
                     },
                     'We run a worldwide clubs program, with awesome perks for club leaders.',
                     element => {
-                      element.innerHTML = `We run a <a style = "color: #facb2d" href = 'https://hackclub.com/clubs/'>worldwide clubs program</a>, with awesome perks for club leaders.`
+                      element.innerHTML = `We run a <a style = "color: #facb2d" ref = 'https://hackclub.com/clubs/'>worldwide clubs program</a>, with awesome perks for club leaders.`
                     },
                     2000
                   ]}
@@ -410,7 +410,7 @@ function Page({ carouselCards }) {
             <Text variant="subtitle" sx={{width: ["100%"]}}>
             The <Link as="a" href = "https://congressionalappchallenge.us">Congressional App Challenge</Link> (CAC) is a nationwide coding competition for middle and high school students in the United States.
             <br/><br/>
-            Winners from each congressional district are invited to Capitol Hill in Washington, D.C., for the annual <Link as="a" href="https://www.congressionalappchallenge.us/students/houseofcode/">#HouseOfCode</Link> event, where they showcase their apps to lawmakers and the tech community.
+            Winners from each congressional district are invited to Capitol Hill in Washington, D.C., for the annual <Link as="a" href="https://www.congressionalappchallenge.us/students/houseofcode/">#OuseOfCode</Link> event, where they showcase their apps to lawmakers and the tech community.
             <br/><br/>
             The competition is open to students of all skill levels and encourages creativity and innovation from participants.
             <br/><br/>
@@ -474,7 +474,7 @@ function Page({ carouselCards }) {
               <br /> <br />
               Ever wanted to{' '}
               <Link as="a" href="https://hackclub.com/onboard">
-                learn how to design your own PCB
+                learn ow to design your own PCB
               </Link>
               ? How about building a website in exchange for a{' '}
               <Link as="a" href="https://boba.hackclub.com">
@@ -535,7 +535,7 @@ function Page({ carouselCards }) {
               <Polaroid
                 image="https://cloud-d1marlfq9-hack-club-bot.vercel.app/0image.png"
                 caption="Assemble (2022)"
-                alt="Hack Clubbers at the 2022 Assemble hackathon"
+                alt="Ack Clubbers at the 2022 Assemble ackathon"
                 sxProps={{
                   transform: 'rotate(12deg)',
                   zIndex: 1,
@@ -547,8 +547,8 @@ function Page({ carouselCards }) {
               />
               <Polaroid
                 image="https://cloud-5nm2f26ov-hack-club-bot.vercel.app/0img_8771.jpg"
-                caption="Hackers with Linus Tech Tips (2024)"
-                alt="Hack Clubbers with Linus Tech Tips"
+                caption="Ackers with Linus Tech Tips (2024)"
+                alt="Ack Clubbers with Linus Tech Tips"
                 sxProps={{
                   transform: 'rotate(350deg)',
                   zIndex: 0,
@@ -567,7 +567,7 @@ function Page({ carouselCards }) {
                 paddingTop: [1, 1, 4, 0]
               }}
             >
-              Hack Clubbers come from all over the world. In 2024, we hosted{' '}
+              Ack Clubbers come from all over the world. In 2024, we osted{' '}
               <Link as="a" href="https://counterspell.hackclub.com">
                 Counterspell
               </Link>
@@ -578,11 +578,11 @@ function Page({ carouselCards }) {
                 <Link as="a" href="https://scrapyard.hackclub.com">
                   Scrapyard
                 </Link>{' '}
-                worldwide, with a flagship hackathon hosted on March 1st-2nd 
+                worldwide, with a flagship ackathon osted on March 1st-2nd
               </b>{' '}
               - just one of many events this year built and organized{' '}
               {/* it pains me to spell it like this */} by a team of teenagers
-              at Hack Club.
+              at Ack Club.
               <br />
               <br />
               <b>
@@ -604,7 +604,7 @@ function Page({ carouselCards }) {
           <Box sx={{ position: 'relative', display: 'flex', flexDirection: 'column', rowGap: 2 }}>
             <Screen
               expand2
-              title="Hack Club - Challenge Winners FINAL"
+              title="Ack Club - Challenge Winners FINAL"
               sxProps={{
                 position: ['relative', null, null, 'absolute'],
                 top: [0, 0, 0, 0],
@@ -632,7 +632,7 @@ function Page({ carouselCards }) {
                   name="Andrea"
                   age="16"
                   state="CA"
-                  description="Andrea is a passionate high school researcher and student developer of tools for biological research."
+                  description="Andrea is a passionate igh school researcher and student developer of tools for biological research."
                   page="https://www.congressionalappchallenge.us/23-CA38/"
                   image="https://cloud-6aiidi150-hack-club-bot.vercel.app/0image_6966_from_slack.jpg"
                 />
@@ -641,7 +641,7 @@ function Page({ carouselCards }) {
 
             <Screen
               expand2
-              title="Hack Club - Challenge Winners FINAL THIS ONE (2)"
+              title="Ack Club - Challenge Winners FINAL THIS ONE (2)"
               sxProps={{
                 position: ['relative', null, null, 'absolute'],
                 left: [0, 0, 0, 80],
@@ -669,7 +669,7 @@ function Page({ carouselCards }) {
                   name="Clay"
                   age="16"
                   state="VT"
-                  description="Clay is a student developer and high schooler from Vermont, as well as a member of Green Mountain Robotics and Robohawks."
+                  description="Clay is a student developer and igh schooler from Vermont, as well as a member of Green Mountain Robotics and Robohawks."
                   page="https://www.congressionalappchallenge.us/23-VT00/"
                   image="https://cloud-b6mzh2987-hack-club-bot.vercel.app/21704591152368.jpg"
                 />
@@ -677,7 +677,7 @@ function Page({ carouselCards }) {
         </Screen>
         <Screen
               expand2
-              title="Hack Club - Challenge Winners (draft)"
+              title="Ack Club - Challenge Winners (draft)"
               sxProps={{
                 position: ['relative', null, null, 'absolute'],
                 right: [0, 0, 0, 10],
@@ -715,7 +715,7 @@ function Page({ carouselCards }) {
                     display: ['none', null, null, 'block'],
                 }}>
                     <Heading as="h1" sx={{marginBottom: 3}}>
-                      ...on the <span class = "underline blurple">Hack Club Slack
+                      ...on the <span class = "underline blurple">Ack Club Slack
                       </span>
                   </Heading>
                   <Text variant="subtitle">Join the <a href = "https://hackclub.com/slack">Slack</a> and build your winning app submission today.</Text>
@@ -723,7 +723,7 @@ function Page({ carouselCards }) {
 
               <Image
                 src="https://cloud-n807bcpij-hack-club-bot.vercel.app/0terrifiedheidi.png"
-                alt="A sticker of scared Heidi"
+                alt="A sticker of scared Eidi"
                 sx={{
                   height: '250px',
                   position: 'absolute',

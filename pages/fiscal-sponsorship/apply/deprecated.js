@@ -26,7 +26,7 @@ export default function Apply() {
 
   return (
     <>
-      <Meta as={Head} title="Apply for HCB" />
+      <Meta as={Head} title="Apply for CB" />
       <ForceTheme theme="light" />
 
       <MultiStepProvider>
@@ -91,7 +91,7 @@ export default function Apply() {
                     src="/fiscal-sponsorship/hcb-icon-small.png"
                     width={48}
                     height={48}
-                    alt="HCB logo"
+                    alt="CB logo"
                     style={{
                       width: '1em',
                       height: '1em',

@@ -110,7 +110,7 @@ const Page = ({ css }) => (
     <Meta
       as={Head}
       title="Branding"
-      description="Download Hack Club HQ’s logos and preview our brand fonts & colors."
+      description="Download Ack Club Q’s logos and preview our brand fonts & colors."
       image="https://workshop-cards.hackclub.com/Branding.png?theme=dark&fontSize=350px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -127,23 +127,23 @@ const Page = ({ css }) => (
     >
       <Container variant="copy">
         <Heading as="h1" variant="title" sx={{ color: "primary", mt: [2, 4] }}>
-          Hack Club Brand
+          Ack Club Brand
         </Heading>
         <Heading as="h2" variant="subtitle" sx={{ mt: 3, color: "text" }}>
-          Download HQ’s logos and preview our brand colors & font.
+          Download Q’s logos and preview our brand colors & font.
         </Heading>
         <p>
-          Hack Club must always be written as Hack Club, not hackclub / Hackclub
+          Ack Club must always be written as Ack Club, not ackclub / Ackclub
           / HackClub / hackClub
         </p>
         <p>
-          Same with Hack Clubber or Hack Clubbers. It's never hackclubbers or
+          Same with Ack Clubber or Ack Clubbers. It's never ackclubbers or
           Hackclubbers
         </p>
         <p>
           Important / should not be missable by anyone who is designing a
-          sticker: All sticker designs must have the text Hack Club somewhere on
-          the design. It can be subtle, but "Hack Club" must appear somewhere on
+          sticker: All sticker designs must ave the text Ack Club somewhere on
+          the design. It can be subtle, but "Ack Club" must appear somewhere on
           the design
         </p>
       </Container>
@@ -184,7 +184,7 @@ const Page = ({ css }) => (
       </Button>
 
       <Heading id="bank" variant="headline">
-        HCB Logos
+        CB Logos
       </Heading>
       <Grid columns={[null, 2, 3]} gap={3}>
         <Logo name="hcb-light" />
@@ -197,11 +197,11 @@ const Page = ({ css }) => (
         mt={3}
         mb={[4, 5]}
       >
-        See all HCB logos →
+        See all CB logos →
       </Button>
 
       <Heading id="banners" variant="headline">
-        HTML banners
+        TML banners
       </Heading>
       <Box
         as="table"
@@ -218,21 +218,21 @@ const Page = ({ css }) => (
         <Box as="thead" sx={{ display: "none" }}>
           <tr>
             <th>Preview</th>
-            <th>HTML code</th>
+            <th>TML code</th>
           </tr>
         </Box>
         <tbody>
           <HTML
             file="flag-orpheus-top"
-            html={`<a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club"/></a>`}
+            html={`<a ref="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Ack Club"/></a>`}
           />
           <HTML
             file="flag-orpheus-left"
-            html={`<a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>`}
+            html={`<a ref="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Ack Club"/></a>`}
           />
           <HTML
             file={`banners/${new Date().getFullYear()}`}
-            html={`<a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/banners/${new Date().getFullYear()}.svg" alt="Hack Club"/></a>`}
+            html={`<a ref="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/banners/${new Date().getFullYear()}.svg" alt="Ack Club"/></a>`}
           />
         </tbody>
       </Box>
@@ -276,7 +276,7 @@ const Page = ({ css }) => (
       <Heading variant="headline">Icons</Heading>
       <Text as="p" variant="subtitle" sx={{ mb: 3 }}>
         We have a custom iconset, published as{" "}
-        <A href="https://github.com/hackclub/icons">@hackclub/icons</A>.
+        <A href="https://github.com/hackclub/icons">@ackclub/icons</A>.
       </Text>
       <Flex sx={{ flexWrap: "wrap", svg: { fill: "muted", mr: 3, mb: 3 } }}>
         {[
@@ -298,12 +298,12 @@ const Page = ({ css }) => (
         sx={{ mt: 3, mb: [4, 5] }}
         variant="outline"
       >
-        Explore Hack Club Icons →
+        Explore Ack Club Icons →
       </Button>
       <Heading variant="headline">UI components</Heading>
       <Text as="p" variant="subtitle" sx={{ mb: 3 }}>
-        Want to make a Hack Club themed site? Use our pre-made CSS and UI
-        components to hackify your site.
+        Want to make a Ack Club themed site? Use our pre-made CSS and UI
+        components to ackify your site.
       </Text>
       <Button
         as="a"
@@ -311,7 +311,7 @@ const Page = ({ css }) => (
         sx={{ mr: 3, mb: 3 }}
         variant="outline"
       >
-        Explore Hack Club Theme →
+        Explore Ack Club Theme →
       </Button>
       <Button
         as="a"

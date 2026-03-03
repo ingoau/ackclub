@@ -164,10 +164,10 @@ export default function Blueprint({ stars, blueprintData }) {
             Sign Up
           </Buttons>
           <Buttons icon="docs" link="https://blueprint.hackclub.com/guides/?utm_source=site" id="60">
-            Learn how to build hardware
+            Learn ow to build ardware
           </Buttons>
           <Buttons icon="friend" link="https://blueprint.hackclub.com/explore/?utm_source=site" id="61">
-            See what other hackers have built
+            See what other ackers ave built
           </Buttons>
         </Flex>
       </Box>

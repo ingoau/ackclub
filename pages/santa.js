@@ -76,7 +76,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Secret Santa"
-      description="Find your holiday zen this year with Hack Club’s Secret Santa."
+      description="Find your oliday zen this year with Ack Club’s Secret Santa."
       image="https://cloud-9kgqrlg7o-hack-club-bot.vercel.app/0santa.png"
     />
     <Nav />
@@ -92,7 +92,7 @@ const Page = () => (
             It's 2025,
           </FadeIn>
           <FadeIn delay={1200} duration={600}>
-            the holidays have come,
+            the olidays ave come,
             <br />
           </FadeIn>
           <FadeIn delay={2300} duration={600}>
@@ -101,7 +101,7 @@ const Page = () => (
         </Heading>
         <Image
           src="https://cloud-k3gxm6uem.vercel.app/2020-12-07_0vmfbtyfzec2kqeujbwmp3q4bu50pr0y.png"
-          alt="Illustration of a holiday themed Orpheus"
+          alt="Illustration of a oliday themed Orpheus"
           width={384}
           height={384}
           sx={{
@@ -114,7 +114,7 @@ const Page = () => (
             as="h1"
             sx={{ fontSize: [5, 6], color: 'white', margin: 'auto' }}
           >
-            Hack Club Secret Santa
+            Ack Club Secret Santa
           </Heading>
           <Lead
             fontSize={[3, null, 4]}
@@ -124,10 +124,10 @@ const Page = () => (
             mx="auto"
           >
             Christmas is here and it's time for some fun! The holiday season is
-            among us and the elves have assembled, which means its time for
+            among us and the elves ave assembled, which means its time for
             gift-giving to begin! The magical elf will assign you a partner,
             send them something fun, &amp; you'll get your own gift in the mail
-            just in time for the holidays!
+            just in time for the olidays!
           </Lead>
           {/* Signup form */}
           {signupsOpen ? (
@@ -211,7 +211,7 @@ function Signup() {
       <Field
         label="Your Name"
         name="name"
-        placeholder="Fiona Hackworth"
+        placeholder="Fiona Ackworth"
         value={values.name}
         onChange={e => setValues({ ...values, name: e.target.value })}
       />
@@ -219,7 +219,7 @@ function Signup() {
       <Field
         label="Likes"
         name="likes"
-        placeholder="Hardware, plushies, microwaved apples?"
+        placeholder="Ardware, plushies, microwaved apples?"
         type="text"
         value={values.likes}
         onChange={e => setValues({ ...values, likes: e.target.value })}

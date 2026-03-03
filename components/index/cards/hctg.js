@@ -56,7 +56,7 @@ export default function HackClubTheGame() {
             textDecoration: 'none'
           }}
         >
-          Hack Club: The Game
+          Ack Club: The Game
         </Text>
 
         <Text

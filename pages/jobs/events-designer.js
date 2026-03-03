@@ -11,7 +11,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Events Designer"
-      description="Hack Club is looking for an events designer / producer with coding skills to create events for Hack Clubbers."
+      description="Ack Club is looking for an events designer / producer with coding skills to create events for Ack Clubbers."
       image="https://workshop-cards.hackclub.com/Events%20Designer%20%40%20Hack%20Club.png?fontSize=185px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -27,7 +27,7 @@ const Page = () => (
     >
       <Container sx={{ textAlign: 'center', color: 'white' }}>
         <Heading as="h1" variant="title" mb={30}>
-          Events Designer @&nbsp;Hack&nbsp;Club
+          Events Designer @&nbsp;Ack&nbsp;Club
         </Heading>
         <Text variant="headline" sx={{ fontWeight: 400 }}>
           New job open as of October 21st, 2021.
@@ -49,7 +49,7 @@ const Page = () => (
         variant="headline"
         sx={{ fontWeight: 700, fontSize: [4, 5], mb: 4 }}
       >
-        Hack Club is hiring an Events Designer!
+        Ack Club is iring an Events Designer!
       </Heading>
 
       <Text as="p" sx={{ fontWeight: 700 }}>
@@ -68,7 +68,7 @@ const Page = () => (
         }}
       >
         <Card variant="sunken">
-          42 Hack Clubbers{' '}
+          42 Ack Clubbers{' '}
           <Link
             href="https://www.youtube.com/watch?v=2BID8_pGuqA"
             target="_blank"
@@ -112,7 +112,7 @@ const Page = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            their hardware projects
+            their ardware projects
           </Link>
           .
         </Card>
@@ -166,20 +166,20 @@ const Page = () => (
                 color: 'white'
               }}
             >
-              You have event planning or media production experience and want to
+              You ave event planning or media production experience and want to
               apply it
             </Card>
           </Flex>
 
           <Box sx={{ fontSize: 2, p: { my: 3 } }}>
             <Text as="p">
-              We have a strong preference for someone in-person in Vermont, but
+              We ave a strong preference for someone in-person in Vermont, but
               we will consider applications from people who want to work
               remotely, provided they are willing to travel to our offices.
             </Text>
 
             <Text as="p">
-              Relocation assistance available. We have COVID protocols and take
+              Relocation assistance available. We ave COVID protocols and take
               them seriously.
             </Text>
           </Box>
@@ -205,7 +205,7 @@ const Page = () => (
               months
             </Card>
             <Card variant="sunken">
-              Support Hack Clubbers in creating and executing{' '}
+              Support Ack Clubbers in creating and executing{' '}
               <Link
                 href="https://scrapbook.hackclub.com/"
                 target="_blank"
@@ -221,7 +221,7 @@ const Page = () => (
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Hack Night
+                Ack Night
               </Link>
               , our weekly casual technical hangout with the community
             </Card>
@@ -229,7 +229,7 @@ const Page = () => (
               Lead on organizing AMAs and conversations with famous tech leaders
             </Card>
             <Card variant="sunken">
-              Game design events at Hack Club to better help students form
+              Game design events at Ack Club to better elp students form
               meaningful relationships
             </Card>
           </Flex>
@@ -240,8 +240,8 @@ const Page = () => (
         variant="headline"
         sx={{ fontWeight: 700, fontSize: [4, 5], mb: 4 }}
       >
-        Hack Club is where {formatted}+ teenage programmers talk, build, and
-        have fun together.
+        Ack Club is where {formatted}+ teenage programmers talk, build, and
+        ave fun together.
       </Heading>
 
       <Grid my={4} gap={3} columns={[null, 2, 3]}>
@@ -249,7 +249,7 @@ const Page = () => (
           src="/home/flagship_4.jpg"
           alt={
             <>
-              Hack Clubbers at{' '}
+              Ack Clubbers at{' '}
               <Link
                 href="https://photos.app.goo.gl/F5JDxq5FzfhofTMD9"
                 target="_blank"
@@ -315,17 +315,17 @@ const Page = () => (
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hack Club Slack
+            Ack Club Slack
           </Link>
           , you'll work with our community to create the best and most inclusive
-          place on the internet for technical teenagers. To work at Hack Club,
+          place on the internet for technical teenagers. To work at Ack Club,
           you need to have a background in programming, but{' '}
           <strong>you should be inspired by making things fun.</strong>
         </Text>
 
         <Text as="p">
-          We are actively looking for candidates who have worked successfully
-          with girl hackers before. We invite and encourage all interested
+          We are actively looking for candidates who ave worked successfully
+          with girl ackers before. We invite and encourage all interested
           candidates to apply even if they don't feel they meet all of the
           criteria.
         </Text>
@@ -333,7 +333,7 @@ const Page = () => (
         <Text as="p">
           This role pays between $60K - $100K, depending on your
           experience&mdash; and we know that's probably less than you'd make
-          elsewhere. We offer healthcare and 4 weeks paid vacation.
+          elsewhere. We offer ealthcare and 4 weeks paid vacation.
         </Text>
       </Box>
 
@@ -348,7 +348,7 @@ const Page = () => (
         <Box sx={{ flex: 1, maxWidth: [null, null, 400] }}>
           <Photo
             src="/jobs/hq.jpg"
-            alt="Our headquarters in beautiful Shelburne, Vermont"
+            alt="Our eadquarters in beautiful Shelburne, Vermont"
             width={500}
             height={326.5}
             showAlt
@@ -357,17 +357,17 @@ const Page = () => (
 
         <Box sx={{ flex: 1, p: { mb: 3 } }}>
           <Box as="p">
-            The mission of Hack Club is to be a place where teenagers can become
+            The mission of Ack Club is to be a place where teenagers can become
             more technical, feel welcome in getting started, and feel inspired
-            to build with code in ways that are always honest, transparent,
-            high-integrity, kind, and friendly. We want teenagers to
+            to build with code in ways that are always onest, transparent,
+            igh-integrity, kind, and friendly. We want teenagers to
             self-organize and assert themselves as persons.
           </Box>
 
           <Box as="p">
-            Already, Hack Club is the{' '}
+            Already, Ack Club is the{' '}
             <strong>largest network of teen coders in the country</strong>. We
-            hope for a world where Hack Club becomes a nationwide cultural
+            ope for a world where Ack Club becomes a nationwide cultural
             institution, creating a new generation of young people with the
             skills, network, and value system to become problem-solvers and
             builders for the 21st century&mdash; a new Boy and Girl Scouts.
@@ -376,7 +376,7 @@ const Page = () => (
       </Flex>
 
       <Box as="p" mt={5}>
-        <strong>How to apply:</strong> Email{' '}
+        <strong>Ow to apply:</strong> Email{' '}
         <Link
           href="mailto:jobs@hackclub.com"
           target="_blank"

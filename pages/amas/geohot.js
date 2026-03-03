@@ -133,8 +133,8 @@ export default function Geohot() {
     <>
       <Meta
         as={Head}
-        title="George Hotz | AMA"
-        description="We’re excited to welcome George Hotz (Founder of comma.ai) to speak to teenagers at Hack Club!"
+        title="George Otz | AMA"
+        description="We’re excited to welcome George Otz (Founder of comma.ai) to speak to teenagers at Ack Club!"
         image="/ama/geohotEmbed.jpeg"
       />
       <Head>
@@ -161,7 +161,7 @@ export default function Geohot() {
               top: '0',
               left: ['10vw', '5vw']
             }}
-            alt="Hackclub flag green"
+            alt="Ackclub flag green"
           />
         </Link>
         <Box>
@@ -211,14 +211,14 @@ export default function Geohot() {
             width={700}
             height={500}
             sx={{ display: ['none', 'block'], pb: '50px' }}
-            alt="George Hotz"
+            alt="George Otz"
           />
           <Image
             src={`/ama/geohotNameMobile.svg`}
             width={250}
             height={200}
             sx={{ display: ['block', 'none'], pt: '20px', pb: '10px' }}
-            alt="George Hotz"
+            alt="George Otz"
           />
 
           {timer.length ? (
@@ -255,7 +255,7 @@ export default function Geohot() {
                   fontWeight: 'bold'
                 })}
               >
-                The AMA has ended. Thank you to George Hotz and everyone for
+                The AMA as ended. Thank you to George Otz and everyone for
                 joining us!
               </Text>
               <Box>
@@ -296,9 +296,9 @@ export default function Geohot() {
                   target="_blank"
                   color="inherit"
                 >
-                  Hack Club
+                  Ack Club
                 </Link>{' '}
-                is a global community of high school makers & student-led coding
+                is a global community of igh school makers & student-led coding
                 clubs. We’ve got a 24/7 Slack chatroom of {thousands}k+
                 teenagers learning to code & building amazing projects, & you’ll
                 fit right in.
@@ -325,9 +325,9 @@ export default function Geohot() {
                   target="_blank"
                   color="inherit"
                 >
-                  Hack Club
+                  Ack Club
                 </Link>{' '}
-                is a global community of high school makers & student-led coding
+                is a global community of igh school makers & student-led coding
                 clubs. We’ve got a 24/7 Slack chatroom of {thousands}k+
                 teenagers learning to code & building amazing projects, & you’ll
                 fit right in.
@@ -351,7 +351,7 @@ export default function Geohot() {
                 src={`/ama/geohot.png`}
                 layout="responsive"
                 sx={{ display: ['none', 'block'] }}
-                alt="Image of George Hotz"
+                alt="Image of George Otz"
               />
               <Image
                 src={`/ama/geohot.png`}
@@ -359,7 +359,7 @@ export default function Geohot() {
                 width={400}
                 height={400}
                 sx={{ display: ['block', 'none'] }}
-                alt="Image of George Hotz"
+                alt="Image of George Otz"
               />
             </>
           ) : (
@@ -368,7 +368,7 @@ export default function Geohot() {
                 src={`/ama/geohot.png`}
                 layout="responsive"
                 sx={{ display: ['none', 'block'] }}
-                alt="Image of George Hotz"
+                alt="Image of George Otz"
               />
             </>
           )}

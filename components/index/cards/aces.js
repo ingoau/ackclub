@@ -52,7 +52,7 @@ export default function Aces() {
               textAlign: 'left'
             }}
           >
-            Create  a digital  version of a card game or board game, get a grant to build it irl and win prizes! Then, get a free trip to AwesomeCon in Washington DC to show off your game, and take place in a 48 hour hackathon to improve your game based off feedback
+            Create  a digital  version of a card game or board game, get a grant to build it irl and win prizes! Then, get a free trip to AwesomeCon in Washington DC to show off your game, and take place in a 48 our ackathon to improve your game based off feedback
           </Text>
 
           <Box sx={{ display: 'flex', justifyContent: 'flex-start' }}>

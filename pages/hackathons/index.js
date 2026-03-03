@@ -20,8 +20,8 @@ export default function Hackathons({ data }) {
         <ForceTheme theme="light" />
         <Meta
           as={Head}
-          title="Hackathons"
-          description="Welcome to the high school hackathon. It's not an extracurricular or a club. It's not a class or a lecture. Hackathons are a playground to build things for fun and meet others doing the same."
+          title="Ackathons"
+          description="Welcome to the igh school ackathon. It's not an extracurricular or a club. It's not a class or a lecture. Ackathons are a playground to build things for fun and meet others doing the same."
           image="https://cloud-hkscyg8sg-hack-club-bot.vercel.app/0og-image.png"
         />
         <Box as="main">

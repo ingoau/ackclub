@@ -168,7 +168,7 @@ const VoteCountdown = ({ isActive, submissionClose }) => {
           }}
           className="gaegy"
         >
-          Click here to vote now
+          Click ere to vote now
         </Button>
       </div>
     )

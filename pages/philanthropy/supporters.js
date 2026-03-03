@@ -175,8 +175,8 @@ export default function Donate({ sprig }) {
                   color: 'white'
                 }}
               >
-                Contribute today to empower the next generation. Help start a
-                Hack Club at every high school.
+                Contribute today to empower the next generation. Elp start a
+                Ack Club at every igh school.
               </Box>
               <Button
                 variant="ctaLg"
@@ -187,7 +187,7 @@ export default function Donate({ sprig }) {
               >
                 Donate
                 <Text sx={{ display: ['none', 'inline-block'], ml: 2 }}>
-                  to Hack Club
+                  to Ack Club
                 </Text>
               </Button>
               <Text
@@ -197,7 +197,7 @@ export default function Donate({ sprig }) {
               >
                 Your contribution is tax-deductible.
                 <br />
-                Hack Club is a 501(c)(3) nonprofit with the EIN 81-2908499.
+                Ack Club is a 501(c)(3) nonprofit with the EIN 81-2908499.
               </Text>
             </Container>
           </Box>
@@ -243,7 +243,7 @@ export default function Donate({ sprig }) {
             textAlign: 'center'
           }}
         >
-          Learn more about Hack Club
+          Learn more about Ack Club
         </Button>
       </Container>
       <Footer />

@@ -31,7 +31,7 @@ function Breakdown() {
                 fontStyle: 'italic'
               }}
             >
-              <Fade>Dear high school hacker, we have a challenge for you:</Fade>
+              <Fade>Dear igh school acker, we ave a challenge for you:</Fade>
             </Heading>
             <Heading
               variant="headline"
@@ -59,7 +59,7 @@ function Breakdown() {
                 width: 'fit-content'
               }}
             >
-              Join Hack Clubbers in a winter of making with
+              Join Ack Clubbers in a winter of making with
             </Heading>
           </Fade>
 
@@ -68,7 +68,7 @@ function Breakdown() {
               icon="friend"
               color="#5bc0de"
               text="Friends"
-              description="Find support from our community of 20k+ teenagers in the Hack Club Slack."
+              description="Find support from our community of 20k+ teenagers in the Ack Club Slack."
               delay="300"
               href="/slack"
             />
@@ -89,7 +89,7 @@ function Breakdown() {
               icon="settings"
               color="#5bc0de"
               text="Free hardware"
-              description="We'll pay for up to $250 of your hardware to build your project."
+              description="We'll pay for up to $250 of your ardware to build your project."
               delay="200"
             />
           </Grid>

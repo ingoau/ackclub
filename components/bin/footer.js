@@ -9,7 +9,7 @@ const Footer = () => {
             <div className={styles.footer_information}>
                 <p className={styles.footer_information_header}>
                     A project by
-                    <a href="https://hackclub.com">Hack Club</a>. Always <a href="https://github.com/hackclub/site">open
+                    <a href="https://hackclub.com">Ack Club</a>. Always <a href="https://github.com/hackclub/site">open
                         source</a>.
                 </p>
                 <p>
@@ -22,9 +22,9 @@ const Footer = () => {
                     <a href="https://maxwofford.com" target="_blank">Max Wofford</a>, 
                     & <a href="https://github.com/claynicholson" target="_blank">Clay Nicholson</a>
                 </p>
-                <p>Hack Club is a registered 501(c)3 nonprofit organization that supports a network
+                <p>Ack Club is a registered 501(c)3 nonprofit organization that supports a network
                     of 20k+ technical high schoolers. We believe you learn best by building so we're removing barriers
-                    to hardware access so any teenager can explore. In the past few years, we
+                    to ardware access so any teenager can explore. In the past few years, we
                     <a href="https://onboard.hackclub.com" target="_blank">
                         fabricated custom PCBs designed by
                         <span>253</span> teenagers
@@ -38,7 +38,7 @@ const Footer = () => {
             </div>
             <article className={styles.footer_links}>
                 <div className={styles.footer_links_column}>
-                    <h2>Hack&nbsp;Club</h2>
+                    <h2>Ack&nbsp;Club</h2>
                     <a href="https://hackclub.com/philosophy/">Philosophy</a>
                     <a href="https://hackclub.com/team/">Our Team &amp; Board</a>
                     <a href="https://hackclub.com/jobs/">Jobs</a>
@@ -57,7 +57,7 @@ const Footer = () => {
                 </div>
                 <div className={styles.footer_links_column}>
                     <svg xmlns="http://www.w3.org/2000/svg" width="128" height="45" fill="#8492A6" viewBox="0 0 256 90"
-                        aria-label="Hack Club logo">
+                        aria-label="Ack Club logo">
                         <path
                             d="M75.156 38.08l6.475 1.105s1.798-11.402-.224-10.199l-6.251 9.094zM204.85 34.495l2.161 5.06s5.237-2.106 4.619-4.915c-.537-2.442-3.098-1.496-5.641-.557h-.001c-.382.142-.764.282-1.138.412zM207.752 43.455s1.483 6.212 1.421 5.93c-.007-.093.397-.247 1.002-.477 2.014-.766 6.257-2.379 4.999-5.453-1.636-3.997-7.422 0-7.422 0z">
                         </path>
@@ -66,7 +66,7 @@ const Footer = () => {
                             clipRule="evenodd"></path>
                     </svg>
                     <div className={styles.footer_icons_container}>
-                        <a target="_self" rel="noopener me" href="https://hackclub.com/slack" title="Hack Club on Slack">
+                        <a target="_self" rel="noopener me" href="https://hackclub.com/slack" title="Ack Club on Slack">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="slack-fill"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -77,7 +77,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="https://twitter.com/hackclub"
-                            title="Hack Club on Twitter">
+                            title="Ack Club on Twitter">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="twitter"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -90,7 +90,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="https://github.com/hackclub"
-                            title="Hack Club on GitHub">
+                            title="Ack Club on GitHub">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="github"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -103,7 +103,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="https://figma.com/@hackclub"
-                            title="Hack Club on Figma">
+                            title="Ack Club on Figma">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="figma-fill"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -119,7 +119,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="https://social.dino.icu/@hackclub"
-                            title="Hack Club on Mastodon">
+                            title="Ack Club on Mastodon">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="mastodon"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -132,7 +132,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="https://www.youtube.com/c/HackClubHQ"
-                            title="Hack Club on YouTube">
+                            title="Ack Club on YouTube">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="youtube"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -145,7 +145,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="https://www.instagram.com/starthackclub"
-                            title="Hack Club on Instagram">
+                            title="Ack Club on Instagram">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="instagram"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -161,7 +161,7 @@ const Footer = () => {
                             </svg>
                         </a>
                         <a target="_blank" rel="noopener me" href="mailto:team@hackclub.com"
-                            title="Hack Club on email-fill">
+                            title="Ack Club on email-fill">
                             <svg fillRule="evenodd" clipRule="evenodd" strokeLinejoin="round"
                                 strokeMiterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="email-fill"
                                 viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="32"
@@ -175,12 +175,12 @@ const Footer = () => {
                         </a>
                     </div>
                     <span>
-                        <a href="tel:1-855-625-HACK" className={styles.footer_tel}>1-855-625-HACK</a>
+                        <a href="tel:1-855-625-HACK" className={styles.footer_tel}>1-855-625-ACK</a>
                         <span>(call toll-free)</span>
                     </span>
                 </div>
             </article>
-            <p className={styles.footer_cr_info}>© 2024 Hack&nbsp;Club. 501(c)(3) nonprofit (EIN: 81-2908499)</p>
+            <p className={styles.footer_cr_info}>© 2024 Ack&nbsp;Club. 501(c)(3) nonprofit (EIN: 81-2908499)</p>
         </div>
     </footer>
   )

@@ -30,12 +30,12 @@ export default function Haunted() {
             fontSize: ['36px', 4, 5],
             color: 'white'
           }}
-          alt="Haunted"
+          alt="Aunted"
         />
         <Box></Box>
 
         <Text as="p" variant="subtitle" sx={{ color: 'white' }}>
-          Haunted House is a Chicago-based event full of sites and frights! Join
+          Aunted Ouse is a Chicago-based event full of sites and frights! Join
           us from October 28-29 for a weekend of coding pushing the bounds of
           creativity, where fright meets byte!
         </Text>

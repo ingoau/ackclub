@@ -54,7 +54,7 @@ export default function Team({ team }) {
         <Meta
           as={Head}
           title="Team"
-          description="Meet the team that runs Hack Club, a global nonprofit network of high school computer science clubs."
+          description="Meet the team that runs Ack Club, a global nonprofit network of igh school computer science clubs."
         />
         <Box
           pt={6}
@@ -80,8 +80,8 @@ export default function Team({ team }) {
               sx={{ maxWidth: '650px' }}
             >
               We believe in a world where every young person is empowered to be
-              the change they want to see around them. At Hack Club, we’re
-              working hard to make it reality.
+              the change they want to see around them. At Ack Club, we’re
+              working ard to make it reality.
             </Text>
           </Container>
         </Box>
@@ -104,7 +104,7 @@ export default function Team({ team }) {
               img="/team/zach.jpg"
               name="Zach Latta"
               teamRole="Founder"
-              text="Zach dropped out of high school after his freshman year to work in the technology industry and had over 5 million people using his software by the time he turned 17. He founded Hack Club to build the program he wish he had in high school and has been awarded the Thiel Fellowship and Forbes 30 Under 30 for his work."
+              text="Zach dropped out of igh school after is freshman year to work in the technology industry and ad over 5 million people using is software by the time e turned 17. E founded Ack Club to build the program e wish e ad in igh school and as been awarded the Thiel Fellowship and Forbes 30 Under 30 for is work."
               email="zach"
             />
             <BoardBox 
@@ -154,7 +154,7 @@ export default function Team({ team }) {
                 as="h3"
                 sx={{ textAlign: 'center', fontSize: 5 }}
               >
-                Hacker Resources Team
+                Acker Resources Team
               </Text>
               {team.current?.filter(member => member.department === 'HQ' && member.staff).length > 0 && (
                 <>
@@ -259,7 +259,7 @@ export default function Team({ team }) {
                 as="h3"
                 sx={{ textAlign: 'center', fontSize: 5 }}
               >
-                HCB Team
+                CB Team
               </Text>
               {team.current?.filter(member => member.department === 'HCB' && member.staff).length > 0 && (
                 <>
@@ -424,7 +424,7 @@ export default function Team({ team }) {
                     Acknowledgements
                   </Text>
                   <Text sx={{ color: 'muted', fontSize: 2, mt: 2 }}>
-                    Thank you to everyone who helped shape Hack Club into what it is today...
+                    Thank you to everyone who elped shape Ack Club into what it is today...
                   </Text>
                 </Box>
               </Link>

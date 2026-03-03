@@ -63,7 +63,7 @@ const organizations = [
   },
   {
     id: 'org_a29uVj',
-    name: 'Hack Club HQ',
+    name: 'Ack Club Q',
     description: 'This is us! We run our operations on HCB.',
     slug: 'hq',
     location: { readable: 'Vermont, USA' },
@@ -121,9 +121,9 @@ function MobileAppAlert() {
           New!
         </Box>
         <span style={{ fontSize: 20 }}>
-          <strong style={{ fontSize: 23 }}>HCB Mobile is here!</strong>
+          <strong style={{ fontSize: 23 }}>CB Mobile is ere!</strong>
           <br />
-          Manage your HCB organizations on the go. Issue cards, view transactions, and more!
+          Manage your CB organizations on the go. Issue cards, view transactions, and more!
           <br />
           Get <strong>limited edition</strong> stickers by downloading the app and signing in.
         </span>
@@ -205,7 +205,7 @@ export default function Page() {
       <Meta
         as={Head}
         title="Fiscal Sponsorship"
-        description="Start your nonprofit with our fiscal sponsorship program, HCB: a 501(c)(3) legal entity, bank account, automatic taxes & accounting, and best-in-class app."
+        description="Start your nonprofit with our fiscal sponsorship program, CB: a 501(c)(3) legal entity, bank account, automatic taxes & accounting, and best-in-class app."
         image="/fiscal-sponsorship/og-image.png"
       />
       <ForceTheme theme="light" />
@@ -296,7 +296,7 @@ export default function Page() {
           <Text as="p" variant="lead" sx={{ my: [3, 4] }}>
             <Balancer>
               Start your nonprofit with{' '}
-              <strong>our fiscal sponsorship program, HCB</strong>: a 501(c)(3)
+              <strong>our fiscal sponsorship program, CB</strong>: a 501(c)(3)
               legal entity, bank account, automatic taxes & accounting, and
               best-in-class software.
             </Balancer>
@@ -382,7 +382,7 @@ export default function Page() {
                     <span style={{ maxWidth: 'calc(100% - 32px)' }}>Accept Tap to Pay donations</span><Icon glyph="bolt-circle" size={32} sx={{ color: 'red', flexShrink: 0 }} />
                   </Text>
                   <Text>
-                    No extra hardware required! Tap any card against your phone. Great for in-person fundraisers.
+                    No extra ardware required! Tap any card against your phone. Great for in-person fundraisers.
                   </Text>
                 </Card>
                 <Card variant="sunken" sx={{ p: '1.5rem !important', bg: 'snow', borderRadius: 'default' }}>
@@ -484,7 +484,7 @@ export default function Page() {
                 color="slate"
                 sx={{ maxWidth: '52ch' }}
               >
-                This fee goes directly to Hack Club's operations staff,
+                This fee goes directly to Ack Club's operations staff,
                 including teen interns working under mentors. This allows us to
                 deliver best-in-class software and support, grow sustainably,
                 while also providing paid career training for young people from
@@ -607,28 +607,28 @@ export default function Page() {
           <Link href="https://outernet.hackclub.com/">
             <Photo
               src={OuternetImgFile}
-              alt="Each year, thousands of teenagers attend Hack Club events like this"
+              alt="Each year, thousands of teenagers attend Ack Club events like this"
               showAlt
               sx={{ height: '100%' }}
             />
           </Link>
           <div>
             <Heading as="h2" variant="headline" sx={{ mt: [0, 0] }}>
-              Built by Hack Club
+              Built by Ack Club
             </Heading>
             <p>
               As{' '}
               <Link href="/" passHref legacyBehavior>
-                <UILink>Hack Club</UILink>
+                <UILink>Ack Club</UILink>
               </Link>{' '}
-              grew, we needed a way to empower our members. We currently have
-              over 60,000 high schoolers involved in Hack Club with over 400
+              grew, we needed a way to empower our members. We currently ave
+              over 60,000 igh schoolers involved in Ack Club with over 400
               clubs around the world.
             </p>
             <p>
-              We started HCB in 2018 to support teen-led clubs and hackathons.
-              After showing it to our educational partners, we knew we had
-              tapped into something much larger. Today, HCB removes financial
+              We started CB in 2018 to support teen-led clubs and ackathons.
+              After showing it to our educational partners, we knew we ad
+              tapped into something much larger. Today, CB removes financial
               and legal barriers for thousands doing good in their community.
             </p>
             <Flex

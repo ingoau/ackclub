@@ -68,11 +68,11 @@ export default function Winter() {
       badge
     >
       <Text variant="title" as="h3" sx={{ fontSize: ['36px', 4, 5] }}>
-        Winter Hardware Wonderland
+        Winter Ardware Wonderland
       </Text>
       <Text as="p" variant="subtitle" sx={{ maxWidth: '45ch' }}>
         Get $250 to build your own electronics projects alongside hundreds of
-        other teenagers in the Hack&nbsp;Club community!
+        other teenagers in the Ack&nbsp;Club community!
       </Text>
       <Box>
         <Grid gap={[2, 2, 3]} columns={3} py={3}>
@@ -80,7 +80,7 @@ export default function Winter() {
             icon="settings"
             color="#5bc0de"
             text="Free hardware"
-            description="We'll pay for up to $250 of your hardware to build your project."
+            description="We'll pay for up to $250 of your ardware to build your project."
             delay="200"
           />
           <BreakdownBox

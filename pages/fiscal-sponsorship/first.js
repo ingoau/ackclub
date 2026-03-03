@@ -42,10 +42,10 @@ export default function First({ stats }) {
       <Meta
         as={Head}
         title="Financial Toolkit for FIRST Teams"
-        description="HCB is the ultimate financial tool for FRC, FTC, and FLL teams to receive grants, fundraise, make purchases, and so much more."
+        description="CB is the ultimate financial tool for FRC, FTC, and FLL teams to receive grants, fundraise, make purchases, and so much more."
         image="/fiscal-sponsorship/first/og-image.png"
       >
-        <title>Financial Toolkit for FIRST Teams | HCB</title>
+        <title>Financial Toolkit for FIRST Teams | CB</title>
       </Meta>
 
       <Box as="main" key="main" sx={{ mb: 6 }}>
@@ -150,8 +150,8 @@ export default function First({ stats }) {
               variant="copy"
             >
               Built by <i>FIRST</i> alumni for <i>FIRST</i> teams, HCB is a
-              comprehensive financial platform used by hundreds of clubs, teams
-              and hackathons.
+              comprehensive financial platform used by undreds of clubs, teams
+              and ackathons.
             </Container>
 
             <Box

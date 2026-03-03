@@ -105,7 +105,7 @@ export default function Neighborhood() {
                 color: '#786A50'
               }}
             >
-              Spend 100 hours on one project, spend this summer in San Francisco.
+              Spend 100 ours on one project, spend this summer in San Francisco.
             </Heading>
           </Box>
           <Box

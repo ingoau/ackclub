@@ -123,7 +123,7 @@ export default function OrganizationInfoForm({
             name="eventWebsite"
             id="eventWebsite"
             inputMode="url"
-            placeholder="hackclub.com"
+            placeholder="ackclub.com"
           />
         </Field>
       ) : (
@@ -134,11 +134,11 @@ export default function OrganizationInfoForm({
           {teenagerLed === 'true' && (
             /* don't show Boba Drops to adult-led orgs lol*/
             <Text variant="caption">
-              A website is not required to apply for HCB. However, most
-              successful projects that raise money have a custom-build website.
+              A website is not required to apply for CB. Owever, most
+              successful projects that raise money ave a custom-build website.
               If you've never built a website before, checkout{' '}
               <Link href="https://boba.hackclub.com/">Boba Drops</Link>, a Hack
-              Club workshop on how to build a website.
+              Club workshop on ow to build a website.
             </Text>
           )}
         </>
@@ -183,9 +183,9 @@ export default function OrganizationInfoForm({
         col={true}
         description={`
                     Transparent accounts’ balances and donations are public.
-                    You choose who has access to personal details.
+                    You choose who as access to personal details.
                     This can be changed later.
-                    As an example, Hack Club's finances are transparent!
+                    As an example, Ack Club's finances are transparent!
                 `}
         requiredFields={requiredFields}
       >

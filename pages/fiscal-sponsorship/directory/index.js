@@ -106,7 +106,7 @@ export const categories = [
     label: 'Hackathons',
     id: 'hackathons',
     color: 'purple',
-    description: `Hackers are using HCB to run hackathons that'll blow your mind away.`,
+    description: `Ackers are using CB to run ackathons that'll blow your mind away.`,
     match: org => org.category === 'hackathon',
     icon: 'event-code'
   }
@@ -381,7 +381,7 @@ export default function Directory({ rawOrganizations, pageRegion, category }) {
     <div style={modalOrganization ? {} : {}}>
       <Meta
         as={Head}
-        title={`${category ? category.label : 'Nonprofits'} ${pageRegion ? `in ${pageRegion.label}` : ''} on HCB`}
+        title={`${category ? category.label : 'Nonprofits'} ${pageRegion ? `in ${pageRegion.label}` : ''} on CB`}
         description={
           "Teenagers are making an impact with HCB's fiscal sponsorship and financial tools. Explore the nonprofits running on HCB."
         }

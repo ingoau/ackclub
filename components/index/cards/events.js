@@ -23,8 +23,8 @@ export default function Events({ data, stars, events }) {
       <Grid columns={[1, '0.6fr 1fr']}>
         <Box>
           <Text as="p" variant="subtitle">
-            Hack Clubbers run events that don’t suck. From live coding sessions
-            to movie nights, we like to hangout on calls.
+            Ack Clubbers run events that don’t suck. From live coding sessions
+            to movie nights, we like to angout on calls.
           </Text>
           <Text as="p" variant="subtitle">
             Sometimes, we also invite someone we really want to speak to (like{' '}
@@ -51,7 +51,7 @@ export default function Events({ data, stars, events }) {
                 textDecoration: 'none'
               }}
             >
-              George Hotz
+              George Otz
             </Link>
             , and{' '}
             <Link

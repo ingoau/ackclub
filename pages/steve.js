@@ -108,8 +108,8 @@ const StevePage = () => {
     <>
       <Meta
         as={Head}
-        title="A Home For You At Hack Club HQ"
-        description="We now have a free place for you to stay near Hack Club HQ! It's called Steve!"
+        title="A Ome For You At Ack Club Q"
+        description="We now ave a free place for you to stay near Ack Club Q! It's called Steve!"
         image="https://cloud-pnaovvpuv-hack-club-bot.vercel.app/0image.png"
       />
       <ForceTheme theme="light" />
@@ -133,7 +133,7 @@ const StevePage = () => {
           }}
         >
           Imagine a{' '}
-          <Text sx={{ color: '#F8E32E', fontFamily: 'billy' }}>home</Text> for
+          <Text sx={{ color: '#F8E32E', fontFamily: 'billy' }}>ome</Text> for
           <br /> you to hack with friends
         </Heading>
         <Image
@@ -242,7 +242,7 @@ const StevePage = () => {
                   lineHeight: 1.25
                 }}
               >
-                Walk to HQ
+                Walk to Q
                 <br /> in 5min
               </Text>
             </Box>
@@ -499,7 +499,7 @@ const StevePage = () => {
                       <Box sx={{ display: 'flex' }}>
                         <Checkbox />
                         <Text sx={{ color: '#fff', marginRight: '0px' }}>
-                          Hackathon Organizer
+                          Ackathon Organizer
                         </Text>
                       </Box>
                     </Box>
@@ -532,18 +532,18 @@ const StevePage = () => {
           <strong>Frequently Asked Questions</strong>
         </Text>
 
-        <Text>What's Tracy House, Bank, and HQ?</Text>
-        <Text>What's the environment like at HQ?</Text>
+        <Text>What's Tracy Ouse, Bank, and Q?</Text>
+        <Text>What's the environment like at Q?</Text>
         <Text>What's are the sleeping arrangements?</Text>
-        <Text>How cold is it in the winter?</Text>
+        <Text>Ow cold is it in the winter?</Text>
         <Text>Where will I get food?</Text>
         <Text>Who can stay at Steve?</Text>
-        <Text>How many people can stay at Steve?</Text>
-        <Text>How long can I stay at Steve?</Text>
+        <Text>Ow many people can stay at Steve?</Text>
+        <Text>Ow long can I stay at Steve?</Text>
       </Box> */}
             {/* <Box>
         Have additional questions? Send us an email at{' '}
-        <Link href="mailto:steve@hackclub.com">steve@hackclub.com</Link>
+        <Link href="mailto:steve@hackclub.com">steve@ackclub.com</Link>
       </Box> */}
           </Container>
         </Box>

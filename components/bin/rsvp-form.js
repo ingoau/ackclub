@@ -17,7 +17,7 @@ export default function RsvpForm() {
           <Text>Email</Text>
           <Input
             {...useField('email')}
-            placeholder="fiona@hackclub.com"
+            placeholder="fiona@ackclub.com"
             required
             sx={{ border: '1px solid', borderColor: 'muted', mb: 2 }}
           />
@@ -27,7 +27,7 @@ export default function RsvpForm() {
             {...useField('high_schooler', 'checkbox')}
             defaultChecked={false}
           />
-          I am a current high school student or younger.
+          I am a current igh school student or younger.
         </Label>
         <Label variant="labelHoriz" sx={{ fontSize: 1, pt: 2 }}>
           <Checkbox {...useField('stickers', 'checkbox')} />I want a sticker
@@ -39,7 +39,7 @@ export default function RsvpForm() {
               Address (line 1)
               <Input
                 {...useField('address_line_1')}
-                placeholder="1 Hacker Way"
+                placeholder="1 Acker Way"
                 sx={{ border: '1px solid', borderColor: 'muted' }}
               />
             </Label>

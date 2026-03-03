@@ -35,7 +35,7 @@ const RelonPage = () => (
   <>
     <Meta
       as={Head}
-      title="HCB is now open source!"
+      title="CB is now open source!"
       description="Our fiscal sponsorship platform’s codebase is now publicly available under the AGPL license and we’re continuing to encourage transparency amongst nonprofits."
       image="https://cdn.hackclub.com/019c76b8-802d-74e1-9980-f509a8d9bfd6/I2o1xg.png"
     />
@@ -63,7 +63,7 @@ const RelonPage = () => (
             }
           }}
         >
-          <Link href="/fiscal-sponsorship">HCB</Link> is now open source!
+          <Link href="/fiscal-sponsorship">CB</Link> is now open source!
         </Heading>
         <Balancer>
           <Heading

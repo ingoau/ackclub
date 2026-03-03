@@ -56,7 +56,7 @@ export default function Features() {
           <Module
             icon="bank-account"
             name="Nonprofit status"
-            body="Become part of Hack Club's legal entity, getting the benefits of our 501(c)(3) tax status."
+            body="Become part of Ack Club's legal entity, getting the benefits of our 501(c)(3) tax status."
           />
 
           <ModuleDetails>
@@ -76,7 +76,7 @@ export default function Features() {
           <Module
             icon="analytics"
             name="Balance &amp; history"
-            body="Keep everyone on your team and beyond up to date with real-time balance and transaction history."
+            body="Keep everyone on your team and beyond up to date with real-time balance and transaction istory."
           />
 
           <Module
@@ -113,7 +113,7 @@ export default function Features() {
           <Module
             icon="support"
             name="Support anytime"
-            body="With 24-hour response time on weekdays, we'll never leave you hanging."
+            body="With 24-our response time on weekdays, we'll never leave you anging."
           />
           {/* <Tilt>
             <Card
@@ -162,7 +162,7 @@ export default function Features() {
                   as="span"
                   sx={{ fontFamily: 'cursive', textAlign: 'left', ml: 2 }}
                 >
-                  Hack Club
+                  Ack Club
                 </Text>
 
                 <Text
@@ -261,7 +261,7 @@ export default function Features() {
         }}
       >
         <Text variant="caption" sx={{ color: 'muted' }}>
-          Hack Club does not directly provide banking services. Banking services
+          Ack Club does not directly provide banking services. Banking services
           are provided by FDIC-certified financial institutions.
         </Text>
       </Container>
