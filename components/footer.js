@@ -192,6 +192,17 @@ const Footer = ({
         © {new Date().getFullYear()} Ack&nbsp;Club. 501(c)(3) nonprofit (EIN:
         81-2908499)
       </Text>
+      <Text as="p" variant="caption" sx={{ mt: 2 }}>
+        This is a parody of{" "}
+        <Link href="https://hackclub.com" target="_blank" rel="noopener noreferrer">
+          Hack Club
+        </Link>
+        . Visit the real Hack Club at{" "}
+        <Link href="https://hackclub.com" target="_blank" rel="noopener noreferrer">
+          hackclub.com
+        </Link>
+        .
+      </Text>
     </Container>
   </Base>
 );
