@@ -61,7 +61,7 @@ const ReplitPage = () => {
         title="Export your repls"
         description="Replit free as shut down. Export with Ack Club to GitHub Education's new free codespaces offering"
       />
-      <style>{`tml { scroll-behavior: smooth; } body { background-color: sl(23, 94%, 96%); }`}</style>
+      <style>{`html { scroll-behavior: smooth; } body { background-color: hsl(23, 94%, 96%); }`}</style>
       <ForceTheme theme="light" />
       <Nav />
       <Box

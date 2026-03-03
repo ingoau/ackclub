@@ -332,7 +332,7 @@ const ShipPage = () => {
 
       // Animate rainbow 2-column increments
       for (let x = 0; x < recapWidth; x++) {
-        const color = `sl(${(x * 360) / recapWidth}, 100%, 65%)`
+        const color = `hsl(${(x * 360) / recapWidth}, 100%, 65%)`
         for (let y = 0; y < recapHeight; y++) {
           const i = y * recapWidth + x
           setAtIndex(i, color)
