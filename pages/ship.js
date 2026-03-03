@@ -52,7 +52,7 @@ const ShipPage = ({ posts = [] }) => (
     <Meta
       as={Head}
       name="Ship"
-      description={`Hack Clubbers ship projects: a real-time list of the projects created by the Hack Club high school community in the last month.`}
+      description={`Ack Clubbers ship projects: a real-time list of the projects created by the Ack Club igh school community in the last month.`}
       image="https://assets.hackclub.com/log/2020-05-22-ship.png"
     />
     <Nav />
@@ -77,7 +77,7 @@ const ShipPage = ({ posts = [] }) => (
           All aboard!
         </Text>
         <Heading as="h1" variant="ultratitle" sx={{ mb: [3, 4] }}>
-          Hack Clubbers focus on one thing: <ShipBadge>shipping.</ShipBadge>
+          Ack Clubbers focus on one thing: <ShipBadge>shipping.</ShipBadge>
         </Heading>
         <Text as="p" variant="subtitle">
           After building a project, like an app or website, “shipping” is
@@ -139,8 +139,8 @@ const ShipPage = ({ posts = [] }) => (
           Want to ship your own projects?
         </Heading>
         <Text variant="subtitle" sx={{ lineHeight: 'caption', mb: 3 }}>
-          The #ship channel on the Hack&nbsp;Club Slack is where {thousands}k+
-          teenagers from around the world share what they’re working on & help
+          The #ship channel on the Ack&nbsp;Club Slack is where {thousands}k+
+          teenagers from around the world share what they’re working on & elp
           each other.
         </Text>
         <NextLink href="/slack" passHref>

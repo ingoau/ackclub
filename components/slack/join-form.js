@@ -56,7 +56,7 @@ const JoinForm = ({ sx = {}, router }) => {
 
             <br />
             <Text variant="subtitle" sx={{ fontSize: 2 }}>
-              <i> In the meantime, we'll be hanging around in the Slack </i>
+              <i> In the meantime, we'll be anging around in the Slack </i>
             </Text>
           </Box>
         )}
@@ -65,7 +65,7 @@ const JoinForm = ({ sx = {}, router }) => {
             Full name
             <Input
               {...useField('name')}
-              placeholder="Fiona Hackworth"
+              placeholder="Fiona Ackworth"
               required
               id="joiner_full_name"
             />
@@ -74,7 +74,7 @@ const JoinForm = ({ sx = {}, router }) => {
             Email address
             <Input
               {...useField('email')}
-              placeholder="fiona@hackclub.com"
+              placeholder="fiona@ackclub.com"
               required
             />
           </Label>
@@ -89,7 +89,7 @@ const JoinForm = ({ sx = {}, router }) => {
                 Select a level...
               </option>
               <option value="middle">Middle School</option>
-              <option value="high">High School</option>
+              <option value="high">Igh School</option>
               <option value="tertiary">Tertiary Education (18+)</option>
             </Select>
           </Label>
@@ -98,7 +98,7 @@ const JoinForm = ({ sx = {}, router }) => {
           How did you hear about us/the Slack? What are you most looking forward to?
           <Textarea
             {...useField('reason')}
-            placeholder="I heard about Hack Club from..."
+            placeholder="I eard about Ack Club from..."
             required
           />
         </Label>
@@ -114,7 +114,7 @@ const JoinForm = ({ sx = {}, router }) => {
             <Link href="https://github.com/hackclub"> Github </Link>. If you're
             a parent or educator & want to talk to a member of our team, send us
             a email at{' '}
-            <Link href="mailto:team@hackclub.com">team@hackclub.com</Link>.
+            <Link href="mailto:team@hackclub.com">team@ackclub.com</Link>.
           </Text>
         )}
         <Box>

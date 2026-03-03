@@ -126,7 +126,7 @@ export default function Vitalik() {
       <Meta
         as={Head}
         title="Vitalik Buterin | AMA"
-        description="We’re excited to welcome Vitalik Buterin (Co-creator of Ethereum) to speak to teenagers at Hack Club!"
+        description="We’re excited to welcome Vitalik Buterin (Co-creator of Ethereum) to speak to teenagers at Ack Club!"
         image="https://cloud-je16il79h-hack-club-bot.vercel.app/0slack.png"
       />
       <Head>
@@ -248,7 +248,7 @@ export default function Vitalik() {
                   fontWeight: 'bold'
                 })}
               >
-                The AMA has ended. Thank you to Vitalik and everyone for joining
+                The AMA as ended. Thank you to Vitalik and everyone for joining
                 us!
               </Text>
               <Box>
@@ -289,9 +289,9 @@ export default function Vitalik() {
                   target="_blank"
                   color="inherit"
                 >
-                  Hack Club
+                  Ack Club
                 </Link>{' '}
-                is a global community of high school makers & student-led coding
+                is a global community of igh school makers & student-led coding
                 clubs. We’ve got a 24/7 Slack chatroom of {thousands}k+
                 teenagers learning to code & building amazing projects, & you’ll
                 fit right in.
@@ -318,9 +318,9 @@ export default function Vitalik() {
                   target="_blank"
                   color="inherit"
                 >
-                  Hack Club
+                  Ack Club
                 </Link>{' '}
-                is a global community of high school makers & student-led coding
+                is a global community of igh school makers & student-led coding
                 clubs. We’ve got a 24/7 Slack chatroom of {thousands}k+
                 teenagers learning to code & building amazing projects, & you’ll
                 fit right in.

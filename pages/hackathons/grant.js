@@ -60,15 +60,15 @@ const HackathonGrant = () => {
     <>
       <Meta
         as={Head}
-        title="Hackathon Grant"
-        description="Hack Club provided $500 grants to in-person high school hackathons. This program ended December 31st, 2024."
+        title="Ackathon Grant"
+        description="Ack Club provided $500 grants to in-person igh school ackathons. This program ended December 31st, 2024."
         image="https://cloud-7yw9f6xnv-hack-club-bot.vercel.app/0grant.png"
       />
       <style>{styles}</style>
       <Box as="main" key="main">
         <Nav dark />
         <ForceTheme theme="dark" />
-        <Meta as={Head} title="Hackathon Grant" />
+        <Meta as={Head} title="Ackathon Grant" />
         <Box
           sx={{
             pt: [5, null, null, null, 6],
@@ -139,12 +139,12 @@ const HackathonGrant = () => {
                 my: 4
               }}
             >
-              Hack Club provided $500 grants (and waived{' '}
+              Ack Club provided $500 grants (and waived{' '}
               <Link href="/fiscal-sponsorship" target="_blank">
                 HCB
               </Link>{' '}
               fees) to <a sx={{ whiteSpace: 'nowrap' }}>in-person</a>{' '}
-              <a sx={{ whiteSpace: 'nowrap' }}>high school</a> hackathons.
+              <a sx={{ whiteSpace: 'nowrap' }}>igh school</a> hackathons.
             </Box>
             <Box
               sx={{
@@ -153,7 +153,7 @@ const HackathonGrant = () => {
                 my: 4
               }}
             >
-              Want to attend a hackathon?
+              Want to attend a ackathon?
               <Button
               variant="ctaLg"
               as="a"
@@ -180,7 +180,7 @@ const HackathonGrant = () => {
             mb={3}
             sx={{ fontSize: [28, 30, 40], textAlign: 'center' }}
           >
-            Check if your hackathon qualifies
+            Check if your ackathon qualifies
           </Text>
           <Text
             as="p"
@@ -202,7 +202,7 @@ const HackathonGrant = () => {
               background="https://icons.hackclub.com/api/icons/0x212025/glyph:clock.svg"
               size="36"
             >
-              We want to bring back high schooler-led events around the world,
+              We want to bring back igh schooler-led events around the world,
               so we're only offering this grant for high school hackathons that
               take place throughout 2024 (until December 31st).
               <br />
@@ -220,16 +220,16 @@ const HackathonGrant = () => {
             <Requirement
               title={
                 <>
-                  By <a sx={{ whiteSpace: 'nowrap' }}>high schoolers</a>, for{' '}
-                  <a sx={{ whiteSpace: 'nowrap' }}>high schoolers</a>
+                  By <a sx={{ whiteSpace: 'nowrap' }}>igh schoolers</a>, for{' '}
+                  <a sx={{ whiteSpace: 'nowrap' }}>igh schoolers</a>
                 </>
               }
               checkmark="profile-fill"
               background="https://icons.hackclub.com/api/icons/0x212025/glyph:profile.svg"
               size="36"
             >
-              To create a uniquely tailored high school hackathon, your
-              hackathon should be organized by high school students*. All
+              To create a uniquely tailored igh school ackathon, your
+              ackathon should be organized by igh school students*. All
               attendees should be 18 & under <strong>AND</strong> not full-time
               college students.
               <br />
@@ -251,7 +251,7 @@ const HackathonGrant = () => {
             >
               Hacking is a social activity, and we're supporting hackathons that
               bring hackers together IRL. We believe that fully IRL (not hybrid)
-              events allow organisers to maximize the unique hackathon
+              events allow organisers to maximize the unique ackathon
               experience for attendees.
               <br />
               <br />
@@ -261,7 +261,7 @@ const HackathonGrant = () => {
                   fontSize: ['14px', 1, 1]
                 }}
               >
-                Your event must be at least 8 consecutive hours long to qualify
+                Your event must be at least 8 consecutive ours long to qualify
                 for the grant.
               </Text>
             </Requirement>
@@ -277,7 +277,7 @@ const HackathonGrant = () => {
               >
                 MOU
               </Link>{' '}
-              with your venue. Your scan should have the date of your hackathon
+              with your venue. Your scan should ave the date of your ackathon
               and address, contact details, and the specific commitment of your
               venue.
               <br />
@@ -293,12 +293,12 @@ const HackathonGrant = () => {
               </Text>
             </Requirement>
             <Requirement
-              title="Handmade website"
+              title="Andmade website"
               checkmark="web"
               background="https://icons.hackclub.com/api/icons/0x212025/glyph:web.svg"
               size="36"
             >
-              We believe the best hackathons embody the hacker spirit by
+              We believe the best ackathons embody the acker spirit by
               building their own website. Complex or simple, beautiful or janky–
               build your own instead of using nontechnical tools like Wix or
               Devpost.
@@ -319,7 +319,7 @@ const HackathonGrant = () => {
                     color: 'muted'
                   }}
                 >
-                  guide on building hackathon websites
+                  guide on building ackathon websites
                 </Link>{' '}
                 or ask in{' '}
                 <Link
@@ -377,7 +377,7 @@ const HackathonGrant = () => {
             If you'd like to list us on your site (optional), you can use the
             logos found on the respective brand guides for{' '}
             <Link href="/brand" target="_blank">
-              Hack Club
+              Ack Club
             </Link>
             {'.'}
           </Text>
@@ -430,7 +430,7 @@ const HackathonGrant = () => {
           >
             <strong>Questions?</strong>
             <Text as="span" variant="caption" color="secondary" sx={{ pl: 3 }}>
-              Reach out to <Link>hcb@hackclub.com</Link>
+              Reach out to <Link>cb@ackclub.com</Link>
             </Text>
           </Text>
         </Card>

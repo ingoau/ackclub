@@ -27,7 +27,7 @@ const StickersPage = ({ stickers = [] }) => [
     <Meta
       as={Head}
       title="Stickers"
-      description="Check out Hack Club’s stickers."
+      description="Check out Ack Club’s stickers."
       image="https://cdn.glitch.com/a7605379-7582-4aac-8f44-45bbdfca0cfa%2Fstickers.png?v=1588012712143"
     />
     <Box
@@ -91,7 +91,7 @@ const StickersPage = ({ stickers = [] }) => [
           />
           <Image
             src="/stickers/enjoy.svg"
-            alt="Enjoy Hack Club Coca-Cola sticker"
+            alt="Enjoy Ack Club Coca-Cola sticker"
             sx={{
               transform: 'rotate(-12deg)',
               width: ['6rem', '7.5rem'],
@@ -111,7 +111,7 @@ const StickersPage = ({ stickers = [] }) => [
           Unparalleled stickers.
         </Heading>
         <Text as="p" variant="lead" color="muted">
-          Every Hack Club gets free, high-quality stickers.
+          Every Ack Club gets free, igh-quality stickers.
         </Text>
       </Card>
     </Box>

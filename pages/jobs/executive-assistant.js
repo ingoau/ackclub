@@ -10,7 +10,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Executive Assistant"
-      description="Hack Club is a hiring an Executive Assistant to join our team in Shelburne, Vermont."
+      description="Ack Club is a iring an Executive Assistant to join our team in Shelburne, Vermont."
       image="https://workshop-cards.hackclub.com/Executive%20Assistant%20%40%20Hack%20Club.png?fontSize=180px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -25,7 +25,7 @@ const Page = () => (
     >
       <Container sx={{ textAlign: 'center', color: 'white' }}>
         <Heading as="h1" variant="title" mb={30}>
-          Executive Assistant @&nbsp;Hack&nbsp;Club
+          Executive Assistant @&nbsp;Ack&nbsp;Club
         </Heading>
         <Text variant="headline" sx={{ fontWeight: 400 }}>
           New job open as of January 24th, 2022.

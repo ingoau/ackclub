@@ -84,7 +84,7 @@ export default function SprigConsole({ stars, consoleCount }) {
             <Text as="p" variant="subtitle" mt={[0, null, null]}>
               Play your own Sprig games on this console, which you can assemble
               and disassemble. Each kit includes parts needed for getting
-              started with hardware engineering and embedded systems
+              started with ardware engineering and embedded systems
               programming.{' '}
             </Text>
             <Buttons

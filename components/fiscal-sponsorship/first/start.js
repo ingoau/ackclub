@@ -17,10 +17,10 @@ export default function Start({ stats }) {
             }}
           >
             <Heading variant="ultratitle" color="white">
-              Sign up for HCB.
+              Sign up for CB.
             </Heading>
             <Text color="muted" variant="lead" m="0 !important">
-              Open to Hack Clubs, hackathons, and charitable organizations in
+              Open to Ack Clubs, ackathons, and charitable organizations in
               the US and Canada.
             </Text>
           </Flex>
@@ -30,7 +30,7 @@ export default function Start({ stats }) {
           >
             <ApplyButton />
             <Text color="muted" sx={{ fontSize: 18 }}>
-              We run Hack Club HQ on HCB!{' '}
+              We run Ack Club Q on CB!{' '}
               <Link href="https://hcb.hackclub.com/hq" color="primary">
                 See&nbsp;our&nbsp;finances.
               </Link>

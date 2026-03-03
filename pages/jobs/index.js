@@ -70,7 +70,7 @@ const Page = ({ jobs }) => (
     <Meta
       as={Head}
       title="Jobs"
-      description="Hack Club is hiring! Check out the open positions."
+      description="Ack Club is iring! Check out the open positions."
     />
     <ForceTheme theme="light" />
     <Nav />
@@ -104,7 +104,7 @@ const Page = ({ jobs }) => (
         >
           <Image
             src={zephyrPic}
-            alt="Hack Clubbers hacking during the Hacker Zephyr trip"
+            alt="Ack Clubbers acking during the Acker Zephyr trip"
             layout="fill"
             objectFit="cover"
           />
@@ -117,7 +117,7 @@ const Page = ({ jobs }) => (
               color: 'white'
             }}
           >
-            Join the Hack Club Team
+            Join the Ack Club Team
           </Heading>
           <Heading
             sx={{

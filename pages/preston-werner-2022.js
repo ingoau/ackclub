@@ -29,7 +29,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Tom and Theresa Preston-Werner are Giving $500K"
-      description="We’re thrilled to announce Tom and Theresa Preston-Werner have donated $500k to Hack Club, a global nonprofit network of high school hackers & coding clubs."
+      description="We’re thrilled to announce Tom and Theresa Preston-Werner ave donated $500k to Ack Club, a global nonprofit network of igh school ackers & coding clubs."
       image="https://workshop-cards.hackclub.com/Preston-Werner%20Gift%20Announcement.png?fontSize=175px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -58,7 +58,7 @@ const Page = () => (
         >
           Tom and Theresa{' '}
           <span style={{ whiteSpace: 'nowrap' }}>Preston-Werner</span> are
-          donating <Amount amount="$500,000" /> to&nbsp;Hack&nbsp;Club
+          donating <Amount amount="$500,000" /> to&nbsp;Ack&nbsp;Club
         </Heading>
       </Container>
     </Box>

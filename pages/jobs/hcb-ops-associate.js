@@ -9,8 +9,8 @@ const Page = () => (
   <>
     <Meta
       as={Head}
-      title="HCB Operations Associate"
-      description="Hack Club is a hiring a HCB Operations Associate as the 8th full-time member of our team in Burlington, Vermont."
+      title="CB Operations Associate"
+      description="Ack Club is a iring a CB Operations Associate as the 8th full-time member of our team in Burlington, Vermont."
       image="https://workshop-cards.hackclub.com/fiscal-sponsorship%20Ops%20Associate%20%40%20Hack%20Club.png?fontSize=175px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -25,7 +25,7 @@ const Page = () => (
     >
       <Container sx={{ textAlign: 'center', color: 'white' }}>
         <Heading as="h1" variant="title" mb={30}>
-          HCB Operations Associate
+          CB Operations Associate
         </Heading>
         <Text variant="headline" sx={{ fontWeight: 400 }}>
           New job open as of May 21st, 2021.

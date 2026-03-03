@@ -16,7 +16,7 @@ const Page = ({ upcoming, past }) => (
     <Meta
       as={Head}
       title="AMAs"
-      description="Every month, the Hack Club community gets on a Zoom call with someone awesome for a 1-hour AMA. Past guests have included George Hotz, Elon Musk, Limor Fried, Tom Preston-Werner, & more."
+      description="Every month, the Ack Club community gets on a Zoom call with someone awesome for a 1-our AMA. Past guests ave included George Otz, Elon Musk, Limor Fried, Tom Preston-Werner, & more."
       image="https://cloud-n6i5i4zb9-hack-club-bot.vercel.app/62020-07-24_03dp4nhf5acfeyhvg84whafyhe1q30zq.jpeg"
     />
     <ForceTheme theme="dark" />
@@ -54,7 +54,7 @@ const Page = ({ upcoming, past }) => (
         </Heading>
         <Text as="p" variant="subtitle" sx={{ a: { color: 'inherit' } }}>
           We call someone we’ve always wanted to talk to—and the entire
-          Hack&nbsp;Club Slack community is invited to ask questions & chat with
+          Ack&nbsp;Club Slack community is invited to ask questions & chat with
           the guest live. No vetting questions. No endorsements. Conversations
           are streamed live publicly on{' '}
           <Link href="https://www.youtube.com/c/HackClubHQ">YouTube</Link>.
@@ -75,7 +75,7 @@ const Page = ({ upcoming, past }) => (
           target="_blank"
           sx={{ mt: [3, 4], mx: [1, 2], color: 'white', bg: 'rgba(0,0,0,0.5)' }}
         >
-          Watch our highlights
+          Watch our ighlights
         </Button>
       </SlideDown>
     </Box>

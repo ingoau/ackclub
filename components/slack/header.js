@@ -26,7 +26,7 @@ const Content = () => (
           mb: [2, 3]
         }}
       >
-        Hack Club Slack
+        Ack Club Slack
       </Heading>
     </Box>
     <SlideUp sx={{ zIndex: 5, display: 'flex', alignItems: 'center' }}>
@@ -49,7 +49,7 @@ const Content = () => (
           }}
         >
           <Text as="p" sx={{ fontSize: [2, 3], mb: 3 }}>
-            Join thousands of teen hackers chatting, coding, and building together!
+            Join thousands of teen ackers chatting, coding, and building together!
           </Text>
           <Text
             as="a"

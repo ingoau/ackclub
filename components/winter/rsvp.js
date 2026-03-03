@@ -98,7 +98,7 @@ const Rsvp = () => {
               type="text"
               name="name"
               id="name"
-              placeholder="Fiona Hackworth"
+              placeholder="Fiona Ackworth"
               required
             />
           </div>
@@ -109,7 +109,7 @@ const Rsvp = () => {
               type="email"
               name="email"
               id="email"
-              placeholder="fiona@hackclub.com"
+              placeholder="fiona@ackclub.com"
               required
             />
           </div>

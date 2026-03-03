@@ -203,7 +203,7 @@ export default function Shop({
               variant="subtitle"
             >
               1 🎟️ = 1 hour spent building. Like what you see? Check out{' '}
-              <Link href="/arcade">the Hack Club Arcade!</Link>
+              <Link href="/arcade">the Ack Club Arcade!</Link>
             </Text>
           </Balancer>
           <Flex

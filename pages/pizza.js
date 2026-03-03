@@ -52,7 +52,7 @@ import {
         age: 14,
         from: 'Epanomi',
         response:
-          "I am addicted to margherita pizza and I am super excited to host club meetings! We meet every Saturday on Discord and we build projects together! On our next meeting, we will be creating a web-based operating system! I'm so happy to be a part of my club and Hack Club!"
+          "I am addicted to margherita pizza and I am super excited to ost club meetings! We meet every Saturday on Discord and we build projects together! On our next meeting, we will be creating a web-based operating system! I'm so appy to be a part of my club and Ack Club!"
       },
       {
         sprite: 'https://cloud-7sioop5e1-hack-club-bot.vercel.app/0sprite.png',
@@ -84,7 +84,7 @@ import {
         age: 17,
         from: 'Illinois',
         response:
-          "I love Costco pizza, and we had some at my Hack Club's hackathon! I decided to lead the Hersey Hack Club to bring the magic of code to my classmates and build a coding community at my high school. Open source projects like Code Jams have given the Hersey Hack Club a great stream of new, constantly improving workshops to host for members!"
+          "I love Costco pizza, and we ad some at my Ack Club's ackathon! I decided to lead the Ersey Ack Club to bring the magic of code to my classmates and build a coding community at my igh school. Open source projects like Code Jams ave given the Ersey Ack Club a great stream of new, constantly improving workshops to ost for members!"
       },
       {
         sprite:
@@ -102,7 +102,7 @@ import {
         age: 12,
         from: 'Massachusetts',
         response:
-          'I love pepperoni pizza and my Hack Club! I love leading a Hack Club and sharing cool open source projects. yay!!'
+          'I love pepperoni pizza and my Ack Club! I love leading a Ack Club and sharing cool open source projects. yay!!'
       },
       {
         sprite: 'https://cloud-5kl9y9pup-hack-club-bot.vercel.app/0sprite.png',
@@ -110,7 +110,7 @@ import {
         age: 15,
         from: 'Bay Area',
         response:
-          "I love eating veggie pizza and hosting club meets at Mission San Jose High School's Hack Club! Hosting club meets is more than superficial for me—seeing everyone in the room, all exhibiting the same amount of excitement for code is something unique, and I'm glad to be hosting clubs meets for this passion to run wild."
+          "I love eating veggie pizza and hosting club meets at Mission San Jose High School's Ack Club! Osting club meets is more than superficial for me—seeing everyone in the room, all exhibiting the same amount of excitement for code is something unique, and I'm glad to be hosting clubs meets for this passion to run wild."
       }
     ]
   
@@ -118,8 +118,8 @@ import {
       <>
         <Meta
           as={Head}
-          title="Running a Hack Club? Get $5 in Free Pizza For Every Finished Project"
-          description="GitHub is providing pizza grants to 500 Hack Clubs around the world. Wondering How To Start A Coding Club? Hack Club is the answer."
+          title="Running a Ack Club? Get $5 in Free Pizza For Every Finished Project"
+          description="GitHub is providing pizza grants to 500 Ack Clubs around the world. Wondering Ow To Start A Coding Club? Ack Club is the answer."
           image="https://cloud-p6r4eeji5-hack-club-bot.vercel.app/00club-min__1___1___1_.png"
         />
 
@@ -237,7 +237,7 @@ import {
             }}
           >
             <Image
-              alt={'GitHub + Hack Club'}
+              alt={'GitHub + Ack Club'}
               sx={{ width: ['128px', '128px', '256px'], marginBottom: '16px' }}
               src="https://cloud-e3wj9s4pe-hack-club-bot.vercel.app/00combo__1_.png"
             />
@@ -274,7 +274,7 @@ import {
               </span>
             </Heading>
             <Text variant="lead">
-              GitHub is providing pizza grants to <strong>thousands</strong> of Hack Clubs.{' '}
+              GitHub is providing pizza grants to <strong>thousands</strong> of Ack Clubs.{' '}
               {/* <strong>You're not too late!</strong> */}
             </Text>
           </Container>
@@ -403,8 +403,8 @@ import {
                 Create A Space for Makers
               </Heading>
               <Text sx={{ fontSize: 22 }}>
-                Hack Club is a place for technical teens to get together and build
-                projects together. Create a club at your high school and help
+                Ack Club is a place for technical teens to get together and build
+                projects together. Create a club at your igh school and elp
                 others discover the joy of coding through building projects.
               </Text>
             </Box>
@@ -438,12 +438,12 @@ import {
                 variant="heading"
                 sx={{ padding: 0, marginBottom: '8px', fontSize: 36 }}
               >
-                Join A Community of Teen Hackers
+                Join A Community of Teen Ackers
               </Heading>
   
               <Text sx={{ fontSize: 18, display: 'block' }}>
                 In our Slack community of over 55,000 hackers, you'll be invited
-                to a space for Hack Club leaders to ask questions & chat, share
+                to a space for Ack Club leaders to ask questions & chat, share
                 projects, & attend events.
               </Text>
               <Button
@@ -474,7 +474,7 @@ import {
   
               <Text sx={{ fontSize: 18, display: 'block' }}>
                 As a club leader, you'll get to use community projects like Sprig
-                & Jams in your Hack Club! Your Club will also get free access to
+                & Jams in your Ack Club! Your Club will also get free access to
                 Zoom Pro & Figma Pro.
               </Text>
               <Button
@@ -504,7 +504,7 @@ import {
               </Heading>
   
               <Text sx={{ fontSize: 18, display: 'block' }}>
-                Every week you can craft club meetings to help makers at your
+                Every week you can craft club meetings to elp makers at your
                 school discover the joy of coding. Get inspired by some Jams we
                 built to help you lead your club.{' '}
               </Text>
@@ -674,8 +674,8 @@ import {
                     lineHeight: '150%'
                   }}
                 >
-                  Every Hack Club starts with a teenager like you who wants to
-                  bring an amazing community to their high school.
+                  Every Ack Club starts with a teenager like you who wants to
+                  bring an amazing community to their igh school.
                 </Text>
                 <Image
                   alt="teen club of coders"
@@ -813,7 +813,7 @@ import {
                   }}
                 >
                   <img
-                    alt="HCB Card"
+                    alt="CB Card"
                     style={{
                       width: '75%',
                       borderRadius: '8px',
@@ -878,7 +878,7 @@ import {
             }}
           >
             Need help getting your Pizza Grant? Give us a hollar at{' '}
-            <Link href="mailto:clubs@hackclub.com">clubs@hackclub.com</Link>
+            <Link href="mailto:clubs@hackclub.com">clubs@ackclub.com</Link>
             .
           </Text>
         </Container>

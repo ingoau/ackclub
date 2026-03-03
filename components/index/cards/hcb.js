@@ -35,7 +35,7 @@ export default function Bank({ data }) {
               world-class events.
             </Text>
             <Text as="p" variant="subtitle">
-              This platform is built and maintained by the Hack&nbsp;Club team.
+              This platform is built and maintained by the Ack&nbsp;Club team.
             </Text>
             <Buttons
               id="27"

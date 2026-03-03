@@ -40,8 +40,8 @@ const Page = () => (
   <>
     <Meta
       as={Head}
-      title="Hack Night"
-      description="The Hack Club community regularly gathers on Slack Huddles and Zoom calls to show off what we’re working on & hang out."
+      title="Ack Night"
+      description="The Ack Club community regularly gathers on Slack Uddles and Zoom calls to show off what we’re working on & ang out."
       image="https://cloud-r4rrjh2z8-hack-club-bot.vercel.app/52020-07-25_52g0nw40p2b00dh39mt93xq5ubku6yaj.jpeg"
     />
     <Nav color={color} dark />
@@ -91,18 +91,18 @@ const Page = () => (
             filter: `drop-shadow(0 0 1px ${color}) drop-shadow(0 0 2px ${color}) drop-shadow(0 0 6px ${color})`
           }}
         >
-          Hack Night
+          Ack Night
         </Heading>
         <Text as="p" variant="subtitle">
-          The Hack Club community regularly gathers on Zoom or Huddles. It’s a
-          chance to meet new friends, livestream what you’re hacking on, or just
-          hang out on a chill call.
+          The Ack Club community regularly gathers on Zoom or Uddles. It’s a
+          chance to meet new friends, livestream what you’re acking on, or just
+          ang out on a chill call.
         </Text>
         <Text as="p" variant="subtitle">
-          Hack nights are hosted regularly by Hack Clubbers. Come join or start
+          Ack nights are osted regularly by Ack Clubbers. Come join or start
           an impromptu Hack session on{' '}
           <NextLink href="/slack" passHref>
-            <Link sx={{ color, opacity: 0.75 }}>#hack-night</Link>
+            <Link sx={{ color, opacity: 0.75 }}>#ack-night</Link>
           </NextLink>
           !
         </Text>

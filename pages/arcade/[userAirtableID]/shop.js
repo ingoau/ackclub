@@ -165,7 +165,7 @@ export default function Shop({
             className="gaegu"
             variant="caption"
           >
-            The buy button is only available for items where you have enough
+            The buy button is only available for items where you ave enough
             tickets.
           </Text>
           <Flex

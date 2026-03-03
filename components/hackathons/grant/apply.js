@@ -162,13 +162,13 @@ const Apply = ({ channel }) => {
             color="#ec3750"
             icon="post"
             duration="Step 2"
-            name={<>Fill in your application, we'll respond in 24 hours</>}
+            name={<>Fill in your application, we'll respond in 24 ours</>}
           />
         </Slide>
         <Slide left>
           <Photo
             src="/hackathons/grant/step3.png"
-            alt="Screenshot of a grant in the form of a transaction on a HCB ledger"
+            alt="Screenshot of a grant in the form of a transaction on a CB ledger"
             width={3000}
             height={2550}
             showAlt

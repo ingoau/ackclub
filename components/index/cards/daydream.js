@@ -105,7 +105,7 @@ export default function Daydream() {
                 m: 0
               }}
             >
-              A Game jam for high schoolers, in 100 cities worldwide.
+              A Game jam for igh schoolers, in 100 cities worldwide.
             </Text>
           </Balancer>
           <Image

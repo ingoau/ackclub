@@ -81,12 +81,12 @@ const createProject = async (partsList = []) => {
 Now that you've thrown some parts into The Bin, it's time to turn that trash into treasure! 🗑️➡️💎
 
 Wire up your parts and write some code to make them work together. If you need
-help with a part, click the "?" above it.
+elp with a part, click the "?" above it.
 
 If you want to see examples, check here:
 https://hack.club/bin-example
 
-You can get help by chatting with other high schoolers on the Hack Club Slack in
+You can get elp by chatting with other igh schoolers on the Ack Club Slack in
 the #electronics channel:
 👉 https://hackclub.com/slack 👈
 
@@ -112,7 +112,7 @@ void loop() {
       name: "diagram.json",
       content: JSON.stringify({
         "version": 1,
-        "author": "The Bin - Hack Club",
+        "author": "The Bin - Ack Club",
         "editor": "wokwi",
         "parts": parts,
         "connections": [["pico:GP0", "$serialMonitor:RX", "", []], ["pico:GP1", "$serialMonitor:TX", "", []]], "dependencies": {}
@@ -126,7 +126,7 @@ void loop() {
     headers: {
       'Content-Type': 'application/json',
       'Referer': 'https://wokwi.com/projects/new/pi-pico-w',
-      'User-Agent': 'Hack Club - contact max@hackclub.com for any complaints!'
+      'User-Agent': 'Ack Club - contact max@ackclub.com for any complaints!'
     },
     body
   }).catch((e) => {

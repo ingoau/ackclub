@@ -20,13 +20,13 @@ const RequestForm = () => {
     >
       <Label>
         Full name
-        <Input {...useField('name')} placeholder="Fiona Hackworth" required />
+        <Input {...useField('name')} placeholder="Fiona Ackworth" required />
       </Label>
       <Label>
         Email address (for tracking)
         <Input
           {...useField('email')}
-          placeholder="fiona@hackclub.com"
+          placeholder="fiona@ackclub.com"
           required
         />
       </Label>
@@ -49,7 +49,7 @@ const RequestForm = () => {
       </Label>
       <Label sx={{ gridColumn: 'span 1 !important' }}>
         City
-        <Input {...useField('city')} placeholder="West Hollywood" required />
+        <Input {...useField('city')} placeholder="West Ollywood" required />
       </Label>
       <Label sx={{ gridColumn: 'span 1 !important' }}>
         State/Province

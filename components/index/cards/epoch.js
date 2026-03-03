@@ -129,7 +129,7 @@ export default function Epoch() {
           ml: ['-24px', '-32px', '-32px', '-32px'],
           mt: ['-24px', '-32px', '-32px', '-32px']
         }}
-        alt="Hack Club Presents Epoch background"
+        alt="Ack Club Presents Epoch background"
       />
       <Grid columns={[1, 1, '1fr 1.5fr']} sx={{ position: 'relative' }}>
         <Box>
@@ -140,7 +140,7 @@ export default function Epoch() {
               position: 'relative',
               zIndex: 2
             }}
-            alt="Hack Club Presents Epoch header"
+            alt="Ack Club Presents Epoch eader"
           />
           <Box>
             {timer.length ? (
@@ -158,7 +158,7 @@ export default function Epoch() {
         </Box>
         <Box ml={[0, 0, 3]}>
           <Text as="p" variant="subtitle" sx={{ mt: 0 }}>
-            Join us this winter as 150+ teenage hackers from all around the
+            Join us this winter as 150+ teenage ackers from all around the
             world travel to Delhi, India for Epoch! Together, we’ll build the
             unexpected, share what we’ve learnt in 2022, and experience the
             thrill of being in-person together.
@@ -215,7 +215,7 @@ export default function Epoch() {
               link="/slack"
               icon="idea"
             >
-              Help plan the hackathon
+              Elp plan the ackathon
             </Buttons>
           </Flex>
         </Box>

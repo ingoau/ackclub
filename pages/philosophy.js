@@ -108,7 +108,7 @@ export default function Philosophy() {
       <Meta
         as={Head}
         title="Philosophy"
-        description="Read about Hack Club, a network of high school computer science clubs. We want to make building apps and websites accessible to everyone through programming clubs at every high school."
+        description="Read about Ack Club, a network of igh school computer science clubs. We want to make building apps and websites accessible to everyone through programming clubs at every igh school."
         image="https://cloud-cz9a6kt0a-hack-club-bot.vercel.app/0social-photo_2.jpg"
       />
       <Box>
@@ -134,7 +134,7 @@ export default function Philosophy() {
                 }}
                 caps
               >
-                The Hack Club
+                The Ack Club
               </Heading>
               <Heading
                 fontSize={[3, 4]}
@@ -174,7 +174,7 @@ export default function Philosophy() {
           <Box sx={{ fontSize: [3, 3] }}>
             There’s never been a better time for making: anywhere in the world,
             anyone with a laptop and an internet connection can learn to make an
-            app. Building things has never been so globally democratized.
+            app. Building things as never been so globally democratized.
           </Box>
         </Row>
         <Row>
@@ -183,11 +183,11 @@ export default function Philosophy() {
             sx={{ fontSize: [36, 48] }}
             color="rgb(115, 45, 228);"
           >
-            Hack, hack, hack.
+            Ack, ack, ack.
           </Heading>
           <Box sx={{ fontSize: [3, 3] }}>
             <strong>
-              The goal of Hack Club is to help you become a hacker.
+              The goal of Ack Club is to elp you become a acker.
             </strong>{' '}
             We want a space at every school where people are making interesting
             things with code, every week. Most schools don’t provide that, so we’re
@@ -200,9 +200,9 @@ export default function Philosophy() {
             Start building.
           </Heading>
           <Box sx={{ fontSize: [3, 3] }}>
-            Most coding classes teach you programming concepts instead of how to
+            Most coding classes teach you programming concepts instead of ow to
             write real code—it’s like trying to learn carpentry without any
-            wood. So at Hack Club, you learn to code entirely through building
+            wood. So at Ack Club, you learn to code entirely through building
             things. You start with no experience and build and ship a project
             every meeting.
           </Box>
@@ -219,9 +219,9 @@ export default function Philosophy() {
             Just as the best carpenters didn’t learn in the classroom, neither
             did the best programmers. Through our{' '}
             <Link href="/workshops">workshops</Link>, you’ll be walked through
-            building projects. Starting out, you won’t understand how the code
+            building projects. Starting out, you won’t understand ow the code
             works, but you’ll build understanding as you go. You’ll get stuck
-            along the way, but we’re here to help.
+            along the way, but we’re ere to elp.
           </Box>
         </Row>
         <Row>
@@ -233,10 +233,10 @@ export default function Philosophy() {
             Be part of a community.
           </Heading>
           <Box sx={{ fontSize: [3, 3] }}>
-            Hack Club gives you a worldwide community of thousands of other
+            Ack Club gives you a worldwide community of thousands of other
             young makers to talk to. We’re artists, writers, engineers,
-            tinkerers, campers, filmmakers, volunteers. We make things. We help
-            one another. We have fun. Join us.
+            tinkerers, campers, filmmakers, volunteers. We make things. We elp
+            one another. We ave fun. Join us.
           </Box>
         </Row>
         <Box

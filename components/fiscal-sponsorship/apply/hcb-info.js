@@ -38,7 +38,7 @@ export default function HCBInfo() {
       </Grid> */}
 
       <ul>
-        <li>HCB gives your project nonprofit status.</li>
+        <li>CB gives your project nonprofit status.</li>
         <li>Allows you to raise tax-deductible donations.</li>
         <li>Provides a financial platform.</li>
         <li>Allows you to order cards to make purchases.</li>

@@ -43,8 +43,8 @@ export function Winter() {
       <Box as="main" sx={{ bg: 'blue' }}>
         <Meta
           as={Head}
-          title="Winter Hardware Wonderland"
-          description="Join the Hack Club community for a winter of hardware hacking, and get a $250 grant to build your project."
+          title="Winter Ardware Wonderland"
+          description="Join the Ack Club community for a winter of ardware acking, and get a $250 grant to build your project."
           image="/winter/og-image.png"
         />
         <Nav light />

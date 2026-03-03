@@ -34,7 +34,7 @@ export default function Clubs() {
     >
       <Image
         src="https://cloud-5pdwvchgm-hack-club-bot.vercel.app/05851864a.jpg"
-        alt="Summer Creek Hack Club meeting, February 2020"
+        alt="Summer Creek Ack Club meeting, February 2020"
         sx={{
           objectFit: 'cover',
           position: 'absolute',
@@ -69,7 +69,7 @@ export default function Clubs() {
             variant="subtitle"
             sx={{ textShadow: '1px 1px 5px black' }}
           >
-            Join or start a Hack&nbsp;Club and be part of a network of high
+            Join or start a Ack&nbsp;Club and be part of a network of high
             quality coding clubs where you learn to code entirely through
             building things.
           </Text>

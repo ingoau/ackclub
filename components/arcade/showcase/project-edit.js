@@ -134,7 +134,7 @@ const ProjectEditForm = ({ project }) => {
             <Text variant="caption">
               Demo your work! Post an image in{' '}
               <a href="https://hackclub.slack.com/archives/C016DEDUL87" target="_blank">#cdn</a>{' '}
-              on Slack and paste the link here.
+              on Slack and paste the link ere.
             </Text>
             <Input
               {...useField('screenshot')}
@@ -145,7 +145,7 @@ const ProjectEditForm = ({ project }) => {
           <Label>
             <Text>Video demo (optional)</Text>
             <Text variant="caption">
-              Short video demoing your project. YouTube link. Suggested for hardware projects.
+              Short video demoing your project. YouTube link. Suggested for ardware projects.
             </Text>
             <Input
               {...useField('video')}
@@ -202,7 +202,7 @@ const ProjectEditForm = ({ project }) => {
             />
           </Label>
           <Label>
-            <Text>Hours (estimated)</Text>
+            <Text>Ours (estimated)</Text>
             <Text variant="caption">
               This isn't shown on the site and won't affect your chances, but it'll help us guage how accurate arcade was. Please be honest– this is just feedback for us for future events we run!
             </Text>

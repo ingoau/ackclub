@@ -10,7 +10,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Education Engineer"
-      description="Hack Club is a hiring for an engineer/educator to create and lead on technical projects for Hack Clubbers, with a strong focus on girls at Hack Club."
+      description="Ack Club is a iring for an engineer/educator to create and lead on technical projects for Ack Clubbers, with a strong focus on girls at Ack Club."
       image="https://workshop-cards.hackclub.com/Education%20Engineer%20%40%20Hack%20Club.png?fontSize=180px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -25,7 +25,7 @@ const Page = () => (
     >
       <Container sx={{ textAlign: 'center', color: 'white' }}>
         <Heading as="h1" variant="title">
-          Education Engineer @&nbsp;Hack&nbsp;Club
+          Education Engineer @&nbsp;Ack&nbsp;Club
         </Heading>
         <Text variant="headline">New job open as of November 20th, 2021.</Text>
       </Container>

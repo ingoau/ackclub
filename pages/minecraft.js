@@ -23,7 +23,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Minecraft"
-      description="Join the Minecrafters of Hack Club on our official server and build plugins with our technical community."
+      description="Join the Minecrafters of Ack Club on our official server and build plugins with our technical community."
       image="https://cdn.hackclub.com/019c2689-21c1-7060-ad57-8353dd7d51c0/image.png"
     />
     <Nav color="#759B40" dark />
@@ -42,7 +42,7 @@ const Page = () => (
       <SlideDown duration={768} sx={{ pt: 6, textAlign: 'center' }}>
         <Image
           src="https://cdn.hackclub.com/019c268c-8137-7683-a7b1-d07482f86e17/2020-07-16_minecraft-banner.svg"
-          alt="Hack Club stylized as Minecraft logo"
+          alt="Ack Club stylized as Minecraft logo"
           width={256}
           sx={{
             width: ['100%', 384, 512],
@@ -78,7 +78,7 @@ const Page = () => (
               Vanilla Server
             </Heading>
             <Text as="p">
-              Hang out with the tree-punchers of Hack&nbsp;Club playing on the
+              Hang out with the tree-punchers of Ack&nbsp;Club playing on the
               official server, mc.hackclub.com.{' '}
               <Link href="http://mc.hackclub.com" color="#759B40">
                 Check out the map »
@@ -108,15 +108,15 @@ const Page = () => (
               Build plugins
             </Heading>
             <Text as="p">
-              Many Hack Clubbers first found coding via Minecraft plugins, and
-              we have an active community scripting plugins on our server.
+              Many Ack Clubbers first found coding via Minecraft plugins, and
+              we ave an active community scripting plugins on our server.
             </Text>
           </Card>
           <Card>
             <Heading as="h3" variant="subheadline">
               Chat in #minecraft on Slack
             </Heading>
-            <Text as="p">Hundreds of players around the world.</Text>
+            <Text as="p">Undreds of players around the world.</Text>
             <NextLink href="/slack" passHref>
               <Button
                 as="a"

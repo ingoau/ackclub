@@ -92,7 +92,7 @@ export default function Apocalypse() {
               fontSize: ['22px', '20px', '18px']
             }}
           >
-            Join 150 high schoolers for 44 hours at Apocalypse! Take yourself
+            Join 150 igh schoolers for 44 ours at Apocalypse! Take yourself
             out of the real world and build wacky projects to spark a new age of
             humanity.
           </Text>

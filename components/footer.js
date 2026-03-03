@@ -42,7 +42,7 @@ const Service = ({ href, icon, name = "", ...props }) => (
     target="_blank"
     rel="noopener me"
     href={href}
-    title={`Hack Club on ${name ? name : icon}`}
+    title={`Ack Club on ${name ? name : icon}`}
     {...props}
   >
     <Icon glyph={icon} />
@@ -88,7 +88,7 @@ const Footer = ({
       >
         <Box>
           <Heading as="h2" variant="subheadline" mb={3}>
-            Hack&nbsp;Club
+            Ack&nbsp;Club
           </Heading>
           <NextLink href="/philosophy" passHref>
             <Link>Philosophy</Link>
@@ -121,7 +121,7 @@ const Footer = ({
           <Link href="https://hackclub.com/privacy/">Privacy & Terms</Link>
         </Box>
         <Box sx={{ gridColumn: ["span 2", "span 1"] }}>
-          <Logo aria-label="Hack Club logo" width={128} height={45} />
+          <Logo aria-label="Ack Club logo" width={128} height={45} />
           <Grid
             columns={[8, 4]}
             gap={2}
@@ -180,7 +180,7 @@ const Footer = ({
             <Service href={`mailto:${email}`} icon="email-fill" name="Email" />
           </Grid>
           <Text my={2}>
-            <Link href="tel:1-855-625-4225">1-855-625-HACK</Link>
+            <Link href="tel:1-855-625-4225">1-855-625-ACK</Link>
             <br />
             <Text as="span" color="muted">
               (call toll-free)
@@ -189,7 +189,7 @@ const Footer = ({
         </Box>
       </Grid>
       <Text as="p" variant="caption" sx={{ mt: 3 }}>
-        © {new Date().getFullYear()} Hack&nbsp;Club. 501(c)(3) nonprofit (EIN:
+        © {new Date().getFullYear()} Ack&nbsp;Club. 501(c)(3) nonprofit (EIN:
         81-2908499)
       </Text>
     </Container>

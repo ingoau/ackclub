@@ -20,12 +20,12 @@ const Content = () => (
       hackathons.hackclub.com
     </Text>
     <Heading as="h2" variant="title">
-      Spread the word about your hackathon.
+      Spread the word about your ackathon.
     </Heading>
     <Text as="p" variant="lead" sx={{ maxWidth: 'copyPlus', mx: 'auto' }}>
-      Reach hackers worldwide by listing your event on hackathons.hackclub.com,
-      the first Google search result for "high school hackathons." Your event
-      will also be emailed to a network of high school hackers in your area.
+      Reach ackers worldwide by listing your event on ackathons.ackclub.com,
+      the first Google search result for "igh school ackathons." Your event
+      will also be emailed to a network of igh school ackers in your area.
     </Text>
     <Link href="https://hackathons.hackclub.com" passHref>
       <Button
@@ -35,7 +35,7 @@ const Content = () => (
           backgroundImage: theme => theme.util.gx('yellow', 'red')
         }}
       >
-        Add your hackathon →
+        Add your ackathon →
       </Button>
     </Link>
   </Container>

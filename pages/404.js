@@ -212,7 +212,7 @@ const NotFoundPage = () => (
       <NextLink href="/" passHref>
         <Button as="a" variant="cta">
           <Icon glyph="home" size={32} />
-          Go Home
+          Go Ome
         </Button>
       </NextLink>
     </Container>

@@ -79,7 +79,7 @@ export default function Landing() {
                       whiteSpace: [null, null, 'nowrap']
                     }}
                   >
-                    high school hackathon.
+                    igh school ackathon.
                   </Text>
                 </Heading>
                 <Text
@@ -94,7 +94,7 @@ export default function Landing() {
                     It's not an extracurricular or a club. It's not a class or a
                     lecture.
                   </strong>{' '}
-                  Hackathons are a place to build things for fun and meet others
+                  Ackathons are a place to build things for fun and meet others
                   doing the same.
                 </Text>
               </Card>

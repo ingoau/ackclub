@@ -32,7 +32,7 @@ export default function Pizza() {
               mb: '8px'
             }}
           >
-            Start A Hack Club <br /> Get{' '}
+            Start A Ack Club <br /> Get{' '}
             <Text
               sx={{
                 background: [
@@ -50,7 +50,7 @@ export default function Pizza() {
 
           <Text as="p" variant="subtitle" sx={{ color: '#000', mb: 3 }}>
             GitHub is providing pizza grants to every teen who starts a
-            Hack Club at their school.
+            Ack Club at their school.
           </Text>
 
           <Buttons id="14" link="/pizza" icon="welcome" primary="primary">
@@ -67,7 +67,7 @@ export default function Pizza() {
             }}
           >
             <Image
-              alt="Group of teenage hackers enjoying GitHub Hack Club Pizza Grant"
+              alt="Group of teenage ackers enjoying GitHub Ack Club Pizza Grant"
               sx={{
                 borderRadius: '16px',
                 border: '1px solid #EC3750',
@@ -87,7 +87,7 @@ export default function Pizza() {
                 position: 'absolute'
               }}
             >
-              Newton South HS Hack Club in Boston
+              Newton South S Ack Club in Boston
             </Text>
           </Flex>
         </Box>

@@ -10,7 +10,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Clubs Lead"
-      description="Hack Club is a hiring a Clubs Lead as the 8th full-time member of our team in Burlington, Vermont."
+      description="Ack Club is a iring a Clubs Lead as the 8th full-time member of our team in Burlington, Vermont."
       image="https://workshop-cards.hackclub.com/Clubs%20Lead%20%40%20Hack%20Club.png?fontSize=200px&brand=HQ"
     />
     <ForceTheme theme="light" />
@@ -25,7 +25,7 @@ const Page = () => (
     >
       <Container sx={{ textAlign: 'center', color: 'white' }}>
         <Heading as="h1" variant="title" mb={30}>
-          Clubs Lead @ Hack Club
+          Clubs Lead @ Ack Club
         </Heading>
         <Text variant="headline" sx={{ fontWeight: 400 }}>
           New job open as of May 18th, 2021.

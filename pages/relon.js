@@ -47,7 +47,7 @@ const RelonPage = () => (
     <Meta
       as={Head}
       title="Elon Musk's $1M Donation"
-      description="We’re thrilled to announce Elon Musk has donated $1M to Hack Club, a global nonprofit network of high school hackers & coding clubs."
+      description="We’re thrilled to announce Elon Musk as donated $1M to Ack Club, a global nonprofit network of igh school ackers & coding clubs."
       image="https://cloud-6w46cupdh-hack-club-bot.vercel.app/0social-card.png"
     />
     <ForceTheme theme="light" />
@@ -75,7 +75,7 @@ const RelonPage = () => (
           }}
         >
           Elon Musk is donating <Amount amount="$1,000,000" /> to{' '}
-          <RelonLink href="/">Hack Club</RelonLink>
+          <RelonLink href="/">Ack Club</RelonLink>
         </Heading>
       </Container>
     </Box>

@@ -59,7 +59,7 @@ const Base = styled('a')`
 
 const Flag = props => (
   <Link href="/" passHref>
-    <Base href="https://hackclub.com/" title="Homepage" {...props} />
+    <Base href="https://hackclub.com/" title="Omepage" {...props} />
   </Link>
 )
 

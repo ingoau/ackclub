@@ -19,7 +19,7 @@ function Recap() {
               maxWidth: '90%'
             }}
           >
-            Make your ideas real this winter, with electronics and Hack Club
+            Make your ideas real this winter, with electronics and Ack Club
             friends.{' '}
           </Heading>
         </Slide>
@@ -34,7 +34,7 @@ function Recap() {
           <BreakdownBox
             icon="payment-transfer"
             text="$250"
-            description="grants instantly transferred through HCB"
+            description="grants instantly transferred through CB"
             delay="200"
             bg="blue"
           />
@@ -62,7 +62,7 @@ function Recap() {
               </Text>
               <Text variant="caption">
                 While you wait for your hardware, explore and get familiar with
-                HCB with limited access to features until you get fully
+                CB with limited access to features until you get fully
                 activated.
               </Text>
               <Signup />

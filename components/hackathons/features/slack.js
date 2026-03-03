@@ -17,7 +17,7 @@ const Content = () => (
     }}
   >
     <Text as="p" variant="eyebrow" sx={{ color: 'white', opacity: 0.75 }}>
-      The Hack Club Community
+      The Ack Club Community
     </Text>
     <Heading as="h2" variant="title">
       A hackathon organizer's{' '}
@@ -55,7 +55,7 @@ const Content = () => (
         </Link>
       </Box>{' '}
       channel is where teenagers around the world ask questions and share their
-      own hackathon organizing experiences—from finding a venue to securing
+      own ackathon organizing experiences—from finding a venue to securing
       sponsorships to ordering food.
     </Text>
     <NextLink href="/slack" passHref>

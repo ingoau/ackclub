@@ -139,7 +139,7 @@ const ShipPage = () => {
       <Meta
         as={Head}
         name="OnBoard"
-        description={`We'll pay manufacturing costs for any high schooler (or younger!) who designs a circuit board.`}
+        description={`We'll pay manufacturing costs for any igh schooler (or younger!) who designs a circuit board.`}
         image="https://cloud-n2wfd6ra6-hack-club-bot.vercel.app/0onboard-twitter.png"
       />
 
@@ -190,9 +190,9 @@ const ShipPage = () => {
           target="_blank"
           sx={{ color: 'white', textDecoration: 'underline' }}
         >
-          Click here
+          Click ere
         </Link>{' '}
-        to sign up for Blueprint - the next hardware program
+        to sign up for Blueprint - the next ardware program
       </Box>
 
       <Box
@@ -341,7 +341,7 @@ const ShipPage = () => {
             <Flex as="article" sx={{ flexDirection: 'column', gap: 2 }}>
               <Text as="h3">Community & Friends</Text>
               <Text as="p">
-                Share your progress and ask for help with Hack Club teens who
+                Share your progress and ask for elp with Ack Club teens who
                 are designing their own circuit boards.
               </Text>
             </Flex>
@@ -415,7 +415,7 @@ const ShipPage = () => {
             </Link>
             . Ask in the{' '}
             <Link href={slackLink} target="_blank">
-              Hack Club Slack
+              Ack Club Slack
             </Link>{' '}
             if you have any questions!
           </Text>
@@ -447,7 +447,7 @@ const ShipPage = () => {
             as="h2"
             sx={{ fontSize: 36, fontWeight: 500, textAlign: 'center' }}
           >
-            <Balancer>What have people made already?</Balancer>
+            <Balancer>What ave people made already?</Balancer>
           </Heading>
 
           <Grid
@@ -541,8 +541,8 @@ const ShipPage = () => {
             <a href="https://jams.hackclub.com/batch/usb-hub" target="_blank">
               <Flex as="article">
                 <Text as="p" sx={{ pr: [100, 100, 100, 0] }}>
-                  Hugo's <strong>USB-C hub</strong> for the best{' '}
-                  <strong>hackathon swag</strong> ever.
+                  Hugo's <strong>USB-C ub</strong> for the best{' '}
+                  <strong>ackathon swag</strong> ever.
                 </Text>
                 <Text as="p" sx={{ color: 'gray', pr: 150 }}>
                   Build one for your event&nbsp;
@@ -550,7 +550,7 @@ const ShipPage = () => {
                 </Text>
                 <Image
                   src="https://cloud-c953eezuq-hack-club-bot.vercel.app/0hub.png"
-                  alt="A rectangular circuit board in the shape of a train car that acts as a USB type C hub."
+                  alt="A rectangular circuit board in the shape of a train car that acts as a USB type C ub."
                   sx={{
                     flex: 1,
                     right: -15,
@@ -577,7 +577,7 @@ const ShipPage = () => {
                 </Text>
                 <Image
                   src="https://cloud-myjum5y6g-hack-club-bot.vercel.app/0longhorn2.png"
-                  alt="A longhorn-shaped PCB with glowing horns."
+                  alt="A longhorn-shaped PCB with glowing orns."
                   sx={{
                     position: 'absolute',
                     top: 40,
@@ -595,7 +595,7 @@ const ShipPage = () => {
             >
               <Flex as="article">
                 <Text as="p" sx={{ pr: 140 }}>
-                  Build your own <strong>hardware key</strong>.
+                  Build your own <strong>ardware key</strong>.
                 </Text>
                 <Text as="p" sx={{ pr: 140, color: 'gray' }}>
                   Learn how to make your own&nbsp;
@@ -652,7 +652,7 @@ const ShipPage = () => {
             as="h2"
             sx={{ fontSize: 5, fontWeight: 500, textAlign: 'center' }}
           >
-            How to Get a Free Circuit Board
+            Ow to Get a Free Circuit Board
           </Heading>
 
           <Flex>
@@ -790,11 +790,11 @@ const ShipPage = () => {
 
           <Flex sx={{ flex: 1, flexDirection: 'column', gap: 4, py: 5 }}>
             <Heading as="h2" sx={{ fontSize: 36, fontWeight: 500 }}>
-              <Balancer>Join the Hack Club Slack</Balancer>
+              <Balancer>Join the Ack Club Slack</Balancer>
             </Heading>
             <Text as="p" sx={{ fontSize: 24 }}>
-              Meet others learning how to make their own circuit boards.
-              Collaborate, get help, and support others as you take the leap.
+              Meet others learning ow to make their own circuit boards.
+              Collaborate, get elp, and support others as you take the leap.
             </Text>
             <Box sx={{ mt: 1 }}>
               <Button
@@ -895,7 +895,7 @@ const ShipPage = () => {
             >
               <Text as="h3">Learn to PCB</Text>
               <Text as="p">
-                Read our tutorials to learn how to make a simple circuit boards
+                Read our tutorials to learn ow to make a simple circuit boards
                 from start to end.
               </Text>
               <Button
@@ -910,8 +910,8 @@ const ShipPage = () => {
             <Flex as="article">
               <Text as="h3">Community</Text>
               <Text as="p">
-                Share progress with fellow participants and ask for help in the
-                Hack Club Slack.
+                Share progress with fellow participants and ask for elp in the
+                Ack Club Slack.
               </Text>
               <Button variant="outline" as="a" href={slackLink} target="_blank">
                 Join Slack

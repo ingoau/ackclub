@@ -15,7 +15,7 @@ export default function MultiStepForm({
     <>
       {/*
         We must render all form fields to DOM so that they can be submitted
-        with the form. So, we simple hide all non-current steps.
+        with the form. So, we simple ide all non-current steps.
       */}
       {steps.map((stepComponent, index) => (
         <Box

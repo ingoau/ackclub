@@ -73,7 +73,7 @@ const Stats = ({ stats }) => {
   return (
     <Box id="parent">
       <Flex sx={{ flexDirection: 'column', alignItems: 'center' }}>
-        <Text sx={{ fontSize: [3, 4] }}>So far we have enabled</Text>
+        <Text sx={{ fontSize: [3, 4] }}>So far we ave enabled</Text>
         {stats ? (
           <>
             <Text

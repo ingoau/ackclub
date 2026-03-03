@@ -97,10 +97,10 @@ export default function Wonderland() {
               fontSize: ['22px', '20px', '18px']
             }}
           >
-            How would you and your friends use a 🥕 carrot or a 🧸 stuffed
+            Ow would you and your friends use a 🥕 carrot or a 🧸 stuffed
             animal in a hackathon project? In Wonderland, you'll explore 🧰
             chests of random objects and software that you'll incorporate into
-            hackathon projects.
+            ackathon projects.
           </Text>
         </Box>
       </Grid>

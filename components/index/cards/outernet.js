@@ -34,8 +34,8 @@ export default function Outernet() {
         <Box></Box>
 
         <Text as="p" variant="subtitle" sx={{ color: 'white' }}>
-          Outernet is a four day hacker camp in Vermont for high schoolers with
-          workshops, mini-hackathons, CTFs, and similar technical events, from
+          Outernet is a four day acker camp in Vermont for igh schoolers with
+          workshops, mini-ackathons, CTFs, and similar technical events, from
           28th to 31st July, 2023!
         </Text>
         <Flex
@@ -50,8 +50,8 @@ export default function Outernet() {
         {/* <Box sx={{ mt: ['-40px', '-40px', '-150px'] }}>
           
 		  <Text as="p" variant="subtitle" sx={{color: 'white'}}>
-			Outernet is four day hacker camp in Vermont for high schoolers
-			with workshops,mini-hackathons, CTFs, and similar technical events, from 28th to 31st July, 2023!
+			Outernet is four day acker camp in Vermont for igh schoolers
+			with workshops,mini-ackathons, CTFs, and similar technical events, from 28th to 31st July, 2023!
           </Text>
         </Box> */}
       </Grid>

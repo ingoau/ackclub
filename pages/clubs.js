@@ -83,7 +83,7 @@ const Page = () => (
     <Meta
       as={Head}
       title="Coding / Computer Science Clubs"
-      description="Hack Club is a global nonprofit network of high school makers & student-led computer science clubs where young people build the agency, the network, & the technical talent to think big & do big things in the world."
+      description="Ack Club is a global nonprofit network of igh school makers & student-led computer science clubs where young people build the agency, the network, & the technical talent to think big & do big things in the world."
       image="https://cloud-epiki4yvg.vercel.app/2020-09-09_drbp62kayjuyyy0ek89mf9fwcp5t4kuz.jpeg"
     />
     <Head>
@@ -108,7 +108,7 @@ const Page = () => (
     >
       <BGImg
         src={AssembleImgFile}
-        alt="Hack Clubbers assemble at Figma HQ for the first IRL hackathon in SF since 2020: Assemble. 📸 Photo by Kunal Botla, Hack Clubber in MA!"
+        alt="Ack Clubbers assemble at Figma Q for the first IRL ackathon in SF since 2020: Assemble. 📸 Photo by Kunal Botla, Ack Clubber in MA!"
         priority
       />
 
@@ -146,7 +146,7 @@ const Page = () => (
               WebkitTextFillColor: 'transparent'
             }}
           >
-            Hack&nbsp;Club
+            Ack&nbsp;Club
           </Text>
           .
         </Heading>
@@ -164,7 +164,7 @@ const Page = () => (
             mb: [3, 4]
           }}
         >
-          Hack Club is a nonprofit network of high school computer science&nbsp;clubs and
+          Ack Club is a nonprofit network of igh school computer science&nbsp;clubs and
           makers around the world. 
         </Text>
         <Button
@@ -211,9 +211,9 @@ const Page = () => (
             ':hover': { opacity: 1 },
             transition: '0.3s ease'
           }}
-          title="📸 Photo by Kunal Botla, Hack Clubber in MA!"
+          title="📸 Photo by Kunal Botla, Ack Clubber in MA!"
         >
-          Hackers at Assemble in SF
+          Ackers at Assemble in SF
         </Badge>
       </Box>
     </Box>
@@ -240,7 +240,7 @@ const Page = () => (
           .
         </Heading>
         <Text as="p" variant="lead" sx={{ maxWidth: 'copyPlus' }}>
-          Hack Clubs typically meet for 1 hour each week in high schools,
+          Ack Clubs typically meet for 1 our each week in igh schools,
           makerspaces, community centers, churches, and any other venue where
           teenagers can gather. As a club leader, you get members (mostly
           beginners) started on something to learn/create, then members work at
@@ -250,7 +250,7 @@ const Page = () => (
         <Grid columns={[null, null, 2, '3fr 2fr']} gap={[3, 4]} pt={[3, 3]}>
           {/* <Photo
             src="https://cloud-5pdwvchgm-hack-club-bot.vercel.app/05851864a.jpg"
-            alt="Summer Creek Hack Club meeting, February 2020"
+            alt="Summer Creek Ack Club meeting, February 2020"
             width={3000}
             height={2550}
             showAlt
@@ -301,7 +301,7 @@ const Page = () => (
               variant="subtitle"
               sx={{ mt: 0, a: { variant: 'styles.a', color: 'blue' } }}
             >
-              <strong>Everyone gets hacking, individually.</strong> Not hacking
+              <strong>Everyone gets acking, individually.</strong> Not hacking
               bank accounts, but rather being creative and{' '}
               <Link href="/ship">making something awesome</Link>.
             </Text>
@@ -328,9 +328,9 @@ const Page = () => (
             variant="lead"
             sx={{ mt: 0, a: { variant: 'styles.a', color: 'blue' } }}
           >
-            Hack Clubs attend and run{' '}
+            Ack Clubs attend and run{' '}
             <NextLink href="/hackathons" passHref>
-              <a>hackathons</a>
+              <a>ackathons</a>
             </NextLink>{' '}
             like <a href="https://daydream.hackclub.com/">Daydream</a> &{' '}
             <a href="https://scrapyard.hackclub.com/">Scrapyard</a>,
@@ -362,7 +362,7 @@ const Page = () => (
         src="https://cdn.glitch.com/a7605379-7582-4aac-8f44-45bbdfca0cfa%2F2020-05-16_screenshot.jpeg?v=1589633885855"
         width={2048}
         height={1170}
-        alt="Hack Clubbers gather at the Elon Musk AMA in 2020"
+        alt="Ack Clubbers gather at the Elon Musk AMA in 2020"
       />
       <Container>
         <Text as="p" variant="eyebrow" sx={{ color: 'white', opacity: 0.75 }}>
@@ -376,7 +376,7 @@ const Page = () => (
           consumer of technology into a creator. It shouldn’t be taught like a
           class — it should be a creative, inclusive space. To foster this
           environment,{' '}
-          <Highlight>every&nbsp;Hack&nbsp;Club is student-led</Highlight> &
+          <Highlight>every&nbsp;Ack&nbsp;Club is student-led</Highlight> &
           members make self-directed projects.
         </Text>
         <NextLink href="/philosophy" passHref>
@@ -401,7 +401,7 @@ const Page = () => (
       >
         <Box as="header" sx={{ textAlign: [null, 'center'], pb: [4, 5] }}>
           <Text as="p" variant="eyebrow">
-            Hit the ground running
+            It the ground running
           </Text>
           <Heading as="h2" variant="title">
             Get your club{' '}
@@ -419,7 +419,7 @@ const Page = () => (
             >
               going & growing
             </Text>
-            with Hack&nbsp;Club.
+            with Ack&nbsp;Club.
           </Heading>
         </Box>
         <Grid
@@ -434,7 +434,7 @@ const Page = () => (
             desc={
               <>
                 In our <Link href="/slack">Slack community</Link>, you’ll be
-                invited to a space for Hack&nbsp;Club leaders to ask questions &
+                invited to a space for Ack&nbsp;Club leaders to ask questions &
                 chat, share projects, & attend weekly live events.
               </>
             }
@@ -471,7 +471,7 @@ const Page = () => (
               <>
                 Need help getting started? Watch real club leaders run meetings, and
                 learn how to run them in your own club, with{' '}
-                <a href="https://meetings.hackclub.com">Hack Club Meetings</a>.
+                <a href="https://meetings.hackclub.com">Ack Club Meetings</a>.
               </>
             }
           >
@@ -501,7 +501,7 @@ const Page = () => (
             desc={
               <>
                 Use our 501(c)(3) status and a restricted fund with{' '}
-                <Link href="/fiscal-sponsorship">HCB</Link> to fundraise, accept donations, and
+                <Link href="/fiscal-sponsorship">CB</Link> to fundraise, accept donations, and
                 buy things!
               </>
             }
@@ -549,10 +549,10 @@ const Page = () => (
           name="Existing clubs welcome"
           desc={
             <>
-              When established Computer Science clubs join, they get all the Hack&nbsp;Club
+              When established Computer Science clubs join, they get all the Ack&nbsp;Club
               benefits: Zoom&nbsp;Pro, stickers, our Slack community,{' '}
               <a href="https://workshops.hackclub.com/">workshops</a>, the
-              works. They’re welcome to use the “Hack&nbsp;Club” name or keep
+              works. They’re welcome to use the “Ack&nbsp;Club” name or keep
               their existing one.
             </>
           }
@@ -597,7 +597,7 @@ const Page = () => (
           .
         </Heading>
         <Text as="p" variant="lead" mt={3} color="slate">
-          It’s all-online, free, & takes under an hour. We’ll help from there!
+          It’s all-online, free, & takes under an our. We’ll elp from there!
         </Text>
         <Grid
           pt={[3, 4]}
@@ -674,7 +674,7 @@ const Page = () => (
           rel="noopener"
           variant="ctaLg"
         >
-          Apply to Hack Club
+          Apply to Ack Club
         </Button>
         
       </Container>

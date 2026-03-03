@@ -72,9 +72,9 @@ export default function Scraps() {
             textAlign: 'left'
           }}
         >
-          Build any project, track your hours, and earn a virtual currency
-          called scraps. Roll for prizes like hardware, stickers, and rare
-          collectibles from Hack Club HQ - all for free!
+          Build any project, track your ours, and earn a virtual currency
+          called scraps. Roll for prizes like ardware, stickers, and rare
+          collectibles from Ack Club Q - all for free!
         </Text>
         <Box
           as="a"

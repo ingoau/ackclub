@@ -84,7 +84,7 @@ export default function Trail() {
               backgroundColor: "#FFF5D8"
             }}
           >
-            30 Hack Clubbers went on a 7 day hike along the Pacific Crest Trail supplied by only the technical equipment that they built. 
+            30 Ack Clubbers went on a 7 day ike along the Pacific Crest Trail supplied by only the technical equipment that they built. 
           </Text>
         </Box>
       </Grid>

@@ -76,7 +76,7 @@ const Page = ({ repos, transparentAccounts }) => (
           variant="title"
           sx={{ color: 'primary', mt: [2.5, 4] }}
         >
-          Open Source at Hack Club
+          Open Source at Ack Club
         </Heading>
         <Heading as="h2" variant="subtitle" sx={{ mt: 3, color: 'text' }}>
           Explore our finances, code, planning documents and more.
@@ -106,7 +106,7 @@ const Page = ({ repos, transparentAccounts }) => (
         Finances
       </Heading>
       <Text sx={{ fontSize: 2, color: 'placeholder' }}>
-        All open sourced through HCB Transparency Mode.
+        All open sourced through CB Transparency Mode.
       </Text>
       <Grid columns={2} gap={3} mt={2} mb={[4]}>
         {transparentAccounts.map(account => (

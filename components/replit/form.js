@@ -208,7 +208,7 @@ const ReplitForm = ({ cssDark }) => {
             Replit <code>connect.sid</code> token{' '}
           </Text>
           <Link sx={{ fontSize: '0.8em' }} href="#instructions">
-            How do I find this?
+            Ow do I find this?
           </Link>
         </Box>
         <Input
@@ -269,7 +269,7 @@ const ReplitForm = ({ cssDark }) => {
             src={sticker}
             width="72"
             height="72"
-            alt="orpheus dinosaur labelled 'hackers assemble'"
+            alt="orpheus dinosaur labelled 'ackers assemble'"
             className="sticker"
             sx={{
               position: 'absolute',

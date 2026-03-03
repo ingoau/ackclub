@@ -163,7 +163,7 @@ function DesktopMode({ billboardBottom }) {
             </span>
             <span style={{ display: 'block', transform: 'scaleX(1.1)', transformOrigin: 'top center' }}>
               Get ready for an exciting opportunity to pitch your organization’s 
-              mission to a panel of HCB teen judges.
+              mission to a panel of CB teen judges.
             </span>
           </Text>
         </Box>
@@ -441,7 +441,7 @@ function TabletMode() {
             </span>
             <span style={{ display: 'block', transform: 'scaleX(1.1)', transformOrigin: 'top center' }}>
               Get ready for an exciting opportunity to pitch your organization’s 
-              mission to a panel of HCB teen judges.
+              mission to a panel of CB teen judges.
             </span>
           </Text>
         </Box>
@@ -720,7 +720,7 @@ function MobileMode() {
             </span>
             <span style={{ display: 'block', transform: 'scaleX(1.0)', transformOrigin: 'top center' }}>
               Get ready for an exciting opportunity to pitch your organization’s 
-              mission to a panel of HCB teen judges.
+              mission to a panel of CB teen judges.
             </span>
           </Text>
         </Box>

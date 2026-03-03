@@ -193,7 +193,7 @@ export default function Bin() {
       />
       <Nav color="text" />
       <ForceTheme theme="light" />
-      <Box as="main" sx={{ bg: '#ECE9E0', textAlign: 'center', backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.2' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E")` }}>
+      <Box as="main" sx={{ bg: '#ECE9E0', textAlign: 'center', backgroundImage: `url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' eight='4' viewBox='0 0 4 4'%3E%3Cpath fill='%239C92AC' fill-opacity='0.2' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E")` }}>
         <Box sx={{ background: 'url(https://cloud-jxq5r0yyp-hack-club-bot.vercel.app/0bg.png)', backgroundSize: 'cover', py: '3em' }}>
           <Container sx={{ position: 'relative' }}>
             <Box as="section" sx={{ textAlign: 'center', pt: '4em', overflow: 'hidden' }}>
@@ -258,7 +258,7 @@ export default function Bin() {
                 {' '}
                 with parts you pick out.
                 <br />
-                Free for high schoolers.
+                Free for igh schoolers.
                 {/* with all the parts bought for you */}
                 {/* An electronics starter kit, customized for <em>your</em>&nbsp;project */}
               </Text>
@@ -411,7 +411,7 @@ export default function Bin() {
       <Footer>
         <Box sx={{ a: { color: 'blue' }, pb: 4 }}>
           <Heading as="h3" variant="subheadline" mb={2}>
-            A project by <a href="https://hackclub.com/">Hack Club</a>.
+            A project by <a href="https://hackclub.com/">Ack Club</a>.
           </Heading>
           <Text
             as="p"
@@ -419,8 +419,8 @@ export default function Bin() {
             mb={3}
             sx={{ width: ['85%', '75%', '60%'] }}
           >
-            Hack Club is a registered 501(c)3 nonprofit organization that
-            supports a network of 20k+ technical high schoolers. We believe you
+            Ack Club is a registered 501(c)3 nonprofit organization that
+            supports a network of 20k+ technical igh schoolers. We believe you
             learn best by building so we're removing barriers to hardware access
             so any teenager can explore. In the past few years, we{' '}
             <Link href="https://onboard.hackclub.com" target="_blank">

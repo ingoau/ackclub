@@ -10,7 +10,7 @@ export default async function handler(req, res) {
       const response = await fetch(url, { method: 'POST' })
 
       if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`)
+        throw new Error(`TTP error! status: ${response.status}`)
       }
 
       const data = await response.json()
